@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T19:00:51.798Z",
+  "generatedAt": "2026-08-24T19:12:14.553Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -3402,27 +3402,6 @@
       ],
       "subgenres": [
         "Pop Punk"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mt77v8c4qvgcd",
-      "artist": "Eric Clapton",
-      "album": "Unplugged",
-      "price": "150",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Blues Rock"
       ],
       "reserved": false
     },
