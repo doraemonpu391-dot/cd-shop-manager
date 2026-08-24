@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T05:45:56.653Z",
+  "generatedAt": "2026-08-24T12:32:58.212Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -3402,6 +3402,195 @@
       ],
       "subgenres": [
         "Pop Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mt77v8c4qvgcd",
+      "artist": "Eric Clapton",
+      "album": "Unplugged",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Blues Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mt77v8c7tjdj8",
+      "artist": "Paul McCartney",
+      "album": "Driving Rain",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2001日版(TOCP-65870)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mt77v8c7ajovf",
+      "artist": "Eric Clapton",
+      "album": "Slowhand",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1996美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Blues Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mt77v8c7g3jf4",
+      "artist": "Daniel Powter",
+      "album": "DP",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mt77v8c7clg9a",
+      "artist": "Led Zeppelin",
+      "album": "Houses Of The Holy",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2014歐版(8122-79582-8)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Classic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mt77v8c7fnlmo",
+      "artist": "Lene Marlin",
+      "album": "Another Day",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "台版紙盒，HDCD",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Soft Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mt77v8c7o3uth",
+      "artist": "The Cardigans",
+      "album": "First Band On The Moon",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1996日版(POCP-7170)，限定封面",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mt77v8c86gukq",
+      "artist": "Jeff Beck",
+      "album": "Blow By Blow",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2001美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Jazz Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mt77v8c808izk",
+      "artist": "King Crimson",
+      "album": "Larks' Tongues In Aspic",
+      "price": "600",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2005歐版(DGM0505)，24-bit remaster 30週年紀念版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Prog Rock"
       ],
       "reserved": false
     }
