@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T12:41:04.791Z",
+  "generatedAt": "2026-08-24T15:27:47.671Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -3406,27 +3406,6 @@
       "reserved": false
     },
     {
-      "id": "mt77v8c4qvgcd",
-      "artist": "Eric Clapton",
-      "album": "Unplugged",
-      "price": "150",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Blues Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mt77v8c7tjdj8",
       "artist": "Paul McCartney",
       "album": "Driving Rain",
@@ -3640,7 +3619,7 @@
   ],
   "promoRules": [
     {
-      "name": "常態優惠",
+      "name": "長期優惠",
       "mode": "every",
       "metric": "qty",
       "n": 3,
@@ -3648,12 +3627,12 @@
       "value": 50
     },
     {
-      "name": "免運優惠",
+      "name": "滿額免運",
       "mode": "atLeast",
       "metric": "money",
       "n": 2000,
       "kind": "freeship",
-      "value": 100
+      "value": 0
     }
   ]
 }
