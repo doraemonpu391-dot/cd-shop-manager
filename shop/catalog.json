@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T15:27:47.671Z",
+  "generatedAt": "2026-08-24T19:00:51.798Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -3406,6 +3406,27 @@
       "reserved": false
     },
     {
+      "id": "mt77v8c4qvgcd",
+      "artist": "Eric Clapton",
+      "album": "Unplugged",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Blues Rock"
+      ],
+      "reserved": false
+    },
+    {
       "id": "mt77v8c7tjdj8",
       "artist": "Paul McCartney",
       "album": "Driving Rain",
@@ -3423,27 +3444,6 @@
       ],
       "subgenres": [
         "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mt77v8c7ajovf",
-      "artist": "Eric Clapton",
-      "album": "Slowhand",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1996美版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Blues Rock"
       ],
       "reserved": false
     },
@@ -3551,27 +3551,6 @@
         "Jazz Rock"
       ],
       "reserved": false
-    },
-    {
-      "id": "mt77v8c808izk",
-      "artist": "King Crimson",
-      "album": "Larks' Tongues In Aspic",
-      "price": "600",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2005歐版(DGM0505)，24-bit remaster 30週年紀念版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Prog Rock"
-      ],
-      "reserved": false
     }
   ],
   "promo": "🛍️買三片折50六片100，依此類推，歡迎選購！🚚滿兩千享免運優惠",
@@ -3619,7 +3598,7 @@
   ],
   "promoRules": [
     {
-      "name": "長期優惠",
+      "name": "常態優惠",
       "mode": "every",
       "metric": "qty",
       "n": 3,
@@ -3627,12 +3606,12 @@
       "value": 50
     },
     {
-      "name": "滿額免運",
+      "name": "免運優惠",
       "mode": "atLeast",
       "metric": "money",
       "n": 2000,
       "kind": "freeship",
-      "value": 0
+      "value": 100
     }
   ]
 }
