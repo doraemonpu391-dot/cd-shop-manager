@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T11:10:11.217Z",
+  "generatedAt": "2026-08-25T11:19:14.452Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -2464,8 +2464,8 @@
       "id": "msyb5xtzw2v01",
       "artist": "The Smiths",
       "album": "The Queen Is Dead",
-      "price": "500",
-      "origPrice": "",
+      "price": "400",
+      "origPrice": "500",
       "noPromo": false,
       "notes": "",
       "sideLabel": false,
