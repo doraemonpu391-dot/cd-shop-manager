@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T08:35:50.229Z",
+  "generatedAt": "2026-08-25T11:10:11.217Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -3507,6 +3507,195 @@
       ],
       "subgenres": [
         "Jazz Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mt8kcm802jsfa",
+      "artist": "Michael Jackson",
+      "album": "Dangerous",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1991美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Dance-Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mt8kcm83d2mni",
+      "artist": "The Beatles",
+      "album": "Let It Be",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1987歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mt8kcm83vz8qc",
+      "artist": "Oasis",
+      "album": "(What's The Story) Morning Glory?",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1995英版，Nimbus pressing",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Britpop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mt8kcm84gvu48",
+      "artist": "The Beatles",
+      "album": "Abbey Road",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1987日版(CP32-5332)，Beatles 25週年紀念系列，含英、日文歌詞、介紹",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mt8kcm84gsfzp",
+      "artist": "Sex Pistols",
+      "album": "Never Mind The Bollocks Here's The Sex Pistols",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1999日版(TOCP-53098)，含英、日文歌詞、介紹",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mt8kcm84baln7",
+      "artist": "The Mars Volta",
+      "album": "Frances The Mute",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2005歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Prog Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mt8kcm848lzdq",
+      "artist": "Yes",
+      "album": "Fragile",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1994歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Prog Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mt8kcm849am3c",
+      "artist": "Portishead",
+      "album": "Portishead",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1997歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Electronic"
+      ],
+      "subgenres": [
+        "Trip Hop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mt8kcm84rhx35",
+      "artist": "The Verve",
+      "album": "Urban Hymns",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1997歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Britpop"
       ],
       "reserved": false
     }
