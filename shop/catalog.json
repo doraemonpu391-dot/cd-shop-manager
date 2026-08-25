@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T19:12:14.553Z",
+  "generatedAt": "2026-08-25T08:35:50.229Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -3413,27 +3413,6 @@
       "origPrice": "",
       "noPromo": false,
       "notes": "2001日版(TOCP-65870)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mt77v8c7g3jf4",
-      "artist": "Daniel Powter",
-      "album": "DP",
-      "price": "100",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "",
       "sideLabel": false,
       "hasImage": true,
       "regions": [
