@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T11:19:14.452Z",
+  "generatedAt": "2026-08-25T15:46:43.660Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -3553,27 +3553,6 @@
       "reserved": false
     },
     {
-      "id": "mt8kcm83vz8qc",
-      "artist": "Oasis",
-      "album": "(What's The Story) Morning Glory?",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1995英版，Nimbus pressing",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Britpop"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mt8kcm84gvu48",
       "artist": "The Beatles",
       "album": "Abbey Road",
@@ -3745,7 +3724,7 @@
   ],
   "promoRules": [
     {
-      "name": "常態優惠",
+      "name": "長期優惠",
       "mode": "every",
       "metric": "qty",
       "n": 3,
@@ -3753,12 +3732,12 @@
       "value": 50
     },
     {
-      "name": "免運優惠",
+      "name": "滿額免運",
       "mode": "atLeast",
       "metric": "money",
       "n": 2000,
       "kind": "freeship",
-      "value": 100
+      "value": 0
     }
   ]
 }
