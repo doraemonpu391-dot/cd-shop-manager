@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T12:10:32.170Z",
+  "generatedAt": "2026-08-26T12:41:18.280Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -3465,6 +3465,195 @@
       ],
       "subgenres": [
         "Britpop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mta31n6z0fwm0",
+      "artist": "The Beatles",
+      "album": "White Album",
+      "price": "800",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2009限量精裝版，2CD，含紙套、歌詞小海報、相冊歌詞本、CD2含迷你紀錄片",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Art Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mta31n704pju1",
+      "artist": "The Beatles",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1987美版(DIDX 1709)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Psychedelic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mta31n70tn30z",
+      "artist": "The Beatles",
+      "album": "Rubber Soul",
+      "price": "500",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1998日版(TOCP-51116)，含英、日文歌詞及逐首解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Folk Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mta31n70ngd4h",
+      "artist": "Various",
+      "album": "Trainspotting #2 (Music From The Motion Picture Vol #2)",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1997荷版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Soundtrack/Stage"
+      ],
+      "subgenres": [
+        "Soundtrack/Stage"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mta31n70j62i3",
+      "artist": "The La's",
+      "album": "The La's",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1998日版(POCD-1982)，含英、日文歌詞及解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mta31n70eqkjl",
+      "artist": "Guns N' Roses",
+      "album": "Appetite For Destruction",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1991日版(MVCG-12)，含英、日文歌詞及解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Hard Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mta31n700rslt",
+      "artist": "The Stone Roses",
+      "album": "Second Coming",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1994歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mta31n70g9ytc",
+      "artist": "Rodrigo Y Gabriela",
+      "album": "Rodrigo Y Gabriela",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2007北美版，CD+DVD",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Latin Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mta31n70usxko",
+      "artist": "Yngwie J. Malmsteen",
+      "album": "Rising Force",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "西德版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Metal"
+      ],
+      "subgenres": [
+        "Heavy Metal"
       ],
       "reserved": false
     }
