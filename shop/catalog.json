@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T15:46:43.660Z",
+  "generatedAt": "2026-08-26T02:45:38.516Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -634,27 +634,6 @@
       "reserved": false
     },
     {
-      "id": "mrnrpba92vq1o",
-      "artist": "Whitney Houston",
-      "album": "Whitney",
-      "price": "100",
-      "origPrice": "150",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Synth-Pop"
-      ],
-      "reserved": true
-    },
-    {
       "id": "mrq6y8xh7kh6u",
       "artist": "Wham!",
       "album": "The Final",
@@ -1138,27 +1117,6 @@
       "reserved": false
     },
     {
-      "id": "mryyh9b8uj1kj",
-      "artist": "Aerosmith",
-      "album": "Draw The Line",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "日版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Hard Rock"
-      ],
-      "reserved": true
-    },
-    {
       "id": "ms1jfcf1paqhn",
       "artist": "The White Stripes",
       "album": "Get Behind Me Satan",
@@ -1325,48 +1283,6 @@
         "Prog Metal"
       ],
       "reserved": false
-    },
-    {
-      "id": "ms5wfzajuc691",
-      "artist": "Journey",
-      "album": "Greatest Hits",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "日版(25DP 5364)",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Classic Rock"
-      ],
-      "reserved": true
-    },
-    {
-      "id": "ms5wfzajdvobj",
-      "artist": "Guns N' Roses",
-      "album": "Use Your Illusion I",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1991日版(MVCG-43)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Hard Rock"
-      ],
-      "reserved": true
     },
     {
       "id": "ms8y40pq0lric",
@@ -2188,27 +2104,6 @@
       "reserved": false
     },
     {
-      "id": "mssy2rdlxb42z",
-      "artist": "Weezer",
-      "album": "Weezer(Blue Album)",
-      "price": "350",
-      "origPrice": "400",
-      "noPromo": false,
-      "notes": "日版(UICY-25049)",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Alt-Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "msvqwqjluszjk",
       "artist": "The Chemical Brothers",
       "album": "Surrender",
@@ -2352,27 +2247,6 @@
       ],
       "subgenres": [
         "Jazz Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "msyb5xtw0scr4",
-      "artist": "Radiohead",
-      "album": "OK Computer",
-      "price": "500",
-      "origPrice": "800",
-      "noPromo": false,
-      "notes": "稀有，1997日本先行發售首版(TOCP-50201)，側標印有「1ヶ月 日本先行発売!」",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Alt-Rock"
       ],
       "reserved": false
     },
@@ -2524,27 +2398,6 @@
       "reserved": false
     },
     {
-      "id": "msyb5xtzkast1",
-      "artist": "F.I.R. 飛兒樂團",
-      "album": "同名專輯",
-      "price": "60",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "有外紙盒，無封面",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "華語"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "msyo1qggzgglh",
       "artist": "Daniel Powter",
       "album": "Under The Radar",
@@ -2604,27 +2457,6 @@
       ],
       "subgenres": [
         "Industrial Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "msyo1qgjysqxw",
-      "artist": "Dream Theater",
-      "album": "Once In A Livetime",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2CD",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Metal"
-      ],
-      "subgenres": [
-        "Prog Metal"
       ],
       "reserved": false
     },
@@ -2690,27 +2522,6 @@
         "Thrash Metal"
       ],
       "reserved": false
-    },
-    {
-      "id": "mt042t1p5vjtj",
-      "artist": "The Cars",
-      "album": "The Cars Greatest Hits",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "New Wave"
-      ],
-      "reserved": true
     },
     {
       "id": "mt042t1t07lxj",
@@ -3574,27 +3385,6 @@
       "reserved": false
     },
     {
-      "id": "mt8kcm84gsfzp",
-      "artist": "Sex Pistols",
-      "album": "Never Mind The Bollocks Here's The Sex Pistols",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1999日版(TOCP-53098)，含英、日文歌詞、介紹",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Punk"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mt8kcm84baln7",
       "artist": "The Mars Volta",
       "album": "Frances The Mute",
@@ -3724,7 +3514,7 @@
   ],
   "promoRules": [
     {
-      "name": "長期優惠",
+      "name": "常態優惠",
       "mode": "every",
       "metric": "qty",
       "n": 3,
@@ -3732,12 +3522,12 @@
       "value": 50
     },
     {
-      "name": "滿額免運",
+      "name": "免運優惠",
       "mode": "atLeast",
       "metric": "money",
       "n": 2000,
       "kind": "freeship",
-      "value": 0
+      "value": 100
     }
   ]
 }
