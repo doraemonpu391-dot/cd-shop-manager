@@ -89,6 +89,7 @@
   .fb-btn{position:fixed; right:16px; bottom:16px; z-index:900; background:var(--brand); color:#fff;
     border:none; border-radius:22px; padding:10px 18px; font-size:13.5px; font-family:inherit;
     cursor:pointer; box-shadow:0 4px 14px rgba(0,0,0,.35);}
+  .fb-btn{transition:bottom .18s ease;}
   .fb-btn:hover{filter:brightness(1.1);}
   .fb-mask{position:fixed; inset:0; background:rgba(8,6,6,.72); z-index:1000;
     display:flex; align-items:center; justify-content:center; padding:20px;}
@@ -614,10 +615,19 @@
     });
     wrap.style.display = 'inline-flex';
   }
+  // 選購列是 position:fixed 貼在底部，手機上會折成兩行，會蓋住「意見回饋」浮動鈕。
+  // 用執行時量測的高度把按鈕頂上去（不寫死數字，選購列換行也會跟著對）。
+  function positionFbBtn(){
+    var fb = document.getElementById('fbBtn');
+    var bar = document.getElementById('selbar');
+    if(!fb) return;
+    var barUp = bar && bar.style.display === 'block';
+    fb.style.bottom = barUp ? (bar.offsetHeight + 12) + 'px' : '';
+  }
   function updateBar(){
     var n = Object.keys(SELECTED).length;
     var bar = document.getElementById('selbar');
-    if(!n){ bar.style.display='none'; return; }
+    if(!n){ bar.style.display='none'; positionFbBtn(); return; }
     var sub = subtotal();
     var r = computePromo(pricedCount(), promoSubtotal(), PROMO_RULES, 0, sub);
     // 全部用 textContent 逐段組——規則名稱是自訂字串，用 innerHTML 會變成公開站的注入點
@@ -652,6 +662,7 @@
       info.appendChild(g);
     }
     bar.style.display='block';
+    positionFbBtn();
   }
   function syncCards(){
     Array.prototype.forEach.call(document.querySelectorAll('.card'), function(card){
@@ -873,6 +884,7 @@
     var btn = document.getElementById('fbBtn'); if(!btn) return;
     if(!fbTrackUrl()) return;                    // 沒設追蹤網址就不顯示按鈕
     btn.style.display = '';
+    positionFbBtn();                             // 按鈕是載入 catalog 後才出現，補位一次
     var mask = document.getElementById('fbMask');
     var hint = document.getElementById('fbHint');
     var open = function(){ mask.style.display = 'flex'; hint.textContent = ''; document.getElementById('fbMsg').focus(); };
@@ -967,6 +979,8 @@
     document.getElementById('priceMin').addEventListener('input', applyFilter);
     document.getElementById('priceMax').addEventListener('input', applyFilter);
     document.getElementById('saleOnly').addEventListener('change', applyFilter);
+    // 轉向或縮放會讓選購列重新折行（高度改變），浮動鈕要跟著重新定位
+    window.addEventListener('resize', positionFbBtn);
     document.getElementById('clearFilters').addEventListener('click', clearFilters);
   }).catch(function(){
     document.getElementById('empty').style.display='block';
