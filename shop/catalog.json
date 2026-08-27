@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T12:54:41.338Z",
+  "generatedAt": "2026-08-27T07:58:54.354Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -2062,27 +2062,6 @@
       "reserved": false
     },
     {
-      "id": "mssy2rdlo74x3",
-      "artist": "New Order",
-      "album": "Get Ready",
-      "price": "200",
-      "origPrice": "250",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Synth-Pop"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mssy2rdlby8lj",
       "artist": "The Clash",
       "album": "The Clash",
@@ -3448,27 +3427,6 @@
       "reserved": false
     },
     {
-      "id": "mt8kcm84rhx35",
-      "artist": "The Verve",
-      "album": "Urban Hymns",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1997歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Britpop"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mta31n6z0fwm0",
       "artist": "The Beatles",
       "album": "White Album",
@@ -3528,27 +3486,6 @@
       ],
       "subgenres": [
         "Folk Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mta31n70ngd4h",
-      "artist": "Various",
-      "album": "Trainspotting #2 (Music From The Motion Picture Vol #2)",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1997荷版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Soundtrack/Stage"
-      ],
-      "subgenres": [
-        "Soundtrack/Stage"
       ],
       "reserved": false
     },
