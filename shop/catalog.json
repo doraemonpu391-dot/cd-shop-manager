@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T07:58:54.354Z",
+  "generatedAt": "2026-08-27T09:55:09.150Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -3591,6 +3591,195 @@
       ],
       "subgenres": [
         "Heavy Metal"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtbcjtc6lokob",
+      "artist": "Jimi Hendrix",
+      "album": "Experience Hendrix - The Best Of Jimi Hendrix",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1997歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Psychedelic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtbcjtcadm196",
+      "artist": "The Chemical Brothers",
+      "album": "Further",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2010日版(TOCP-66960)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Electronic"
+      ],
+      "subgenres": [
+        "Electro House"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtbcjtcajcj28",
+      "artist": "Joy Division",
+      "album": "Closer",
+      "price": "450",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1989美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Post Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtbcjtcap4e08",
+      "artist": "Green Day",
+      "album": "International Superhits!",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2001歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtbcjtcakhdos",
+      "artist": "Celine Dion",
+      "album": "Falling Into You",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1996亞版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Soft Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtbcjtcar5knb",
+      "artist": "The Offspring",
+      "album": "Conspiracy Of One",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2000亞版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtbcjtca0azrq",
+      "artist": "The Doors",
+      "album": "Waiting For The Sun",
+      "price": "600",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1988日版(20P2-2345)",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Classic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtbcjtcak0402",
+      "artist": "Aphex Twin",
+      "album": "Richard D. James Album",
+      "price": "600",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1997美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Electronic"
+      ],
+      "subgenres": [
+        "IDM"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtbcjtcagso5v",
+      "artist": "George Winston",
+      "album": "Autumn (Piano Solos)",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1996日版(BVCW-601)",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Classical"
+      ],
+      "subgenres": [
+        "Modern Classical"
       ],
       "reserved": false
     }
