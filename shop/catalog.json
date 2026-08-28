@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T11:47:58.697Z",
+  "generatedAt": "2026-08-28T12:05:40.547Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -293,7 +293,7 @@
       "album": "Blurring The Edges",
       "price": "5",
       "origPrice": "",
-      "noPromo": false,
+      "noPromo": true,
       "genre": "Pop Rock",
       "notes": "僅冊本、底頁於塑膠套中，無CD（不適用折扣）",
       "sideLabel": false,
@@ -1101,7 +1101,7 @@
       "album": "Riot Act",
       "price": "100",
       "origPrice": "",
-      "noPromo": false,
+      "noPromo": true,
       "notes": "【特價】紙殼有明顯年代痕跡，側標黏在殼上，塑膠盤脫落",
       "sideLabel": true,
       "hasImage": true,
@@ -2256,7 +2256,7 @@
       "album": "Everybody Else Is Doing It, So Why Can't We?",
       "price": "20",
       "origPrice": "",
-      "noPromo": false,
+      "noPromo": true,
       "notes": "【特價】注意！封面是《No Need To Argue》但封底、CD本體皆是《Everybody Else Is Doing It, So Why Can't We?》",
       "sideLabel": false,
       "hasImage": true,
