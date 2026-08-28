@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T10:00:45.645Z",
+  "generatedAt": "2026-08-28T11:47:33.909Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -3780,6 +3780,195 @@
       ],
       "subgenres": [
         "Modern Classical"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtcw092y9ifib",
+      "artist": "Don Henley",
+      "album": "The End Of The Innocence",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1989歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtcw0930edaw1",
+      "artist": "Atomic Kitten",
+      "album": "The Greatest Hits",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2004台版，CD+VCD，含中英歌詞本、回函卡、來電答鈴",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Europop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtcw0930hxkqi",
+      "artist": "Alanis Morissette",
+      "album": "Jagged Little Pill",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1995台版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtcw0930nr8o9",
+      "artist": "Blind Melon",
+      "album": "Nico",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1996歐版，Enhanced CD",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtcw0930gsk3f",
+      "artist": "Annie Lennox",
+      "album": "Medusa",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1995美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Synth-Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtcw09307qzps",
+      "artist": "Various",
+      "album": "Music And Lyrics (Music From The Motion Picture)",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2007台版，側標折",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Soundtrack/Stage"
+      ],
+      "subgenres": [
+        "Soundtrack/Stage"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtcw0930tt5ir",
+      "artist": "Atomic Kitten",
+      "album": "Ladies Night",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2003台版，含紙盒、中英歌詞本、回函卡、",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Europop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtcw0930kwtow",
+      "artist": "Frente",
+      "album": "Shape",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1996美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtcw0930fkuhf",
+      "artist": "Maximilian Hecker",
+      "album": "Once I Was",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2007前衛花園台版，2CD",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Indie Pop"
       ],
       "reserved": false
     }
