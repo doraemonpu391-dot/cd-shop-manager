@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T12:43:18.210Z",
+  "generatedAt": "2026-08-28T12:58:05.739Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -3329,27 +3329,6 @@
       "origPrice": "",
       "noPromo": false,
       "notes": "1987歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mt8kcm84gvu48",
-      "artist": "The Beatles",
-      "album": "Abbey Road",
-      "price": "400",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1987日版(CP32-5332)，Beatles 25週年紀念系列，含英、日文歌詞、介紹",
       "sideLabel": false,
       "hasImage": true,
       "regions": [
