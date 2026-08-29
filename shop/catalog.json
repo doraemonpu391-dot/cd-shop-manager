@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T08:27:30.707Z",
+  "generatedAt": "2026-08-29T08:36:34.044Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -21,7 +21,7 @@
       "subgenres": [
         "Blues Rock"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "mr6uytd03x280",
@@ -3590,7 +3590,7 @@
       "subgenres": [
         "Pop Punk"
       ],
-      "reserved": true
+      "reserved": false
     },
     {
       "id": "mtbcjtca0azrq",
