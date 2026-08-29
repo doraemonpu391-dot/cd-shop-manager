@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T12:58:05.739Z",
+  "generatedAt": "2026-08-29T08:26:44.755Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -46,28 +46,6 @@
       "reserved": false
     },
     {
-      "id": "mr6uytd0r3idc",
-      "artist": "Björk",
-      "album": "Post",
-      "price": "200",
-      "origPrice": "300",
-      "noPromo": false,
-      "genre": "Art Pop",
-      "notes": "日版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Art Pop"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mr6uytd0bvg52",
       "artist": "The Libertines",
       "album": "Anthems For Doomed Youth",
@@ -88,28 +66,6 @@
         "Indie Rock"
       ],
       "reserved": true
-    },
-    {
-      "id": "mr9lfw762gc8b",
-      "artist": "Clannad",
-      "album": "Pastpresent",
-      "price": "70",
-      "origPrice": "150",
-      "noPromo": false,
-      "genre": "Celtic",
-      "notes": "",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Folk/Country"
-      ],
-      "subgenres": [
-        "Celtic"
-      ],
-      "reserved": false
     },
     {
       "id": "mr9lfw78kjmou",
@@ -2293,27 +2249,6 @@
       "reserved": false
     },
     {
-      "id": "msyb5xtz79r8h",
-      "artist": "Clannad",
-      "album": "Anam",
-      "price": "100",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Folk/Country"
-      ],
-      "subgenres": [
-        "Folk Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "msyb5xtzw2v01",
       "artist": "The Smiths",
       "album": "The Queen Is Dead",
@@ -2604,27 +2539,6 @@
       ],
       "subgenres": [
         "Post-Grunge"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mt042t1ttxiyl",
-      "artist": "Björk",
-      "album": "Selmasongs",
-      "price": "150",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Soundtrack/Stage"
-      ],
-      "subgenres": [
-        "Experimental"
       ],
       "reserved": false
     },
@@ -2940,27 +2854,6 @@
       ],
       "subgenres": [
         "Alt-Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mt4dlkq6g9u0v",
-      "artist": "Enigma",
-      "album": "The Cross Of Changes",
-      "price": "120",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Electronic"
-      ],
-      "subgenres": [
-        "New Age"
       ],
       "reserved": false
     },
@@ -3908,27 +3801,6 @@
         "Europop"
       ],
       "reserved": false
-    },
-    {
-      "id": "mtcw0930kwtow",
-      "artist": "Frente",
-      "album": "Shape",
-      "price": "100",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1996美版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Indie Rock"
-      ],
-      "reserved": true
     },
     {
       "id": "mtcw0930fkuhf",
