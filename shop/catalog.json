@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T19:32:35.149Z",
+  "generatedAt": "2026-08-30T10:05:47.011Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -2875,27 +2875,6 @@
       ],
       "subgenres": [
         "Classic Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mt4dlkq6ebxre",
-      "artist": "John Legend & The Roots",
-      "album": "Wake Up!",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "日版(SICP-2839)",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Hip-Hop/R&B"
-      ],
-      "subgenres": [
-        "Soul"
       ],
       "reserved": false
     },
