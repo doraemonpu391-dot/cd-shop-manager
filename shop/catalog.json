@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T10:14:16.551Z",
+  "generatedAt": "2026-08-30T11:29:04.538Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -3799,6 +3799,195 @@
       ],
       "subgenres": [
         "Indie Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtfq85nlqvcml",
+      "artist": "Daft Punk",
+      "album": "Discovery",
+      "price": "1500",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "極稀有！2001日版首版(VJCP-68283)，含首版限定松本零士設計封套，含「日本先行販売」側標、英文小海報歌詞、日文歌詞解說、貼紙組、團員小卡（附件照片可私訊索取）",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Electronic"
+      ],
+      "subgenres": [
+        "French House"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtfq85npdqlu2",
+      "artist": "Queen",
+      "album": "Greatest Hits",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1989日版(CP32-5381)，含英、日文歌詞、解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Classic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtfq85npbof69",
+      "artist": "Queen",
+      "album": "Jewels",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2004日版，含英、日文歌詞解說、樂團介紹",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Classic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtfq85np7gb3z",
+      "artist": "Queen",
+      "album": "Greatest Hits II",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1991日版，含英、日文歌詞解說、相片集",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Classic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtfq85npx1xmg",
+      "artist": "Madonna",
+      "album": "Erotica",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1992美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Dance-Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtfq85npmyrd7",
+      "artist": "Mogwai",
+      "album": "Happy Songs For Happy People",
+      "price": "500",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2003日版(TFCK-87316)，「日本先行販売」側標，含英、日文歌詞、解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Post Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtfq85np202fs",
+      "artist": "Pitbull",
+      "album": "Planet Pit (Deluxe Edition)",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2011美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Hip-Hop/R&B"
+      ],
+      "subgenres": [
+        "Pop Rap"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtfq85npma5hr",
+      "artist": "The Cardigans",
+      "album": "Life",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1995日版(POCP-7020)，含英、日文歌詞、解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtfq85nplnvrd",
+      "artist": "Lady Gaga",
+      "album": "The Fame Monster",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2009日版(UICS-9113/4)，2CD、雙封面",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Synth-Pop"
       ],
       "reserved": false
     }
