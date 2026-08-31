@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T12:10:07.367Z",
+  "generatedAt": "2026-08-31T07:01:39.877Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -284,28 +284,6 @@
       ],
       "subgenres": [
         "Indie Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mrfh8o6kzz3kk",
-      "artist": "Soft Cell",
-      "album": "Non-Stop Erotic Cabaret",
-      "price": "150",
-      "origPrice": "200",
-      "noPromo": false,
-      "genre": "Synth-pop",
-      "notes": "無殼，完整CD、冊本、底頁於塑膠套中（加裝CD殼+20）",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Synth-Pop"
       ],
       "reserved": false
     },
@@ -3211,27 +3189,6 @@
       ],
       "subgenres": [
         "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mt8kcm84baln7",
-      "artist": "The Mars Volta",
-      "album": "Frances The Mute",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2005歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Prog Rock"
       ],
       "reserved": false
     },
