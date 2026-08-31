@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T07:13:34.132Z",
+  "generatedAt": "2026-08-31T12:45:40.630Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -3945,6 +3945,195 @@
       ],
       "subgenres": [
         "Synth-Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mth8eiyd9us7d",
+      "artist": "Pet Shop Boys",
+      "album": "Very",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1993日版(TOCP-8065)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Electronic"
+      ],
+      "subgenres": [
+        "Synth-Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mth8eiyhpsg7p",
+      "artist": "Boom Boom Satellites",
+      "album": "On",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2006日版(SRCP 401)，全新未拆",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "日本"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Electro Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mth8eiyht1pv7",
+      "artist": "Bon Jovi",
+      "album": "Bounce",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2002台版，含紙盒、12張相片月曆卡",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Hard Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mth8eiyh03s5m",
+      "artist": "The Rolling Stones",
+      "album": "Sticky Fingers",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1989日版(23DP 5569)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Blues Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mth8eiyh549zc",
+      "artist": "Jamiroquai",
+      "album": "Synkronized",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1999日版(ESCA 8006)",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Acid Jazz"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mth8eiyh1pvxo",
+      "artist": "Janet Jackson",
+      "album": "Rhythm Nation 1814",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1989日版(PCCY-10001)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "New Jack Swing"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mth8eiyhfd5st",
+      "artist": "The Verve",
+      "album": "Urban Hymns",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Britpop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mth8eiyhmvz9z",
+      "artist": "The Used",
+      "album": "In Love And Death",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2005美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mth8eiyhzmxhj",
+      "artist": "Mike Oldfield",
+      "album": "Tubular Bells II",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1992歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "New Age"
       ],
       "reserved": false
     }
