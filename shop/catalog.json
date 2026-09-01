@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T09:24:41.676Z",
+  "generatedAt": "2026-09-01T12:54:59.443Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -4071,6 +4071,195 @@
       ],
       "subgenres": [
         "New Age"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtio6dncjfbkz",
+      "artist": "Nine Inch Nails",
+      "album": "The Fragile",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1999美版，2CD",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Industrial Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtio6dne45tm4",
+      "artist": "Carole King",
+      "album": "Tapestry",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1991日版(ESCA 5283)，含日文解說、歌詞",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Folk Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtio6dnezt7hr",
+      "artist": "Blur",
+      "album": "The Best Of",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2000歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Britpop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtio6dnely0oa",
+      "artist": "Red Hot Chili Peppers",
+      "album": "By The Way",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2003日版(WPCR-11300)，含日文解說、歌詞",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtio6dne8qdjl",
+      "artist": "Def Leppard",
+      "album": "Adrenalize",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1992日版(PHCR-1161)，含日文解說、歌詞",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Hard Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtio6dnehgc18",
+      "artist": "The Offspring",
+      "album": "Smash",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1994美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtio6dnegxoxu",
+      "artist": "The Beatles",
+      "album": "Revolver",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1987日版(CP32-5327)，含日文解說、歌詞",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtio6dnefttal",
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1997日版(ESCA 6767)，含日文解說、歌詞",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Britpop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtio6dnedldht",
+      "artist": "Oasis",
+      "album": "Heathen Chemistry",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2002台版，含中、英歌詞",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Britpop"
       ],
       "reserved": false
     }
