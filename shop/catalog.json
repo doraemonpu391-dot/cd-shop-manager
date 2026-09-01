@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T12:45:40.630Z",
+  "generatedAt": "2026-09-01T06:50:37.554Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -4012,27 +4012,6 @@
       "reserved": false
     },
     {
-      "id": "mth8eiyh03s5m",
-      "artist": "The Rolling Stones",
-      "album": "Sticky Fingers",
-      "price": "400",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1989日版(23DP 5569)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Blues Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mth8eiyh549zc",
       "artist": "Jamiroquai",
       "album": "Synkronized",
@@ -4050,48 +4029,6 @@
       ],
       "subgenres": [
         "Acid Jazz"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mth8eiyh1pvxo",
-      "artist": "Janet Jackson",
-      "album": "Rhythm Nation 1814",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1989日版(PCCY-10001)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "New Jack Swing"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mth8eiyhfd5st",
-      "artist": "The Verve",
-      "album": "Urban Hymns",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "美版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Britpop"
       ],
       "reserved": false
     },
@@ -4178,6 +4115,10 @@
     },
     {
       "name": "面交",
+      "hasFee": false
+    },
+    {
+      "name": "郵寄",
       "hasFee": false
     }
   ],
