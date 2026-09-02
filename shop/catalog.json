@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T08:28:46.199Z",
+  "generatedAt": "2026-09-02T12:31:50.754Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -4218,6 +4218,195 @@
       ],
       "subgenres": [
         "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtk2sg53bngq3",
+      "artist": "Jimmy Page & Robert Plant",
+      "album": "No Quarter: Jimmy Page & Robert Plant Unledded",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1994歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Classic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtk2sg569fg97",
+      "artist": "Steely Dan",
+      "album": "Aja",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "日版(20P2-2055)，含英、日文歌詞、解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Jazz Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtk2sg56dgntp",
+      "artist": "The Police",
+      "album": "Reggatta De Blanc",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1988美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Classic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtk2sg56d55gg",
+      "artist": "Beck",
+      "album": "Sea Change",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2002美版，HDCD",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtk2sg56asm4w",
+      "artist": "Radiohead",
+      "album": "Kid A",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2000歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Experimental Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtk2sg56b63qu",
+      "artist": "The Beach Boys",
+      "album": "Pet Sounds",
+      "price": "600",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1997日版(TOCP-3322)，Mono",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Art Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtk2sg56gsbu9",
+      "artist": "Sum 41",
+      "album": "Underclass Hero",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2007日版(UICL-1067)，含英、日文歌詞解說、日本發行紀念活動抽獎券",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtk2sg56ztewb",
+      "artist": "Björk",
+      "album": "Medúlla (SACD)",
+      "price": "1200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2004日版(UIGP-1001)，多聲道\\雙聲道混合SACD，含日版限定Bonus Track",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Experimental"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtk2sg56ptsec",
+      "artist": "伍佰",
+      "album": "白鴿",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2CD",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "台語"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Hard Rock"
       ],
       "reserved": false
     }
