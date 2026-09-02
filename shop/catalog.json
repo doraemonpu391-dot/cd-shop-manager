@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T12:31:50.754Z",
+  "generatedAt": "2026-09-02T17:22:33.059Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -22,28 +22,6 @@
         "Blues Rock"
       ],
       "reserved": true
-    },
-    {
-      "id": "mr6uytd03x280",
-      "artist": "Cyndi Lauper",
-      "album": "Hat Full Of Stars",
-      "price": "50",
-      "origPrice": "100",
-      "noPromo": false,
-      "genre": "Synth-pop",
-      "notes": "封面水傷",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Synth-Pop"
-      ],
-      "reserved": false
     },
     {
       "id": "mr6uytd0bvg52",
@@ -862,27 +840,6 @@
       "reserved": true
     },
     {
-      "id": "mrvfuwhsd665i",
-      "artist": "Dream Theater",
-      "album": "Falling Into Infinity",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Metal"
-      ],
-      "subgenres": [
-        "Prog Metal"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mrvfuwhs03i06",
       "artist": "Dream Theater",
       "album": "Awake",
@@ -1194,27 +1151,6 @@
       ],
       "subgenres": [
         "Post Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "ms5wfzajeb04e",
-      "artist": "Dream Theater",
-      "album": "Octavarium",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Metal"
-      ],
-      "subgenres": [
-        "Prog Metal"
       ],
       "reserved": false
     },
@@ -2080,27 +2016,6 @@
       "reserved": false
     },
     {
-      "id": "msvqwqjn0jgzu",
-      "artist": "Emerson, Lake & Palmer",
-      "album": "Trilogy",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1988日版(20P2-2050)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "大衛"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Prog Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "msvqwqjn1necf",
       "artist": "Air",
       "album": "Moon Safari",
@@ -2412,27 +2327,6 @@
       ],
       "subgenres": [
         "Thrash Metal"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mt042t1t07lxj",
-      "artist": "Emerson, Lake & Palmer",
-      "album": "Pictures At An Exhibition",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1999日版(VICP-60741)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Prog Rock"
       ],
       "reserved": false
     },
@@ -3781,27 +3675,6 @@
       "reserved": false
     },
     {
-      "id": "mtfq85npdqlu2",
-      "artist": "Queen",
-      "album": "Greatest Hits",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1989日版(CP32-5381)，含英、日文歌詞、解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Classic Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mtfq85npbof69",
       "artist": "Queen",
       "album": "Jewels",
@@ -4218,27 +4091,6 @@
       ],
       "subgenres": [
         "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtk2sg53bngq3",
-      "artist": "Jimmy Page & Robert Plant",
-      "album": "No Quarter: Jimmy Page & Robert Plant Unledded",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1994歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Classic Rock"
       ],
       "reserved": false
     },
