@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T07:39:10.626Z",
+  "generatedAt": "2026-09-03T11:51:20.913Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -4232,6 +4232,191 @@
       "hasImage": true,
       "regions": [
         "台語"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Hard Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtlgs7s8zdr9g",
+      "artist": "Jimi Hendrix",
+      "album": "The Ultimate Experience",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1991日版(POCP-1270)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Psychedelic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtlgs7sc0star",
+      "artist": "Sade",
+      "album": "Promise",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1985美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Smooth Jazz"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtlgs7scqn2ty",
+      "artist": "Skid Row",
+      "album": "Thickskin",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2003美版",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Hard Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtlgs7sc1g03c",
+      "artist": "Rainbow",
+      "album": "The Best !",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1990日版(POCP-1518)，日本限定精選輯",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Hard Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtlgs7scihrsf",
+      "artist": "Van Halen",
+      "album": "Diver Down",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1988日版(20P2-2034)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Hard Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtlgs7scesebz",
+      "artist": "Metallica",
+      "album": "Metallica",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1991歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [],
+      "subgenres": [],
+      "reserved": false
+    },
+    {
+      "id": "mtlgs7sccz3wq",
+      "artist": "Sade",
+      "album": "Diamond Life",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1985美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Smooth Jazz"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtlgs7scamz63",
+      "artist": "Steely Dan",
+      "album": "Gaucho",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1988日版(20P2-2056)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Jazz Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtlgs7sciwip8",
+      "artist": "Rainbow",
+      "album": "The Very Best Of Rainbow",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2004日版，含英、日文歌詞解說，Rainbow編年史海報",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
       ],
       "genres": [
         "Rock"
