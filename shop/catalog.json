@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T15:59:23.247Z",
+  "generatedAt": "2026-09-03T17:06:57.780Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -352,28 +352,6 @@
         "Pop Rock"
       ],
       "reserved": true
-    },
-    {
-      "id": "mrgb1d6iukfyp",
-      "artist": "Paul McCartney",
-      "album": "Flaming Pie",
-      "price": "120",
-      "origPrice": "200",
-      "noPromo": false,
-      "genre": "Rock",
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Classic Rock"
-      ],
-      "reserved": false
     },
     {
       "id": "mrgb1d6i90nvf",
@@ -2159,27 +2137,6 @@
       ],
       "subgenres": [
         "Contemporary R&B"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "msyo1qggzgglh",
-      "artist": "Daniel Powter",
-      "album": "Under The Radar",
-      "price": "100",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "含中文歌詞",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Pop Rock"
       ],
       "reserved": false
     },
@@ -4298,27 +4255,6 @@
       ],
       "genres": [],
       "subgenres": [],
-      "reserved": false
-    },
-    {
-      "id": "mtlgs7sccz3wq",
-      "artist": "Sade",
-      "album": "Diamond Life",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1985美版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Smooth Jazz"
-      ],
       "reserved": false
     },
     {
