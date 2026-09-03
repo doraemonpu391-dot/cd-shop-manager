@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T17:54:25.210Z",
+  "generatedAt": "2026-09-03T06:53:44.131Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -2455,27 +2455,6 @@
         "Folk Rock"
       ],
       "reserved": false
-    },
-    {
-      "id": "mt1vmv9a82k8i",
-      "artist": "Adele",
-      "album": "Rolling In The Deep",
-      "price": "60",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "單曲",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Soul"
-      ],
-      "reserved": true
     },
     {
       "id": "mt1vmv9aqwqwv",
