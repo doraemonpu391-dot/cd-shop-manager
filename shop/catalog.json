@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T11:51:20.913Z",
+  "generatedAt": "2026-09-03T15:59:23.247Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -1739,48 +1739,6 @@
       ],
       "subgenres": [
         "New Age"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "msrky9ue6nosp",
-      "artist": "Crosby, Stills, Nash & Young",
-      "album": "So Far",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Folk Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "msrky9ue5ylq3",
-      "artist": "Beck",
-      "album": "Modern Guilt",
-      "price": "150",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Alt-Rock"
       ],
       "reserved": false
     },
@@ -3988,27 +3946,6 @@
         "Britpop"
       ],
       "reserved": true
-    },
-    {
-      "id": "mtio6dnely0oa",
-      "artist": "Red Hot Chili Peppers",
-      "album": "By The Way",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2003日版(WPCR-11300)，含日文解說、歌詞",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Alt-Rock"
-      ],
-      "reserved": false
     },
     {
       "id": "mtio6dne8qdjl",
