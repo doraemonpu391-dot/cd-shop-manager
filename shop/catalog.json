@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T17:06:57.780Z",
+  "generatedAt": "2026-09-04T06:16:15.396Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -1994,27 +1994,6 @@
       "reserved": false
     },
     {
-      "id": "msvqwqjowxi8i",
-      "artist": "Steely Dan",
-      "album": "Two Against Nature",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Jazz Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "msyb5xtyh24n6",
       "artist": "Bruce Springsteen",
       "album": "Working On A Dream",
@@ -2074,27 +2053,6 @@
       ],
       "subgenres": [
         "New Age"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "msyb5xtzw2v01",
-      "artist": "The Smiths",
-      "album": "The Queen Is Dead",
-      "price": "400",
-      "origPrice": "500",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Indie Rock"
       ],
       "reserved": false
     },
@@ -4050,27 +4008,6 @@
         "Experimental Rock"
       ],
       "reserved": true
-    },
-    {
-      "id": "mtk2sg56b63qu",
-      "artist": "The Beach Boys",
-      "album": "Pet Sounds",
-      "price": "600",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1997日版(TOCP-3322)，Mono",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Art Rock"
-      ],
-      "reserved": false
     },
     {
       "id": "mtk2sg56gsbu9",
