@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T07:46:17.455Z",
+  "generatedAt": "2026-09-04T10:05:59.362Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -1717,6 +1717,27 @@
       ],
       "subgenres": [
         "New Age"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "msrky9ue6nosp",
+      "artist": "Crosby, Stills, Nash & Young",
+      "album": "So Far",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Folk Rock"
       ],
       "reserved": false
     },
@@ -3901,27 +3922,6 @@
       ],
       "subgenres": [
         "Punk"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtio6dnegxoxu",
-      "artist": "The Beatles",
-      "album": "Revolver",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1987日版(CP32-5327)，含日文解說、歌詞",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
       ],
       "reserved": false
     },
