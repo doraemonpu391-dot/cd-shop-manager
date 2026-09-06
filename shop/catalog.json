@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T10:21:13.146Z",
+  "generatedAt": "2026-09-06T06:57:09.483Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -4233,6 +4233,195 @@
       ],
       "subgenres": [
         "Hard Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtpglg5ss2jnt",
+      "artist": "Blur",
+      "album": "Think Tank",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2003日版(TOCP-66153)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtpglg5wf7vwj",
+      "artist": "Elbow",
+      "album": "Asleep In The Back",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2002歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtpglg5wo8qs4",
+      "artist": "Various",
+      "album": "The Bodyguard (Original Soundtrack Album)",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Soundtrack/Stage"
+      ],
+      "subgenres": [
+        "Soundtrack/Stage"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtpglg5wg9rer",
+      "artist": "Norah Jones",
+      "album": "Feels Like Home",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2004台版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Jazz"
+      ],
+      "subgenres": [
+        "Contemporary Jazz"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtpglg5wnqrmq",
+      "artist": "Alanis Morissette",
+      "album": "MTV Unplugged",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1999台版，含英文歌詞紙",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtpglg5wo557j",
+      "artist": "Yes",
+      "album": "90125",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1996日版(AMCY-4042)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtpglg5wmdwx5",
+      "artist": "Oasis",
+      "album": "(What's The Story) Morning Glory?",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1995日版(ESCA 6290)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Britpop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtpglg5wkxbdo",
+      "artist": "Pearl Jam",
+      "album": "Vs.",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1993澳版",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Grunge"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtpglg5waaaji",
+      "artist": "Mew",
+      "album": "Frengers",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2003歐版，側標黏在殼上",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Shoegaze"
       ],
       "reserved": false
     }
