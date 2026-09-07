@@ -167,6 +167,14 @@
     .lb-nav{width:36px; height:52px; font-size:24px; opacity:.55;}
     .lb-cap{font-size:13px;}
   }
+  /* 手機橫放時高度很吃緊：上下的字擠掉圖片的空間，圖會被壓扁甚至變成 0 高 */
+  @media(max-height:480px){
+    .lb-top{padding:6px 12px 4px;}
+    .lb-cap{font-size:12px; max-height:2.8em; overflow:hidden;}
+    .lb-bot{padding:6px 12px;}
+    .lb-hint{display:none;}
+    .lb-x{width:32px; height:32px; font-size:15px;}
+  }
   .body{padding:11px 12px 13px; display:flex; flex-direction:column; gap:6px; flex:1;}
   .name{font-weight:700; font-size:14.5px; line-height:1.35;}
   .price{
