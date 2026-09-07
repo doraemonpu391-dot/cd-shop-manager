@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T07:03:27.106Z",
+  "generatedAt": "2026-09-07T12:13:47.778Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -4422,6 +4422,195 @@
       ],
       "subgenres": [
         "Shoegaze"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtr7ci9lx1zyk",
+      "artist": "Green Day",
+      "album": "Bullet In A Bible",
+      "price": "500",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2005初回日盤(WPZR-30108~9)，CD+DVD，含透明塑膠殼、英日文歌詞解說、原裝塑膠套",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtr7ci9lkcmfm",
+      "artist": "Metallica",
+      "album": "Reload",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1997美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Metal"
+      ],
+      "subgenres": [
+        "Thrash Metal"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtr7ci9ltytgo",
+      "artist": "Lenny Kravitz",
+      "album": "Circus",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1995歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtr7ci9lqufn2",
+      "artist": "Mariah Carey",
+      "album": "Emotions",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1991日版(SRCS 5630)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Contemporary R&B"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtr7ci9lnw6iw",
+      "artist": "Slash's Snakepit",
+      "album": "It's Five O' Clock Somewhere",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1995美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Hard Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtr7ci9l2a5dv",
+      "artist": "Kasabian",
+      "album": "Empire",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2006歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtr7ci9lan8zz",
+      "artist": "Van Halen",
+      "album": "1984",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1989日版(20P2-2618)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Hard Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtr7ci9lcigeu",
+      "artist": "Mike Oldfield",
+      "album": "The Songs Of Distant Earth",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1994德版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Electronic"
+      ],
+      "subgenres": [
+        "New Age"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtr7ci9lt8m00",
+      "artist": "Stevie Wonder",
+      "album": "Conversation Peace",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1995日版(POCT-1055)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Hip-Hop/R&B"
+      ],
+      "subgenres": [
+        "Soul"
       ],
       "reserved": false
     }
