@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T13:10:21.796Z",
+  "generatedAt": "2026-09-08T16:05:37.831Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -2429,6 +2429,27 @@
       "reserved": false
     },
     {
+      "id": "mta31n704pju1",
+      "artist": "The Beatles",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1987美版(DIDX 1709)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Psychedelic Rock"
+      ],
+      "reserved": false
+    },
+    {
       "id": "mta31n70tn30z",
       "artist": "The Beatles",
       "album": "Rubber Soul",
@@ -4007,7 +4028,7 @@
   ],
   "promoRules": [
     {
-      "name": "長期優惠",
+      "name": "常態優惠",
       "mode": "every",
       "metric": "qty",
       "n": 3,
@@ -4015,12 +4036,12 @@
       "value": 50
     },
     {
-      "name": "滿額免運",
+      "name": "免運優惠",
       "mode": "atLeast",
       "metric": "money",
       "n": 2000,
       "kind": "freeship",
-      "value": 0
+      "value": 100
     }
   ]
 }
