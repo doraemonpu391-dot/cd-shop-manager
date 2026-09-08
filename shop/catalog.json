@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T12:13:47.778Z",
+  "generatedAt": "2026-09-08T05:20:46.238Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -1721,27 +1721,6 @@
       "reserved": false
     },
     {
-      "id": "msrky9ue6nosp",
-      "artist": "Crosby, Stills, Nash & Young",
-      "album": "So Far",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Folk Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "msrky9ueoizim",
       "artist": "R.E.M.",
       "album": "New Adventures In Hi-Fi",
@@ -2368,27 +2347,6 @@
       ],
       "subgenres": [
         "Synth-Pop"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mt1vmv9avd9g5",
-      "artist": "The Peter Malick Group Featuring Norah Jones",
-      "album": "New York City",
-      "price": "150",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Jazz"
-      ],
-      "subgenres": [
-        "Contemporary Jazz"
       ],
       "reserved": false
     },
@@ -3355,27 +3313,6 @@
       ],
       "subgenres": [
         "Modern Classical"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtcw092y9ifib",
-      "artist": "Don Henley",
-      "album": "The End Of The Innocence",
-      "price": "100",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1989歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
       ],
       "reserved": false
     },
@@ -4510,27 +4447,6 @@
       "reserved": false
     },
     {
-      "id": "mtr7ci9lnw6iw",
-      "artist": "Slash's Snakepit",
-      "album": "It's Five O' Clock Somewhere",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1995美版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Hard Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mtr7ci9l2a5dv",
       "artist": "Kasabian",
       "album": "Empire",
@@ -4548,48 +4464,6 @@
       ],
       "subgenres": [
         "Indie Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtr7ci9lan8zz",
-      "artist": "Van Halen",
-      "album": "1984",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1989日版(20P2-2618)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Hard Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtr7ci9lcigeu",
-      "artist": "Mike Oldfield",
-      "album": "The Songs Of Distant Earth",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1994德版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Electronic"
-      ],
-      "subgenres": [
-        "New Age"
       ],
       "reserved": false
     },
