@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T06:23:57.893Z",
+  "generatedAt": "2026-09-08T12:25:15.529Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -20,28 +20,6 @@
       ],
       "subgenres": [
         "Blues Rock"
-      ],
-      "reserved": true
-    },
-    {
-      "id": "mr6uytd0bvg52",
-      "artist": "The Libertines",
-      "album": "Anthems For Doomed Youth",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "genre": "Rock",
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Indie Rock"
       ],
       "reserved": true
     },
@@ -178,28 +156,6 @@
       "reserved": false
     },
     {
-      "id": "mres7dmkgh67p",
-      "artist": "Frank Zappa",
-      "album": "Tinsel Town Rebellion",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "genre": "Prog Rock",
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Prog Rock"
-      ],
-      "reserved": true
-    },
-    {
       "id": "mrfh8o6h2jy6n",
       "artist": "Justin Timberlake",
       "album": "Futuresex/Lovesounds",
@@ -288,72 +244,6 @@
       "reserved": false
     },
     {
-      "id": "mrfh8o6k4h58i",
-      "artist": "David Bowie",
-      "album": "Aladdin Sane",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "genre": "Art Rock",
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Art Rock"
-      ],
-      "reserved": true
-    },
-    {
-      "id": "mrfh8o6ke5qf0",
-      "artist": "David Bowie",
-      "album": "Earthling",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "genre": "Art Rock",
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Art Rock"
-      ],
-      "reserved": true
-    },
-    {
-      "id": "mrgb1d6gu3aid",
-      "artist": "Fiona Apple",
-      "album": "Tidal",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "genre": "Pop",
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
-      ],
-      "reserved": true
-    },
-    {
       "id": "mrgb1d6i90nvf",
       "artist": "Cake",
       "album": "Comfort Eagle",
@@ -374,70 +264,6 @@
         "Alt-Rock"
       ],
       "reserved": false
-    },
-    {
-      "id": "mrgb1d6i5h6xz",
-      "artist": "R.E.M.",
-      "album": "Out Of Time",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "genre": "Alt-Rock",
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Alt-Rock"
-      ],
-      "reserved": true
-    },
-    {
-      "id": "mrko8z619gdza",
-      "artist": "Oasis",
-      "album": "Definitely Maybe",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Britpop"
-      ],
-      "reserved": true
-    },
-    {
-      "id": "mrko8z62fgvyn",
-      "artist": "R.E.M.",
-      "album": "Automatic For The People",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Alt-Rock"
-      ],
-      "reserved": true
     },
     {
       "id": "mrko8z62exzji",
@@ -713,27 +539,6 @@
       "reserved": false
     },
     {
-      "id": "mrrj1ibtzasnl",
-      "artist": "The Cranberries",
-      "album": "Everybody Else Is Doing It, So Why Can't We?",
-      "price": "150",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "含歌詞",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Alt-Rock"
-      ],
-      "reserved": true
-    },
-    {
       "id": "mrrj1ibtlxzut",
       "artist": "...And You Will Know Us By The Trail Of Dead",
       "album": "Madonna",
@@ -795,27 +600,6 @@
         "Art Rock"
       ],
       "reserved": false
-    },
-    {
-      "id": "mrvfuwhshrwwb",
-      "artist": "Tom Waits",
-      "album": "Bone Machine",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Experimental Rock"
-      ],
-      "reserved": true
     },
     {
       "id": "mrvfuwhs03i06",
@@ -1091,27 +875,6 @@
       "reserved": false
     },
     {
-      "id": "ms1jfcf1x95k9",
-      "artist": "Paul Weller",
-      "album": "Heavy Soul",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Indie Rock"
-      ],
-      "reserved": true
-    },
-    {
       "id": "ms5wfzaj547nm",
       "artist": "Mono",
       "album": "Hymn To The Immortal Wind",
@@ -1194,48 +957,6 @@
         "Hard Rock"
       ],
       "reserved": false
-    },
-    {
-      "id": "msbhxmoeez9lv",
-      "artist": "Norah Jones",
-      "album": "Feels Like Home",
-      "price": "100",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Jazz"
-      ],
-      "subgenres": [
-        "Contemporary Jazz"
-      ],
-      "reserved": true
-    },
-    {
-      "id": "msbhxmoenw00e",
-      "artist": "Annie Lennox",
-      "album": "Medusa + Live In Central Park(2CD)",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
-      ],
-      "reserved": true
     },
     {
       "id": "msbhxmoerg1nn",
@@ -1343,27 +1064,6 @@
       "reserved": false
     },
     {
-      "id": "msfx9ax7t5cq0",
-      "artist": "Carole King",
-      "album": "Tapestry",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "日版(ESCA-7614)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
-      ],
-      "reserved": true
-    },
-    {
       "id": "msfx9ax7fnz6q",
       "artist": "The Cranberries",
       "album": "To The Faithful Departed",
@@ -1448,27 +1148,6 @@
       "reserved": false
     },
     {
-      "id": "msk9c09vgb4dw",
-      "artist": "Nirvana",
-      "album": "MTV Unplugged In New York",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1994日版(MVCG-163)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Grunge"
-      ],
-      "reserved": true
-    },
-    {
       "id": "msk9c09vkjpcn",
       "artist": "Mike Oldfield",
       "album": "Tubular Bells",
@@ -1532,27 +1211,6 @@
       "reserved": false
     },
     {
-      "id": "msk9c09v53zhm",
-      "artist": "Madonna",
-      "album": "Ray Of Light",
-      "price": "150",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "RIP William Orbit",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Art Pop"
-      ],
-      "reserved": true
-    },
-    {
       "id": "msm5cnhaqlfkx",
       "artist": "Jake Bugg",
       "album": "Shangri La",
@@ -1572,90 +1230,6 @@
         "Folk Rock"
       ],
       "reserved": false
-    },
-    {
-      "id": "msm5cnhddzpts",
-      "artist": "Bad Religion",
-      "album": "Stranger Than Fiction",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Punk"
-      ],
-      "reserved": true
-    },
-    {
-      "id": "msm5cnhd7gns9",
-      "artist": "Air",
-      "album": "Pocket Symphony",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2007歐盤",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Electronic"
-      ],
-      "subgenres": [
-        "Synth-Pop"
-      ],
-      "reserved": true
-    },
-    {
-      "id": "msm5cnhd2bjhe",
-      "artist": "Broken Social Scene",
-      "album": "You Forgot It In People",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Indie Rock"
-      ],
-      "reserved": true
-    },
-    {
-      "id": "msm5cnhdpvp7v",
-      "artist": "Tears For Fears",
-      "album": "The Hurting",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "New Wave"
-      ],
-      "reserved": true
     },
     {
       "id": "msrky9ubeu924",
@@ -4485,6 +4059,195 @@
       ],
       "subgenres": [
         "Soul"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtsn73pop15w8",
+      "artist": "",
+      "album": "Use Your Illusion I",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1991日版(MVCG-43)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Hard Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtsn73pqnmcdy",
+      "artist": "The Beatles",
+      "album": "Beatles For Sale",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1987日版(CP32-5324)，Mono，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtsn73pq0f0e5",
+      "artist": "Prince",
+      "album": "Emancipation",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1996歐版，3CD",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Funk/Soul"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtsn73pqz7ibm",
+      "artist": "The Doors",
+      "album": "The Doors",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1997日版(AMCY-3040)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Psychedelic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtsn73pq3xm96",
+      "artist": "Joy Division",
+      "album": "Unknown Pleasures",
+      "price": "600",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2000歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Post Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtsn73pqlgmbn",
+      "artist": "Nirvana",
+      "album": "MTV Unplugged In New York",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1994美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Grunge"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtsn73pqmclpx",
+      "artist": "Green Dqy",
+      "album": "Warning:",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2000日版(WPCR-10850)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtsn73pqcqpnz",
+      "artist": "Blur",
+      "album": "Blur",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1997日版(TOCP-50088)，含英、日文歌詞解說，日版限定Bonus Track",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Britpop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtsn73prqediw",
+      "artist": "The Style Council",
+      "album": "The Cost Of Loving",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Electronic"
+      ],
+      "subgenres": [
+        "Synth-Pop"
       ],
       "reserved": false
     }
