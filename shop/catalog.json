@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T12:25:15.529Z",
+  "generatedAt": "2026-09-08T12:52:12.194Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -411,27 +411,6 @@
         "Synth-Pop"
       ],
       "reserved": false
-    },
-    {
-      "id": "mrq6y8xk098zh",
-      "artist": "Cocteau Twins",
-      "album": "Four-Calendar Café",
-      "price": "350",
-      "origPrice": "600",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Dreampop"
-      ],
-      "reserved": true
     },
     {
       "id": "mrq6y8xkfem4q",
@@ -1060,27 +1039,6 @@
       ],
       "subgenres": [
         "Blues Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "msfx9ax7fnz6q",
-      "artist": "The Cranberries",
-      "album": "To The Faithful Departed",
-      "price": "150",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "含歌詞紙、1996年寶麗金回函抽獎卡",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Alt-Rock"
       ],
       "reserved": false
     },
@@ -2072,27 +2030,6 @@
       "reserved": false
     },
     {
-      "id": "mt4dlkq6s475c",
-      "artist": "王菲",
-      "album": "菲賣品",
-      "price": "80",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "缺封面",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "粵語"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Mandopop"
-      ],
-      "reserved": true
-    },
-    {
       "id": "mt4dlkq6uhjk4",
       "artist": "Enigma",
       "album": "Love Sensuality Devotion (The Greatest Hits)",
@@ -2195,7 +2132,7 @@
       "subgenres": [
         "Britpop"
       ],
-      "reserved": true
+      "reserved": false
     },
     {
       "id": "mt5o7k05ii3y0",
@@ -2301,27 +2238,6 @@
         "Glam Rock"
       ],
       "reserved": false
-    },
-    {
-      "id": "mt5o7k05aewli",
-      "artist": "Nirvana",
-      "album": "Nevermind",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2011德版，20週年紀念版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Grunge"
-      ],
-      "reserved": true
     },
     {
       "id": "mt5o7k052p0l1",
@@ -2450,27 +2366,6 @@
       "reserved": true
     },
     {
-      "id": "mt8kcm802jsfa",
-      "artist": "Michael Jackson",
-      "album": "Dangerous",
-      "price": "400",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1991美版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Dance-Pop"
-      ],
-      "reserved": true
-    },
-    {
       "id": "mt8kcm83d2mni",
       "artist": "The Beatles",
       "album": "Let It Be",
@@ -2490,27 +2385,6 @@
         "Pop Rock"
       ],
       "reserved": false
-    },
-    {
-      "id": "mt8kcm848lzdq",
-      "artist": "Yes",
-      "album": "Fragile",
-      "price": "400",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1994歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Prog Rock"
-      ],
-      "reserved": true
     },
     {
       "id": "mt8kcm849am3c",
@@ -2551,27 +2425,6 @@
       ],
       "subgenres": [
         "Art Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mta31n704pju1",
-      "artist": "The Beatles",
-      "album": "Sgt. Pepper's Lonely Hearts Club Band",
-      "price": "400",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1987美版(DIDX 1709)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Psychedelic Rock"
       ],
       "reserved": false
     },
@@ -3185,27 +3038,6 @@
       "reserved": false
     },
     {
-      "id": "mtfq85nplnvrd",
-      "artist": "Lady Gaga",
-      "album": "The Fame Monster",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2009日版(UICS-9113/4)，2CD、雙封面",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Synth-Pop"
-      ],
-      "reserved": true
-    },
-    {
       "id": "mth8eiyd9us7d",
       "artist": "Pet Shop Boys",
       "album": "Very",
@@ -3374,27 +3206,6 @@
       "reserved": false
     },
     {
-      "id": "mtio6dnezt7hr",
-      "artist": "Blur",
-      "album": "The Best Of",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2000歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Britpop"
-      ],
-      "reserved": true
-    },
-    {
       "id": "mtio6dne8qdjl",
       "artist": "Def Leppard",
       "album": "Adrenalize",
@@ -3500,27 +3311,6 @@
       "reserved": false
     },
     {
-      "id": "mtk2sg56asm4w",
-      "artist": "Radiohead",
-      "album": "Kid A",
-      "price": "400",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2000歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Experimental Rock"
-      ],
-      "reserved": true
-    },
-    {
       "id": "mtk2sg56gsbu9",
       "artist": "Sum 41",
       "album": "Underclass Hero",
@@ -3601,27 +3391,6 @@
       ],
       "subgenres": [
         "Psychedelic Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtlgs7sc0star",
-      "artist": "Sade",
-      "album": "Promise",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1985美版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Smooth Jazz"
       ],
       "reserved": false
     },
@@ -3874,27 +3643,6 @@
       "reserved": false
     },
     {
-      "id": "mtpglg5wmdwx5",
-      "artist": "Oasis",
-      "album": "(What's The Story) Morning Glory?",
-      "price": "400",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1995日版(ESCA 6290)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Britpop"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mtpglg5wkxbdo",
       "artist": "Pearl Jam",
       "album": "Vs.",
@@ -4063,27 +3811,6 @@
       "reserved": false
     },
     {
-      "id": "mtsn73pop15w8",
-      "artist": "",
-      "album": "Use Your Illusion I",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1991日版(MVCG-43)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Hard Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mtsn73pqnmcdy",
       "artist": "The Beatles",
       "album": "Beatles For Sale",
@@ -4206,27 +3933,6 @@
       ],
       "subgenres": [
         "Pop Punk"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtsn73pqcqpnz",
-      "artist": "Blur",
-      "album": "Blur",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1997日版(TOCP-50088)，含英、日文歌詞解說，日版限定Bonus Track",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Britpop"
       ],
       "reserved": false
     },
