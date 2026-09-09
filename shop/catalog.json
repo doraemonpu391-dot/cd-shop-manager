@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T08:45:17.381Z",
+  "generatedAt": "2026-09-09T13:20:03.117Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -3975,6 +3975,195 @@
       ],
       "subgenres": [
         "Synth-Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtu4lf406vilc",
+      "artist": "Radiohead",
+      "album": "No Surprises / Running From Demons",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1997日本限定限量小專輯(TOCP-50354)，封面印有\"THIS IS A MINI-ALBUM AIMED AT THE JAPANESE MARKET\"，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Art Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtu4lf43clxy7",
+      "artist": "Atoms For Peace",
+      "album": "Amok",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2013歐美版，Thom Yorke (Radiohead), Flea (Red Hot Chili Pepper)合作團體",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtu4lf443ryo1",
+      "artist": "Thom Yorke",
+      "album": "The Eraser",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2006歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Art Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtu4lf44eeitd",
+      "artist": "Queen",
+      "album": "A Night At The Opera",
+      "price": "500",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1993歐版",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtu4lf44b6bpb",
+      "artist": "Sinéad O'Connor",
+      "album": "Universal Mother",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1994歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtu4lf44l8fab",
+      "artist": "Sade",
+      "album": "The Best of Sade",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1994台版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Jazz"
+      ],
+      "subgenres": [
+        "Smooth Jazz"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtu4lf44u6loj",
+      "artist": "Stratovarius",
+      "album": "Episode",
+      "price": "800",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1996日版(VICP-5721)，含英、日文歌詞解說，一首日本限定Bonus Track",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Metal"
+      ],
+      "subgenres": [
+        "Speed Metal"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtu4lf44jjxe3",
+      "artist": "Jamiroquai",
+      "album": "Travelling Without Moving",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1996歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Funk/Soul"
+      ],
+      "subgenres": [
+        "Acid Jazz"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtu4lf44x0xhu",
+      "artist": "OutKast",
+      "album": "Speakerboxxx / The Love Below",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2003美版，2CD",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Hip-Hop/R&B"
+      ],
+      "subgenres": [
+        "Pop Rap"
       ],
       "reserved": false
     }
