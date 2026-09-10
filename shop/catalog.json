@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T11:47:38.436Z",
+  "generatedAt": "2026-09-10T11:49:57.775Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -2618,27 +2618,6 @@
       "reserved": false
     },
     {
-      "id": "mtbcjtcap4e08",
-      "artist": "Green Day",
-      "album": "International Superhits!",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2001歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Punk"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mtbcjtcakhdos",
       "artist": "Celine Dion",
       "album": "Falling Into You",
@@ -3559,48 +3538,6 @@
       "reserved": false
     },
     {
-      "id": "mtpglg5wo8qs4",
-      "artist": "Various",
-      "album": "The Bodyguard (Original Soundtrack Album)",
-      "price": "100",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Soundtrack/Stage"
-      ],
-      "subgenres": [
-        "Soundtrack/Stage"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtpglg5wg9rer",
-      "artist": "Norah Jones",
-      "album": "Feels Like Home",
-      "price": "150",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2004台版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Jazz"
-      ],
-      "subgenres": [
-        "Contemporary Jazz"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mtpglg5wnqrmq",
       "artist": "Alanis Morissette",
       "album": "MTV Unplugged",
@@ -3790,48 +3727,6 @@
       "reserved": false
     },
     {
-      "id": "mtr7ci9lt8m00",
-      "artist": "Stevie Wonder",
-      "album": "Conversation Peace",
-      "price": "150",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1995日版(POCT-1055)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Hip-Hop/R&B"
-      ],
-      "subgenres": [
-        "Soul"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtsn73pqnmcdy",
-      "artist": "The Beatles",
-      "album": "Beatles For Sale",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1987日版(CP32-5324)，Mono，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mtsn73pq0f0e5",
       "artist": "Prince",
       "album": "Emancipation",
@@ -3912,27 +3807,6 @@
       ],
       "subgenres": [
         "Grunge"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtsn73pqmclpx",
-      "artist": "Green Day",
-      "album": "Warning:",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2000日版(WPCR-10850)，含英、日文歌詞解說",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Punk"
       ],
       "reserved": false
     },
@@ -4059,27 +3933,6 @@
       ],
       "subgenres": [
         "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtu4lf44l8fab",
-      "artist": "Sade",
-      "album": "The Best of Sade",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1994台版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Jazz"
-      ],
-      "subgenres": [
-        "Smooth Jazz"
       ],
       "reserved": false
     },
