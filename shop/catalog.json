@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T12:43:19.721Z",
+  "generatedAt": "2026-09-10T15:45:10.989Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -4017,27 +4017,6 @@
       ],
       "subgenres": [
         "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtvgdjsw3cgv0",
-      "artist": "Pink Floyd",
-      "album": "Meddle",
-      "price": "600",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1986美版，近新",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Prog Rock"
       ],
       "reserved": false
     },
