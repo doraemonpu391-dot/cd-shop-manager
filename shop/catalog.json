@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T11:37:37.447Z",
+  "generatedAt": "2026-09-10T11:47:38.436Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -2110,27 +2110,6 @@
       ],
       "subgenres": [
         "Dance-Pop"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mt5o7k051pu9y",
-      "artist": "Oasis",
-      "album": "Definitely Maybe",
-      "price": "500",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1994日版(ESCA 6045)，含日版限定Bonus Track(Cloudburst, Sad Song)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Britpop"
       ],
       "reserved": false
     },
