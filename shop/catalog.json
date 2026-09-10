@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T16:16:47.874Z",
+  "generatedAt": "2026-09-10T16:47:07.656Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -1292,7 +1292,7 @@
       "subgenres": [
         "Alt-Rock"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "mssy2rdiokirj",
@@ -1565,7 +1565,7 @@
       "subgenres": [
         "Alt-Rock"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "msyb5xtzexg68",
@@ -1859,7 +1859,7 @@
       "subgenres": [
         "Folk Rock"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "mt1vmv9aqwqwv",
@@ -3098,7 +3098,7 @@
       "subgenres": [
         "Acid Jazz"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "mth8eiyhmvz9z",
@@ -3871,7 +3871,7 @@
       "subgenres": [
         "Indie Rock"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "mtu4lf443ryo1",
@@ -3892,7 +3892,7 @@
       "subgenres": [
         "Art Rock"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "mtu4lf44eeitd",
@@ -3976,7 +3976,7 @@
       "subgenres": [
         "Acid Jazz"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "mtu4lf44x0xhu",
