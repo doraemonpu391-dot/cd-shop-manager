@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T12:15:01.239Z",
+  "generatedAt": "2026-09-10T12:43:19.721Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -4017,27 +4017,6 @@
       ],
       "subgenres": [
         "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtvgdjsw4gs7v",
-      "artist": "Green Day",
-      "album": "Dookie",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1994台版",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Punk"
       ],
       "reserved": false
     },
