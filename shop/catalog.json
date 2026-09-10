@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T17:37:34.077Z",
+  "generatedAt": "2026-09-10T11:37:37.447Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -4164,6 +4164,195 @@
       ],
       "subgenres": [
         "Pop Rap"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtvgdjsula3kl",
+      "artist": "Fleetwood Mac",
+      "album": "Tango In The Night",
+      "price": "450",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1995日版(WPCR-386)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtvgdjsw4gs7v",
+      "artist": "Green Day",
+      "album": "Dookie",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1994台版",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtvgdjsw3cgv0",
+      "artist": "Pink Floyd",
+      "album": "Meddle",
+      "price": "600",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1986美版，近新",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Prog Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtvgdjswb6obn",
+      "artist": "Queen",
+      "album": "Innuendo",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1991英版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtvgdjsw38n9r",
+      "artist": "Buena Vista Social Club",
+      "album": "Buena Vista Social Club",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1997美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Jazz"
+      ],
+      "subgenres": [
+        "Afro-Cuban Jazz"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtvgdjswlnwsk",
+      "artist": "Yngwie Malmsteen",
+      "album": "The Seventh Sign",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1994波麗佳音台版(PCTD-60041)",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Metal"
+      ],
+      "subgenres": [
+        "Heavy Metal"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtvgdjswj0xez",
+      "artist": "Yngwie J. Malmsteen's Rising Force",
+      "album": "War To End All Wars",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2000日本先行發售日版(PCCY-01483)，含英、日文解說歌詞，日版限定Bonus Track",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Metal"
+      ],
+      "subgenres": [
+        "Heavy Metal"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtvgdjsxtqqmo",
+      "artist": "The Flaming Lips",
+      "album": "Yoshimi Battles The Pink Robots",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2002歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Psychedelic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtvgdjsxsd2t9",
+      "artist": "Diana King",
+      "album": "Tougher Than Love",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1995日版(SRCS 7495)，含英、日文解說歌詞，日版限定Bonus Track",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Hip-Hop/R&B"
+      ],
+      "subgenres": [
+        "Contemporary R&B"
       ],
       "reserved": false
     }
