@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T16:47:07.656Z",
+  "generatedAt": "2026-09-10T17:19:43.450Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -4038,27 +4038,6 @@
       ],
       "subgenres": [
         "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtvgdjsw38n9r",
-      "artist": "Buena Vista Social Club",
-      "album": "Buena Vista Social Club",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1997美版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Jazz"
-      ],
-      "subgenres": [
-        "Afro-Cuban Jazz"
       ],
       "reserved": false
     },
