@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T11:57:59.512Z",
+  "generatedAt": "2026-09-11T12:39:18.578Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -3975,6 +3975,189 @@
       ],
       "subgenres": [
         "Contemporary R&B"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtwy0pyzv9jod",
+      "artist": "The Verve",
+      "album": "Urban Hymns",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1997日版(VJCP-25338)，含英、日文解說歌詞",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Britpop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtwy0pz3ekvsk",
+      "artist": "The Beatles",
+      "album": "Abbey Road",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1987歐版，荷盤",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Art Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtwy0pz3r9hl5",
+      "artist": "The Beatles",
+      "album": "With The Beatles",
+      "price": "500",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1987日版(CP32-5322)，含英、日文解說歌詞",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtwy0pz3915fg",
+      "artist": "Simon & Garfunkel",
+      "album": "The Simon And Garfunkel Collection",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1987歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Folk Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtwy0pz38l7lq",
+      "artist": "Spiritualized",
+      "album": "Songs In A&E",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2008美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Psychedelic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtwy0pz3q9qvz",
+      "artist": "Nirvana",
+      "album": "Incesticide",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1992美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [],
+      "genres": [],
+      "subgenres": [],
+      "reserved": false
+    },
+    {
+      "id": "mtwy0pz37kfpd",
+      "artist": "Mariah Carey",
+      "album": "Music Box",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1993美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Contemporary R&B"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtwy0pz3f0vie",
+      "artist": "Sade",
+      "album": "Lovers Live",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2002亞版，含中、英歌詞",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Jazz"
+      ],
+      "subgenres": [
+        "Smooth Jazz"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtwy0pz3mxfpk",
+      "artist": "The Strokes",
+      "album": "Angles",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2011美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
       ],
       "reserved": false
     }
