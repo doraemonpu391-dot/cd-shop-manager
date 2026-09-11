@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T12:39:18.578Z",
+  "generatedAt": "2026-09-11T15:15:12.025Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -1335,27 +1335,6 @@
         "New Jack Swing"
       ],
       "reserved": false
-    },
-    {
-      "id": "mssy2rdltmw3t",
-      "artist": "The Album Leaf",
-      "album": "In A Safe Place",
-      "price": "200",
-      "origPrice": "250",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Post Rock"
-      ],
-      "reserved": true
     },
     {
       "id": "mssy2rdlu3kwl",
