@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T02:20:42.035Z",
+  "generatedAt": "2026-09-11T11:55:28.427Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -1274,27 +1274,6 @@
       "reserved": false
     },
     {
-      "id": "msrky9uecoebp",
-      "artist": "Red Hot Chili Peppers",
-      "album": "Stadium Arcadium",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "華納發行台版，近新，2CD",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Alt-Rock"
-      ],
-      "reserved": true
-    },
-    {
       "id": "mssy2rdiokirj",
       "artist": "Beck",
       "album": "Odelay",
@@ -1545,27 +1524,6 @@
         "Classic Rock"
       ],
       "reserved": false
-    },
-    {
-      "id": "msyb5xtz8ragi",
-      "artist": "The Cranberries",
-      "album": "Everybody Else Is Doing It, So Why Can't We?",
-      "price": "20",
-      "origPrice": "",
-      "noPromo": true,
-      "notes": "【特價】注意！封面是《No Need To Argue》但封底、CD本體皆是《Everybody Else Is Doing It, So Why Can't We?》",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Alt-Rock"
-      ],
-      "reserved": true
     },
     {
       "id": "msyb5xtzexg68",
@@ -1839,27 +1797,6 @@
         "Alt-Rock"
       ],
       "reserved": false
-    },
-    {
-      "id": "mt1vmv97n05s9",
-      "artist": "Damien Rice",
-      "album": "O",
-      "price": "100",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Folk Rock"
-      ],
-      "reserved": true
     },
     {
       "id": "mt1vmv9aqwqwv",
@@ -3080,27 +3017,6 @@
       "reserved": false
     },
     {
-      "id": "mth8eiyh549zc",
-      "artist": "Jamiroquai",
-      "album": "Synkronized",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1999日版(ESCA 8006)",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Acid Jazz"
-      ],
-      "reserved": true
-    },
-    {
       "id": "mth8eiyhmvz9z",
       "artist": "The Used",
       "album": "In Love And Death",
@@ -3853,48 +3769,6 @@
       "reserved": false
     },
     {
-      "id": "mtu4lf43clxy7",
-      "artist": "Atoms For Peace",
-      "album": "Amok",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2013歐美版，Thom Yorke (Radiohead), Flea (Red Hot Chili Pepper)合作團體",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Indie Rock"
-      ],
-      "reserved": true
-    },
-    {
-      "id": "mtu4lf443ryo1",
-      "artist": "Thom Yorke",
-      "album": "The Eraser",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2006歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Art Rock"
-      ],
-      "reserved": true
-    },
-    {
       "id": "mtu4lf44eeitd",
       "artist": "Queen",
       "album": "A Night At The Opera",
@@ -3956,27 +3830,6 @@
         "Speed Metal"
       ],
       "reserved": false
-    },
-    {
-      "id": "mtu4lf44jjxe3",
-      "artist": "Jamiroquai",
-      "album": "Travelling Without Moving",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1996歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Funk/Soul"
-      ],
-      "subgenres": [
-        "Acid Jazz"
-      ],
-      "reserved": true
     },
     {
       "id": "mtu4lf44x0xhu",
