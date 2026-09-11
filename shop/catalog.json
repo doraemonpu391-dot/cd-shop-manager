@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T15:15:31.219Z",
+  "generatedAt": "2026-09-11T18:53:32.575Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -4137,6 +4137,195 @@
       ],
       "subgenres": [
         "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtxbdzoog5tbm",
+      "artist": "Oasis",
+      "album": "The Masterplan",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1998日版(ESCA 7383)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Britpop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtxbdzosn7cdi",
+      "artist": "Earth, Wind & Fire",
+      "album": "The Best Of Earth Wind & Fire Vol. I",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Funk/Soul"
+      ],
+      "subgenres": [
+        "Disco"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtxbdzos29mth",
+      "artist": "The Clash",
+      "album": "London Calling",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1999歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtxbdzosutjqy",
+      "artist": "Led Zeppelin",
+      "album": "Led Zeppelin IV",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1988日版(20P2-2026)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Classic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtxbdzos0h3ey",
+      "artist": "Yes",
+      "album": "Close To The Edge",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2007歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Prog Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtxbdzosdo91a",
+      "artist": "Carpenters",
+      "album": "Twenty-Two Hits Of The Carpenters",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1995日版(POCM-1540)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Soft Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtxbdzos4qfxz",
+      "artist": "Jamiroquai",
+      "album": "Synkronized",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1999歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Funk/Soul"
+      ],
+      "subgenres": [
+        "Acid Jazz"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtxbdzosymbkq",
+      "artist": "Mariah Carey",
+      "album": "Glitter",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2001日版(SRCS 2500)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Contemporary R&B"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtxbdzosh14wz",
+      "artist": "Mariah Carey",
+      "album": "Rainbow",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1999日版(SRCS 2222)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Contemporary R&B"
       ],
       "reserved": false
     }
