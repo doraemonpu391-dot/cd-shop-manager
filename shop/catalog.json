@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T18:57:46.312Z",
+  "generatedAt": "2026-09-12T07:20:56.387Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -4326,6 +4326,195 @@
       ],
       "subgenres": [
         "Contemporary R&B"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mty235epu7ik6",
+      "artist": "Roxy Music",
+      "album": "Avalon",
+      "price": "500",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1993日版(VJCP-23185)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Synth-Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mty235eqcebx2",
+      "artist": "Chicago",
+      "album": "Chicago 19",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1988美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mty235ernauez",
+      "artist": "Heart",
+      "album": "Desire Walks On",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1993美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mty235er5diuu",
+      "artist": "Led Zeppelin",
+      "album": "Mothership",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2007日版(WPCR-12779/80)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Classic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mty235ertn2u8",
+      "artist": "Mariah Carey",
+      "album": "MTV Unplugged EP",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1992日版(SRCS 5912)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Contemporary R&B"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mty235ercpwjg",
+      "artist": "The Beatles",
+      "album": "The Beatles",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1987美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Psychedelic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mty235ernuri3",
+      "artist": "Rage Against The Machine",
+      "album": "Evil Empire",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1996歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mty235ermrjfe",
+      "artist": "The Smashing Pumpkins",
+      "album": "Adore",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1998日版(VJCP-25396)，無冊本、歌詞，含日版限定Bonus Track",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mty235er6nxq5",
+      "artist": "Sade",
+      "album": "Diamond Life",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1985美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Jazz"
+      ],
+      "subgenres": [
+        "Smooth Jazz"
       ],
       "reserved": false
     }
