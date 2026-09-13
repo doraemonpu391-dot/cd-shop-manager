@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T08:37:46.967Z",
+  "generatedAt": "2026-09-13T09:28:59.563Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -4515,6 +4515,195 @@
       ],
       "subgenres": [
         "Smooth Jazz"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtzm3oeusl0cy",
+      "artist": "Blood Sugar Sex Magik",
+      "album": "Blood Sugar Sex Magik",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1991日版(WPCP-4558)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtzm3oex68jbw",
+      "artist": "The Style Council",
+      "album": "Our Favourite Shop",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1997日版(POCP-9094)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Funk/Soul"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtzm3oexn9yi4",
+      "artist": "The Doobie Brothers",
+      "album": "The Captain And Me",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1994歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Country Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtzm3oexei2tq",
+      "artist": "Jarvis Cocker",
+      "album": "Further Complications",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2009台版",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtzm3oeyht5ab",
+      "artist": "宇多田光",
+      "album": "First Love",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1999台版，含中、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "日本"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "J-pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtzm3oey1tlwb",
+      "artist": "Green Day",
+      "album": "21st Century Breakdown",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2009日版(WPCR-13377)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtzm3oey57i6y",
+      "artist": "Kevin Ayers",
+      "album": "Joy Of A Toy",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2003英版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Psychedelic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtzm3oey8olej",
+      "artist": "Britney Spears",
+      "album": "Britney",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2001新加坡版，限量版、Enhanced CD(含額外影片內容)，含Britney 2002電影宣傳小海報",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Contemporary R&B"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mtzm3oeygppg7",
+      "artist": "The Alan Parsons Project",
+      "album": "Vulture Culture",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1985美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Prog Rock"
       ],
       "reserved": false
     }
