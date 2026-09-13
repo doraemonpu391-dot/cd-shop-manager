@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T09:39:09.625Z",
+  "generatedAt": "2026-09-13T10:15:28.029Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -2408,27 +2408,6 @@
       "reserved": false
     },
     {
-      "id": "mta31n700rslt",
-      "artist": "The Stone Roses",
-      "album": "Second Coming",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1994歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Indie Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mta31n70g9ytc",
       "artist": "Rodrigo Y Gabriela",
       "album": "Rodrigo Y Gabriela",
@@ -3496,27 +3475,6 @@
       "reserved": false
     },
     {
-      "id": "mtpglg5waaaji",
-      "artist": "Mew",
-      "album": "Frengers",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2003歐版，側標黏在殼上",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Shoegaze"
-      ],
-      "reserved": true
-    },
-    {
       "id": "mtr7ci9lx1zyk",
       "artist": "Green Day",
       "album": "Bullet In A Bible",
@@ -4452,27 +4410,6 @@
       ],
       "subgenres": [
         "Psychedelic Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mty235ernuri3",
-      "artist": "Rage Against The Machine",
-      "album": "Evil Empire",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1996歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Alt-Rock"
       ],
       "reserved": false
     },
