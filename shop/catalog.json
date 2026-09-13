@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T10:15:28.029Z",
+  "generatedAt": "2026-09-13T16:55:25.251Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -154,28 +154,6 @@
         "Gangsta"
       ],
       "reserved": false
-    },
-    {
-      "id": "mrfh8o6h2jy6n",
-      "artist": "Justin Timberlake",
-      "album": "Futuresex/Lovesounds",
-      "price": "50",
-      "origPrice": "100",
-      "noPromo": false,
-      "genre": "Pop R&B",
-      "notes": "台版紙盒",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Pop R&B"
-      ],
-      "reserved": true
     },
     {
       "id": "mrfh8o6jd3wms",
@@ -1083,27 +1061,6 @@
         "Neo Soul"
       ],
       "reserved": false
-    },
-    {
-      "id": "msk9c09v49w0o",
-      "artist": "Madonna",
-      "album": "Something To Remember",
-      "price": "150",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Contemporary R&B"
-      ],
-      "reserved": true
     },
     {
       "id": "msk9c09vkjpcn",
@@ -2700,27 +2657,6 @@
         "Synth-Pop"
       ],
       "reserved": false
-    },
-    {
-      "id": "mtcw09307qzps",
-      "artist": "Various",
-      "album": "Music And Lyrics (Music From The Motion Picture)",
-      "price": "150",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2007台版，側標折",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Soundtrack/Stage"
-      ],
-      "subgenres": [
-        "Soundtrack/Stage"
-      ],
-      "reserved": true
     },
     {
       "id": "mtcw0930tt5ir",
