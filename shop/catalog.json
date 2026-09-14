@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T04:49:30.115Z",
+  "generatedAt": "2026-09-14T12:08:38.176Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -4579,6 +4579,195 @@
         "Prog Rock"
       ],
       "reserved": true
+    },
+    {
+      "id": "mu178u6gob21h",
+      "artist": "Various",
+      "album": "The Bodyguard (Original Soundtrack Album)",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1992日版(BVCA-152)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Soundtrack/Stage"
+      ],
+      "subgenres": [
+        "Soundtrack/Stage"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mu178u6hsouca",
+      "artist": "David Bowie",
+      "album": "The Rise And Fall Of Ziggy Stardust And The Spiders From Mars (SACD)",
+      "price": "2000",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2003歐版，多聲道/雙聲道混合SACD",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Glam Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mu178u6hiuu3n",
+      "artist": "Massive Attack",
+      "album": "Blue Lines",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Electronic"
+      ],
+      "subgenres": [
+        "Trip Hop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mu178u6hvba0o",
+      "artist": "The Wailers (Bob Marley)",
+      "album": "Burnin'",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1992日版(PHCR-6702)，Island廠牌30週年紀念發行限量生產版，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Reggae"
+      ],
+      "subgenres": [
+        "Reggae"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mu178u6ikualh",
+      "artist": "Sex Pistols",
+      "album": "Never Mind The Bollocks Here's The Sex Pistols",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1993日版(VJCP-23171)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mu178u6is153e",
+      "artist": "Madonna",
+      "album": "Hard Candy",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2008歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Dance-Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mu178u6it5g74",
+      "artist": "Eric Clapton",
+      "album": "Slowhand",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1985日版(P33W 50003)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Blues Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mu178u6ifib2r",
+      "artist": "Marvin Gaye",
+      "album": "Midnight Love",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1991日版(SRCS 6128)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Funk/Soul"
+      ],
+      "subgenres": [
+        "Disco"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mu178u6iwecrq",
+      "artist": "King Crimson",
+      "album": "THRAK",
+      "price": "450",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1995美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Prog Rock"
+      ],
+      "reserved": false
     }
   ],
   "promo": "🛍️買三片折50六片100，依此類推，歡迎選購！🚚滿兩千享免運優惠",
