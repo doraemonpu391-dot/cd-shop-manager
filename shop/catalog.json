@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T16:55:25.251Z",
+  "generatedAt": "2026-09-14T04:49:30.115Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -913,7 +913,7 @@
       "subgenres": [
         "Hard Rock"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "msbhxmoerg1nn",
@@ -1837,7 +1837,7 @@
       "subgenres": [
         "Dance-Pop"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "mt1vmv9aqdjur",
@@ -1879,7 +1879,7 @@
       "subgenres": [
         "Classic Rock"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "mt4dlkq501o5o",
@@ -2152,7 +2152,7 @@
       "subgenres": [
         "Classic Rock"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "mt77v8c7fnlmo",
@@ -2299,7 +2299,7 @@
       "subgenres": [
         "Psychedelic Rock"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "mta31n70tn30z",
@@ -2362,7 +2362,7 @@
       "subgenres": [
         "Hard Rock"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "mta31n70g9ytc",
@@ -2656,7 +2656,7 @@
       "subgenres": [
         "Synth-Pop"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "mtcw0930tt5ir",
@@ -2740,7 +2740,7 @@
       "subgenres": [
         "Classic Rock"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "mtfq85np7gb3z",
@@ -2761,7 +2761,7 @@
       "subgenres": [
         "Classic Rock"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "mtfq85npx1xmg",
@@ -2908,7 +2908,7 @@
       "subgenres": [
         "Hard Rock"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "mth8eiyhmvz9z",
@@ -2992,7 +2992,7 @@
       "subgenres": [
         "Folk Rock"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "mtio6dne8qdjl",
@@ -3076,7 +3076,7 @@
       "subgenres": [
         "Classic Rock"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "mtk2sg56d55gg",
@@ -3534,7 +3534,7 @@
       "subgenres": [
         "Funk/Soul"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "mtsn73pqz7ibm",
@@ -3660,7 +3660,7 @@
       "subgenres": [
         "Pop Rock"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "mtu4lf44b6bpb",
@@ -3765,7 +3765,7 @@
       "subgenres": [
         "Pop Rock"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "mtvgdjswlnwsk",
@@ -3891,7 +3891,7 @@
       "subgenres": [
         "Art Rock"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "mtwy0pz3r9hl5",
@@ -4011,7 +4011,7 @@
       "subgenres": [
         "Smooth Jazz"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "mtwy0pz3mxfpk",
@@ -4053,7 +4053,7 @@
       "subgenres": [
         "Britpop"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "mtxbdzosn7cdi",
@@ -4116,7 +4116,7 @@
       "subgenres": [
         "Classic Rock"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "mtxbdzos0h3ey",
@@ -4158,7 +4158,7 @@
       "subgenres": [
         "Soft Rock"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "mtxbdzos4qfxz",
@@ -4263,7 +4263,7 @@
       "subgenres": [
         "Pop Rock"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "mty235ernauez",
@@ -4284,7 +4284,7 @@
       "subgenres": [
         "Pop Rock"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "mty235er5diuu",
@@ -4389,7 +4389,7 @@
       "subgenres": [
         "Smooth Jazz"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "mtzm3oeusl0cy",
@@ -4494,7 +4494,7 @@
       "subgenres": [
         "J-pop"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "mtzm3oey1tlwb",
@@ -4578,7 +4578,7 @@
       "subgenres": [
         "Prog Rock"
       ],
-      "reserved": false
+      "reserved": true
     }
   ],
   "promo": "🛍️買三片折50六片100，依此類推，歡迎選購！🚚滿兩千享免運優惠",
