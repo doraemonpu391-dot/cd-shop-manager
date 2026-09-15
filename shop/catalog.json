@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T12:08:38.176Z",
+  "generatedAt": "2026-09-15T09:59:14.334Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -4159,27 +4159,6 @@
         "Soft Rock"
       ],
       "reserved": true
-    },
-    {
-      "id": "mtxbdzos4qfxz",
-      "artist": "Jamiroquai",
-      "album": "Synkronized",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1999歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Funk/Soul"
-      ],
-      "subgenres": [
-        "Acid Jazz"
-      ],
-      "reserved": false
     },
     {
       "id": "mtxbdzosymbkq",
