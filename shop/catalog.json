@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T10:00:03.866Z",
+  "generatedAt": "2026-09-15T12:09:24.535Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -4745,6 +4745,185 @@
       ],
       "subgenres": [
         "Prog Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mu2mpoghf0md5",
+      "artist": "Madonna",
+      "album": "Celebration",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2009歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Dance-Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mu2mpogkp4qs0",
+      "artist": "Yes",
+      "album": "Relayer",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1988美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Prog Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mu2mpogl84x05",
+      "artist": "The Beatles",
+      "album": "A Hard Day's Night",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1993日版(CP32-5323)，Beatles 30週年紀念系列，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mu2mpoglsded2",
+      "artist": "Blur",
+      "album": "The Best Of",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2000進口歐版，2CD，含紙套、EMI 2000唱片宣傳紙，CD2 Live At Wembley Arena 11/12/99",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [],
+      "subgenres": [],
+      "reserved": false
+    },
+    {
+      "id": "mu2mpogl6hpq7",
+      "artist": "Green Day",
+      "album": "Insomniac",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1998日版(WPCR-1797)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [],
+      "subgenres": [],
+      "reserved": false
+    },
+    {
+      "id": "mu2mpoglpih2f",
+      "artist": "Radiohead",
+      "album": "Kid A",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2000歐版，含首版限定隱藏冊本",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Experimental"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mu2mpogllhd82",
+      "artist": "The Beatles",
+      "album": "Let It Be",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1998日版(TOCP-51123)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mu2mpogl391tj",
+      "artist": "kanYe West",
+      "album": "Late Registration",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2005歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Hip-Hop/R&B"
+      ],
+      "subgenres": [],
+      "reserved": false
+    },
+    {
+      "id": "mu2mpogl5mfi8",
+      "artist": "Michael Jackson",
+      "album": "Bad",
+      "price": "500",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "台版，含Sony回函卡",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Pop Rock"
       ],
       "reserved": false
     }
