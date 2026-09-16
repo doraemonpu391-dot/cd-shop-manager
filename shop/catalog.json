@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T12:04:40.408Z",
+  "generatedAt": "2026-09-16T16:01:50.143Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -2172,27 +2172,6 @@
       ],
       "subgenres": [
         "Soft Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mt77v8c7o3uth",
-      "artist": "The Cardigans",
-      "album": "First Band On The Moon",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1996日版(POCP-7170)，限定封面",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
       ],
       "reserved": false
     },
@@ -4924,27 +4903,6 @@
       ],
       "subgenres": [
         "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mu41zfz23ahyx",
-      "artist": "Weezer",
-      "album": "Weezer (Blue Album)",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1994美版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Indie Rock"
       ],
       "reserved": false
     },
