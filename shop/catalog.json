@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T12:09:24.535Z",
+  "generatedAt": "2026-09-16T12:04:40.408Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -4924,6 +4924,195 @@
       ],
       "subgenres": [
         "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mu41zfz23ahyx",
+      "artist": "Weezer",
+      "album": "Weezer (Blue Album)",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1994美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mu41zfz466og6",
+      "artist": "Sade",
+      "album": "Promise",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1985日版(32・8P-103)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Jazz"
+      ],
+      "subgenres": [
+        "Smooth Jazz"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mu41zfz592192",
+      "artist": "Bruce Springsteen",
+      "album": "Tunnel Of Love",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1988日版(25DP 5250)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mu41zfz5vkhgx",
+      "artist": "Green Day",
+      "album": "Kerplunk!",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1995美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mu41zfz51tjwc",
+      "artist": "The Chemical Brothers",
+      "album": "Singles 93-03",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2003日版(VJCP 68562-63)，2CD，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Electronic"
+      ],
+      "subgenres": [
+        "Breakbeat"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mu41zfz5c4j6m",
+      "artist": "The Beatles",
+      "album": "Love",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2006美版，CD+多聲道DVD-Audio",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mu41zfz5hk1zi",
+      "artist": "Beck",
+      "album": "Colors",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2017歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Dance-Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mu41zfz5k7nmk",
+      "artist": "OutKast",
+      "album": "Idlewild",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2006日版(BVCQ-24031)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Hip-Hop/R&B"
+      ],
+      "subgenres": [
+        "Pop Rap"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mu41zfz5lflur",
+      "artist": "My Bloody Valentine",
+      "album": "Isn't Anything",
+      "price": "500",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2021歐版，日本輸入，含英、日文歌詞解說，近新",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Shoegaze"
       ],
       "reserved": false
     }
