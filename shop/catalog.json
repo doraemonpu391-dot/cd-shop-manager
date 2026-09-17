@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T04:05:07.439Z",
+  "generatedAt": "2026-09-17T11:51:49.423Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5071,6 +5071,191 @@
       ],
       "subgenres": [
         "Shoegaze"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mu5gyrvrisgnw",
+      "artist": "Dave Matthews Band",
+      "album": "Under The Table And Dreaming",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1994歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mu5gyrvucbnpr",
+      "artist": "Miley Cyrus",
+      "album": "Breakout",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2008台版，含中文歌詞、孟漢娜宣傳紙",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mu5gyrvulcf6o",
+      "artist": "Madonna",
+      "album": "Erotica",
+      "price": "120",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1992美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Dance-Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mu5gyrvu80bdm",
+      "artist": "Lenny Kravitz",
+      "album": "5",
+      "price": "120",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1998日版(VJCP-25400)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mu5gyrvuf2l22",
+      "artist": "Janet Jackson",
+      "album": "The Velvet Rope",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1997歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Contemporary R&B"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mu5gyrvudga1w",
+      "artist": "Led Zeppelin",
+      "album": "In Through The Out Door",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1988日版(20P2 2029)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Classic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mu5gyrvutatd8",
+      "artist": "Alanis Morissette",
+      "album": "Under Rug Swept",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2002歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mu5gyrvut6857",
+      "artist": "Madonna",
+      "album": "I'm Breathless (Music From And Inspired By The Film Dick Tracy)",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1990歐版，含飛碟唱片中文介紹、歌詞紙",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [],
+      "subgenres": [],
+      "reserved": false
+    },
+    {
+      "id": "mu5gyrvu0bqak",
+      "artist": "Jazzyfatnastees",
+      "album": "The Tortoise & The Hare",
+      "price": "120",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2002美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Funk/Soul"
+      ],
+      "subgenres": [
+        "Acid Jazz"
       ],
       "reserved": false
     }
