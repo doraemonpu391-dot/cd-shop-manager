@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T12:58:38.278Z",
+  "generatedAt": "2026-09-17T20:00:00.106Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -1990,8 +1990,8 @@
       "id": "mt5o7k05ii3y0",
       "artist": "Green Day",
       "album": "nimrod.",
-      "price": "300",
-      "origPrice": "",
+      "price": "250",
+      "origPrice": "300",
       "noPromo": false,
       "notes": "1997加版，HDCD",
       "sideLabel": false,
@@ -2032,8 +2032,8 @@
       "id": "mt5o7k056k19t",
       "artist": "Beady Eye",
       "album": "Different Gear, Still Speeding",
-      "price": "350",
-      "origPrice": "",
+      "price": "300",
+      "origPrice": "350",
       "noPromo": false,
       "notes": "2011日版(SICP 3048~9)，含日文冊本，Liam Gallagher 個人樂團",
       "sideLabel": false,
@@ -4351,7 +4351,7 @@
     },
     {
       "id": "mtzm3oeusl0cy",
-      "artist": "Blood Sugar Sex Magik",
+      "artist": "Red Hot Chili Pepper",
       "album": "Blood Sugar Sex Magik",
       "price": "350",
       "origPrice": "",
