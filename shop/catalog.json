@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T11:51:49.423Z",
+  "generatedAt": "2026-09-17T12:43:02.240Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -4455,27 +4455,6 @@
       "reserved": true
     },
     {
-      "id": "mtzm3oey1tlwb",
-      "artist": "Green Day",
-      "album": "21st Century Breakdown",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2009日版(WPCR-13377)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Punk"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mtzm3oey57i6y",
       "artist": "Kevin Ayers",
       "album": "Joy Of A Toy",
@@ -4788,23 +4767,6 @@
       "subgenres": [
         "Pop Rock"
       ],
-      "reserved": false
-    },
-    {
-      "id": "mu2mpoglsded2",
-      "artist": "Blur",
-      "album": "The Best Of",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2000進口歐版，2CD，含紙套、EMI 2000唱片宣傳紙，CD2 Live At Wembley Arena 11/12/99",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [],
-      "subgenres": [],
       "reserved": false
     },
     {
