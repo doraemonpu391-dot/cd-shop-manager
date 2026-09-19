@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T16:30:53.651Z",
+  "generatedAt": "2026-09-19T17:23:33.788Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -1374,27 +1374,6 @@
       ],
       "subgenres": [
         "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "msvqwqjn6hhm2",
-      "artist": "Stone Temple Pilots",
-      "album": "Core",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Grunge"
       ],
       "reserved": false
     },
@@ -3079,27 +3058,6 @@
       "reserved": false
     },
     {
-      "id": "mtk2sg56gsbu9",
-      "artist": "Sum 41",
-      "album": "Underclass Hero",
-      "price": "250",
-      "origPrice": "300",
-      "noPromo": false,
-      "notes": "2007日版(UICL-1067)，含英、日文歌詞解說、日本發行紀念活動抽獎券",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Punk"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mtk2sg56ztewb",
       "artist": "Björk",
       "album": "Medúlla (SACD)",
@@ -3121,27 +3079,6 @@
       "reserved": false
     },
     {
-      "id": "mtk2sg56ptsec",
-      "artist": "伍佰",
-      "album": "白鴿",
-      "price": "400",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2CD",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "台語"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Hard Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mtlgs7s8zdr9g",
       "artist": "Jimi Hendrix",
       "album": "The Ultimate Experience",
@@ -3159,27 +3096,6 @@
       ],
       "subgenres": [
         "Psychedelic Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtlgs7scqn2ty",
-      "artist": "Skid Row",
-      "album": "Thickskin",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2003美版",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Hard Rock"
       ],
       "reserved": false
     },
@@ -3785,27 +3701,6 @@
       ],
       "subgenres": [
         "Heavy Metal"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtvgdjsxtqqmo",
-      "artist": "The Flaming Lips",
-      "album": "Yoshimi Battles The Pink Robots",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2002歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Psychedelic Rock"
       ],
       "reserved": false
     },
@@ -4826,25 +4721,6 @@
       "subgenres": [
         "Pop Rock"
       ],
-      "reserved": false
-    },
-    {
-      "id": "mu2mpogl391tj",
-      "artist": "kanYe West",
-      "album": "Late Registration",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2005歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Hip-Hop/R&B"
-      ],
-      "subgenres": [],
       "reserved": false
     },
     {
