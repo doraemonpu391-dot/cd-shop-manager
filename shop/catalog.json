@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T16:50:06.525Z",
+  "generatedAt": "2026-09-20T17:20:34.315Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -2155,27 +2155,6 @@
       "reserved": false
     },
     {
-      "id": "mta31n704pju1",
-      "artist": "The Beatles",
-      "album": "Sgt. Pepper's Lonely Hearts Club Band",
-      "price": "400",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1987美版(DIDX 1709)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Psychedelic Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mta31n70tn30z",
       "artist": "The Beatles",
       "album": "Rubber Soul",
@@ -2932,27 +2911,6 @@
       "reserved": false
     },
     {
-      "id": "mtk2sg56d55gg",
-      "artist": "Beck",
-      "album": "Sea Change",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2002美版，HDCD",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Alt-Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mtk2sg56ztewb",
       "artist": "Björk",
       "album": "Medúlla (SACD)",
@@ -3176,27 +3134,6 @@
       ],
       "subgenres": [
         "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtpglg5wkxbdo",
-      "artist": "Pearl Jam",
-      "album": "Vs.",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1993澳版",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Grunge"
       ],
       "reserved": false
     },
@@ -3600,27 +3537,6 @@
       "reserved": false
     },
     {
-      "id": "mtwy0pz3ekvsk",
-      "artist": "The Beatles",
-      "album": "Abbey Road",
-      "price": "400",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1987歐版，荷盤",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Art Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mtwy0pz3r9hl5",
       "artist": "The Beatles",
       "album": "With The Beatles",
@@ -3681,21 +3597,6 @@
       "subgenres": [
         "Psychedelic Rock"
       ],
-      "reserved": false
-    },
-    {
-      "id": "mtwy0pz3q9qvz",
-      "artist": "Nirvana",
-      "album": "Incesticide",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1992美版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [],
-      "genres": [],
-      "subgenres": [],
       "reserved": false
     },
     {
@@ -3800,27 +3701,6 @@
       ],
       "subgenres": [
         "Disco"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtxbdzos29mth",
-      "artist": "The Clash",
-      "album": "London Calling",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1999歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Punk"
       ],
       "reserved": false
     },
@@ -4469,27 +4349,6 @@
       ],
       "genres": [],
       "subgenres": [],
-      "reserved": false
-    },
-    {
-      "id": "mu2mpogllhd82",
-      "artist": "The Beatles",
-      "album": "Let It Be",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1998日版(TOCP-51123)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
-      ],
       "reserved": false
     },
     {
