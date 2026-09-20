@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T09:18:05.815Z",
+  "generatedAt": "2026-09-20T14:52:30.062Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -1504,27 +1504,6 @@
       "reserved": false
     },
     {
-      "id": "msyo1qgjl253l",
-      "artist": "Linkin Park",
-      "album": "Meteora",
-      "price": "400",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "台版紙盒精裝Enhanced CD+The Making of Meteora VCD",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Nu Metal"
-      ],
-      "reserved": false
-    },
-    {
       "id": "msyo1qgjzxygx",
       "artist": "David Bowie",
       "album": "1. Outside (The Nathan Adler Diaries: A Hyper Cycle)",
@@ -1840,27 +1819,6 @@
       "reserved": false
     },
     {
-      "id": "mt4dlkq53k8yl",
-      "artist": "Heart",
-      "album": "Greatest Hits 1985 - 1995",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "含紙盒、歌詞、中文介紹",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Classic Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mt4dlkq501o5o",
       "artist": "Pat Metheny Group",
       "album": "Letter From Home",
@@ -1962,48 +1920,6 @@
       ],
       "subgenres": [
         "Dance-Pop"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mt5o7k05ii3y0",
-      "artist": "Green Day",
-      "album": "nimrod.",
-      "price": "250",
-      "origPrice": "300",
-      "noPromo": false,
-      "notes": "1997加版，HDCD",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Punk"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mt5o7k05o76zh",
-      "artist": "Nirvana",
-      "album": "From The Muddy Banks Of The Wishkah",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1994美版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Grunge"
       ],
       "reserved": false
     },
@@ -2382,27 +2298,6 @@
       ],
       "subgenres": [
         "Psychedelic Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtbcjtcadm196",
-      "artist": "The Chemical Brothers",
-      "album": "Further",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2010日版(TOCP-66960)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Electronic"
-      ],
-      "subgenres": [
-        "Electro House"
       ],
       "reserved": false
     },
@@ -3453,27 +3348,6 @@
       "reserved": false
     },
     {
-      "id": "mtsn73pq3xm96",
-      "artist": "Joy Division",
-      "album": "Unknown Pleasures",
-      "price": "600",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2000歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Post Punk"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mtsn73pqlgmbn",
       "artist": "Nirvana",
       "album": "MTV Unplugged In New York",
@@ -3512,27 +3386,6 @@
       ],
       "subgenres": [
         "Synth-Pop"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtu4lf406vilc",
-      "artist": "Radiohead",
-      "album": "No Surprises / Running From Demons",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1997日本限定限量小專輯(TOCP-50354)，封面印有\"THIS IS A MINI-ALBUM AIMED AT THE JAPANESE MARKET\"，含英、日文歌詞解說",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Art Rock"
       ],
       "reserved": false
     },
@@ -4119,48 +3972,6 @@
       "reserved": false
     },
     {
-      "id": "mty235ernauez",
-      "artist": "Heart",
-      "album": "Desire Walks On",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1993美版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mty235er5diuu",
-      "artist": "Led Zeppelin",
-      "album": "Mothership",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2007日版(WPCR-12779/80)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Classic Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mty235ertn2u8",
       "artist": "Mariah Carey",
       "album": "MTV Unplugged EP",
@@ -4388,27 +4199,6 @@
       ],
       "subgenres": [
         "Contemporary R&B"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtzm3oeygppg7",
-      "artist": "The Alan Parsons Project",
-      "album": "Vulture Culture",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1985美版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Prog Rock"
       ],
       "reserved": false
     },
@@ -4679,27 +4469,6 @@
       ],
       "genres": [],
       "subgenres": [],
-      "reserved": false
-    },
-    {
-      "id": "mu2mpoglpih2f",
-      "artist": "Radiohead",
-      "album": "Kid A",
-      "price": "400",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2000歐版，含首版限定隱藏冊本",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Experimental"
-      ],
       "reserved": false
     },
     {
