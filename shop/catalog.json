@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T17:22:07.294Z",
+  "generatedAt": "2026-09-21T12:43:30.121Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -4722,6 +4722,195 @@
       ],
       "subgenres": [
         "Acid Jazz"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mub8kmp2dx3jt",
+      "artist": "Corinne Bailey Rae",
+      "album": "Corinne Bailey Rae",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2006日版(TOCP-66600)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Jazz"
+      ],
+      "subgenres": [
+        "Soul"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mub8kmp4foy4k",
+      "artist": "Black Rebel Motorcycle Club",
+      "album": "Howl",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2005美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mub8kmp4khivk",
+      "artist": "One Direction",
+      "album": "Take Me Home",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2012加版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mub8kmp4oxqow",
+      "artist": "Ozzy Osbourne",
+      "album": "Blizzard Of Ozz",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2002日版(SICP-8035)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Metal"
+      ],
+      "subgenres": [
+        "Heavy Metal"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mub8kmp4d565y",
+      "artist": "New Order",
+      "album": "Get Ready",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2001歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Synth-Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mub8kmp4t0bsj",
+      "artist": "Skid Row",
+      "album": "Skid Row",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1989日版(25P2-2494)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Hard Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mub8kmp4nkexe",
+      "artist": "Hole",
+      "album": "Celebrity Skin",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1998日版(MVCF-24035)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Grunge"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mub8kmp40nfrc",
+      "artist": "Queen",
+      "album": "Greatest Hits",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1994日版(TOCP-8284)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mub8kmp4kj27q",
+      "artist": "Stevie Wonder",
+      "album": "Songs In The Key Of Life - Vol. 1 & 2",
+      "price": "700",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1997日版(POCT-1927/8)，2CD，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Funk/Soul"
+      ],
+      "subgenres": [
+        "Funk/Soul"
       ],
       "reserved": false
     }
