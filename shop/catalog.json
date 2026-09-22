@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T08:42:48.217Z",
+  "generatedAt": "2026-09-22T11:47:54.840Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -4911,6 +4911,195 @@
       ],
       "subgenres": [
         "Funk/Soul"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mucm1067n9evi",
+      "artist": "Rage",
+      "album": "End Of All Days",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1996德版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Metal"
+      ],
+      "subgenres": [
+        "Heavy Metal"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mucm10674aprz",
+      "artist": "",
+      "album": "From The Cradle",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1994日版(WPCR-90)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Blues Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mucm1067xqe5d",
+      "artist": "Lady Gaga",
+      "album": "The Fame Monster",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2009日版(UICS-1195/6)，2CD，雙封面，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Dance-Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mucm106735nub",
+      "artist": "Bon Jovi",
+      "album": "Cross Road",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1994美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mucm1067lsiu8",
+      "artist": "The Doobie Brothers",
+      "album": "Best Of The Doobies",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1990日版(WPCP-3967)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mucm1067x7tx9",
+      "artist": "Guns N' Roses",
+      "album": "Use Your Illusion I",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1991日版(MVCG-43)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Hard Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mucm1067y2oql",
+      "artist": "Guns N' Roses",
+      "album": "Use Your Illusion II",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1991日版(MVCG-44)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Hard Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mucm1067fj2lh",
+      "artist": "Guns N' Roses",
+      "album": "\"The Spaghetti Incident?\"",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1993台版，含含中、英文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Hard Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mucm1067p1pzb",
+      "artist": "Queen",
+      "album": "Sheer Heart Attack",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1993歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
       ],
       "reserved": false
     }
