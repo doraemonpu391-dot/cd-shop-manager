@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T17:25:59.341Z",
+  "generatedAt": "2026-09-22T17:31:08.327Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -2932,27 +2932,6 @@
       "reserved": false
     },
     {
-      "id": "mtlgs7s8zdr9g",
-      "artist": "Jimi Hendrix",
-      "album": "The Ultimate Experience",
-      "price": "300",
-      "origPrice": "350",
-      "noPromo": false,
-      "notes": "1991日版(POCP-1270)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Psychedelic Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mtlgs7sc1g03c",
       "artist": "Rainbow",
       "album": "The Best !",
@@ -4020,27 +3999,6 @@
       "reserved": false
     },
     {
-      "id": "mtzm3oeyht5ab",
-      "artist": "宇多田光",
-      "album": "First Love",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1999台版，含中、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "日本"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "J-pop"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mtzm3oey57i6y",
       "artist": "Kevin Ayers",
       "album": "Joy Of A Toy",
@@ -4289,27 +4247,6 @@
       ],
       "subgenres": [
         "Dance-Pop"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mu2mpogkp4qs0",
-      "artist": "Yes",
-      "album": "Relayer",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1988美版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Prog Rock"
       ],
       "reserved": false
     },
@@ -4953,27 +4890,6 @@
       ],
       "subgenres": [
         "Blues Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mucm1067xqe5d",
-      "artist": "Lady Gaga",
-      "album": "The Fame Monster",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2009日版(UICS-1195/6)，2CD，雙封面，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Dance-Pop"
       ],
       "reserved": false
     },
