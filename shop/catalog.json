@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T17:31:08.327Z",
+  "generatedAt": "2026-09-23T11:52:17.257Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5016,6 +5016,195 @@
       ],
       "subgenres": [
         "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mue1mghz65xli",
+      "artist": "Macy Gray",
+      "album": "Big",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2007日版(UICA-9012)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Soul"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mue1mgi1wfhwp",
+      "artist": "Richard Ashcroft",
+      "album": "Alone With Everybody",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2000日版(VJCP-68222)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Britpop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mue1mgi1njnv4",
+      "artist": "Sigur Rós",
+      "album": "Takk...",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2005台版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Post Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mue1mgi17h8bm",
+      "artist": "The Peter Malick Group Featuring Norah Jones",
+      "album": "New York City",
+      "price": "120",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2003台版，含中、英文歌詞",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Jazz"
+      ],
+      "subgenres": [
+        "Jazz"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mue1mgi1i0zxv",
+      "artist": "Air",
+      "album": "Talkie Walkie",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2004歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Electronic"
+      ],
+      "subgenres": [
+        "Downtempo"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mue1mgi11ubqa",
+      "artist": "Foo Fighters",
+      "album": "There Is Nothing Left To Lose",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1999日版(BVCP-21109)，含紋身貼紙，英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mue1mgi1doxnp",
+      "artist": "Ne-Yo",
+      "album": "In My Own Words",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2006台版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Contemporary R&B"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mue1mgi18j8dc",
+      "artist": "The Jazz Butcher",
+      "album": "Fishcotheque",
+      "price": "500",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1988美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mue1mgi127tlc",
+      "artist": "The Cure",
+      "album": "Greatest Hits",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2001台灣環球引進歐版",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "New Wave"
       ],
       "reserved": false
     }
