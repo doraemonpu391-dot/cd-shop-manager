@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T10:09:36.890Z",
+  "generatedAt": "2026-09-24T13:26:10.629Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5205,6 +5205,195 @@
       ],
       "subgenres": [
         "New Wave"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mufkf2fprq7e1",
+      "artist": "Metallica",
+      "album": "St. Anger",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2003日版(SICP 373~4)，CD+DVD，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Metal"
+      ],
+      "subgenres": [
+        "Thrash Metal"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mufkf2frt2iiq",
+      "artist": "Madonna",
+      "album": "American Life",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2003台版，含VIP序號、華納回函卡",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Synth-Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mufkf2fr7u4rn",
+      "artist": "Bruno Mars",
+      "album": "Doo-Wops & Hooligans",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2011歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Contemporary R&B"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mufkf2frvikhg",
+      "artist": "Blink-182",
+      "album": "Take Off Your Pants And Jacket",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2001歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mufkf2frb39t5",
+      "artist": "Dave Matthews Band",
+      "album": "Everyday",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2001日版(BVCP-21140)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mufkf2fr1ex95",
+      "artist": "Billy Joel",
+      "album": "River Of Dreams",
+      "price": "70",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1993歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mufkf2fr12fyg",
+      "artist": "Jamiroquai",
+      "album": "The Return Of The Space Cowboy",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1994英版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Funk/Soul"
+      ],
+      "subgenres": [
+        "Acid Jazz"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mufkf2frvw0so",
+      "artist": "Franz Ferdinand",
+      "album": "Franz Ferdinand",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2004日版(EICP 392)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mufkf2fr02mft",
+      "artist": "Kanye West",
+      "album": "Late Registration",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2005歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Hip-Hop/R&B"
+      ],
+      "subgenres": [
+        "Pop Rap"
       ],
       "reserved": false
     }
