@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T13:26:10.629Z",
+  "generatedAt": "2026-09-25T08:34:36.765Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5394,6 +5394,195 @@
       ],
       "subgenres": [
         "Pop Rap"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mugpfyuhdoyj0",
+      "artist": "Paul McCartney",
+      "album": "Off The Ground",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1993日版(TOCP-7580)，1CD+1miniCD單曲，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Classic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mugpfyujzu13s",
+      "artist": "Avril Lavigne",
+      "album": "Avril Lavigne",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2003歐版，有日本租借片印（レンタル専用）",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mugpfyujetws8",
+      "artist": "Veruca Salt",
+      "album": "Eight Arms To Hold You",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1997日版(MVCG-219)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mugpfyujfbf78",
+      "artist": "Sum 41",
+      "album": "All Killer No Filler",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2001日版(UICL 1007)，含影片內容Enhanced CD，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mugpfyuj7rrk6",
+      "artist": "Carpenters",
+      "album": "Now & Then",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1998歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Soft Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mugpfyujzvl7o",
+      "artist": "Rihanna",
+      "album": "Music Of The Sun",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2005日版(UICD-9015)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Hip-Hop/R&B"
+      ],
+      "subgenres": [
+        "Contemporary R&B"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mugpfyujk2y00",
+      "artist": "Mr.big",
+      "album": "Hey Man",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1996歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Hard Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mugpfyuj151ka",
+      "artist": "The Black Eyed Peas",
+      "album": "The Beginning",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2010歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Electronic"
+      ],
+      "subgenres": [
+        "Electro House"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mugpfyujhn8vj",
+      "artist": "Phil Collins",
+      "album": "No Jacket Required",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1998日版(20P2-2421)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
       ],
       "reserved": false
     }
