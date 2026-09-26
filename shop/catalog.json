@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T07:46:43.508Z",
+  "generatedAt": "2026-09-26T10:06:52.360Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5394,6 +5394,195 @@
       ],
       "subgenres": [
         "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mui86h35kmzma",
+      "artist": "Noel Gallagher's High Flying Birds",
+      "album": "Noel Gallagher's High Flying Birds",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2011英版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mui86h36u1pch",
+      "artist": "Sade",
+      "album": "Love Deluxe",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1992日版(ESCA 5673)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Smooth Jazz"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mui86h36jqaot",
+      "artist": "Sonic Youth",
+      "album": "A Thousand Leaves",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1998美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Noise Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mui86h36f1fr9",
+      "artist": "The Strokes",
+      "album": "First Impressions Of Earth",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2006歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mui86h36216qd",
+      "artist": "Jamiroquai",
+      "album": "Travelling Without Moving",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1996歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Funk/Soul"
+      ],
+      "subgenres": [
+        "Acid Jazz"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mui86h36gyltk",
+      "artist": "Nas",
+      "album": "Illmatic",
+      "price": "500",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1996日版(SRCS 8086)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Hip Hop"
+      ],
+      "subgenres": [
+        "Conscious Hip Hop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mui86h366gevs",
+      "artist": "Various",
+      "album": "Music From The Motion Picture Pulp Fiction",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1994美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Soundtrack/Stage"
+      ],
+      "subgenres": [
+        "Soundtrack/Stage"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mui86h36sptev",
+      "artist": "Blur",
+      "album": "Modern Life Is Rubbish",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1993歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Britpop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mui86h36mpchz",
+      "artist": "Sex Pistols",
+      "album": "Never Mind The Bollocks Here's The Sex Pistols",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1993日版(VJCP-23171)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Punk"
       ],
       "reserved": false
     }
