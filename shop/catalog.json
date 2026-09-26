@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T21:19:03.440Z",
+  "generatedAt": "2026-09-26T21:21:12.728Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -999,27 +999,6 @@
       "reserved": false
     },
     {
-      "id": "msk9c09v3jeg8",
-      "artist": "Erykah Badu",
-      "album": "Live",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "僅半邊側標",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Hip-Hop/R&B"
-      ],
-      "subgenres": [
-        "Neo Soul"
-      ],
-      "reserved": false
-    },
-    {
       "id": "msk9c09vkjpcn",
       "artist": "Mike Oldfield",
       "album": "Tubular Bells",
@@ -1205,27 +1184,6 @@
       ],
       "subgenres": [
         "Indie Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mssy2rdk75tn7",
-      "artist": "Tears For Fears",
-      "album": "Songs From The Big Chair",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "New Wave"
       ],
       "reserved": false
     },
@@ -4393,27 +4351,6 @@
       "reserved": false
     },
     {
-      "id": "mu5gyrvuf2l22",
-      "artist": "Janet Jackson",
-      "album": "The Velvet Rope",
-      "price": "150",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1997歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Contemporary R&B"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mu5gyrvudga1w",
       "artist": "Led Zeppelin",
       "album": "In Through The Out Door",
@@ -5393,27 +5330,6 @@
       ],
       "subgenres": [
         "Indie Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mui86h36216qd",
-      "artist": "Jamiroquai",
-      "album": "Travelling Without Moving",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1996歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Funk/Soul"
-      ],
-      "subgenres": [
-        "Acid Jazz"
       ],
       "reserved": false
     },
