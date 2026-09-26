@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T08:34:36.765Z",
+  "generatedAt": "2026-09-26T06:27:11.121Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -576,27 +576,6 @@
       ],
       "subgenres": [
         "Prog Metal"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mrvfuwhsy1ttk",
-      "artist": "Eminem",
-      "album": "The Eminem Show",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "CD+DVD",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Hip-Hop/R&B"
-      ],
-      "subgenres": [
-        "Hardcore Hip Hop"
       ],
       "reserved": false
     },
@@ -2554,48 +2533,6 @@
       "reserved": false
     },
     {
-      "id": "mtfq85npbof69",
-      "artist": "Queen",
-      "album": "Jewels",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2004日版，含英、日文歌詞解說、樂團介紹",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Classic Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtfq85np7gb3z",
-      "artist": "Queen",
-      "album": "Greatest Hits II",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1991日版，含英、日文歌詞解說、相片集",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Classic Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mtfq85npx1xmg",
       "artist": "Madonna",
       "album": "Erotica",
@@ -3180,27 +3117,6 @@
       "reserved": false
     },
     {
-      "id": "mtr7ci9lqufn2",
-      "artist": "Mariah Carey",
-      "album": "Emotions",
-      "price": "150",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1991日版(SRCS 5630)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Contemporary R&B"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mtr7ci9l2a5dv",
       "artist": "Kasabian",
       "album": "Empire",
@@ -3306,27 +3222,6 @@
       "reserved": false
     },
     {
-      "id": "mtu4lf44eeitd",
-      "artist": "Queen",
-      "album": "A Night At The Opera",
-      "price": "500",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1993歐版",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mtu4lf44b6bpb",
       "artist": "Sinéad O'Connor",
       "album": "Universal Mother",
@@ -3397,27 +3292,6 @@
       "origPrice": "",
       "noPromo": false,
       "notes": "1995日版(WPCR-386)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtvgdjswb6obn",
-      "artist": "Queen",
-      "album": "Innuendo",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1991英版",
       "sideLabel": false,
       "hasImage": true,
       "regions": [
@@ -4810,27 +4684,6 @@
       "reserved": false
     },
     {
-      "id": "mub8kmp40nfrc",
-      "artist": "Queen",
-      "album": "Greatest Hits",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1994日版(TOCP-8284)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mub8kmp4kj27q",
       "artist": "Stevie Wonder",
       "album": "Songs In The Key Of Life - Vol. 1 & 2",
@@ -4995,27 +4848,6 @@
       ],
       "subgenres": [
         "Hard Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mucm1067p1pzb",
-      "artist": "Queen",
-      "album": "Sheer Heart Attack",
-      "price": "400",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1993歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
       ],
       "reserved": false
     },
@@ -5247,27 +5079,6 @@
       ],
       "subgenres": [
         "Synth-Pop"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mufkf2fr7u4rn",
-      "artist": "Bruno Mars",
-      "album": "Doo-Wops & Hooligans",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2011歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Contemporary R&B"
       ],
       "reserved": false
     },
