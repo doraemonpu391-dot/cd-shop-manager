@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T10:45:58.683Z",
+  "generatedAt": "2026-09-26T10:59:12.147Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -130,28 +130,6 @@
       ],
       "subgenres": [
         "Dance-Pop"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mr9lfw79gscoi",
-      "artist": "Various Artists",
-      "album": "8 Mile",
-      "price": "70",
-      "origPrice": "100",
-      "noPromo": false,
-      "genre": "Hip Hop",
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Hip-Hop/R&B"
-      ],
-      "subgenres": [
-        "Gangsta"
       ],
       "reserved": false
     },
@@ -4768,27 +4746,6 @@
       "reserved": false
     },
     {
-      "id": "mucm1067x7tx9",
-      "artist": "Guns N' Roses",
-      "album": "Use Your Illusion I",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1991日版(MVCG-43)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Hard Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mucm1067y2oql",
       "artist": "Guns N' Roses",
       "album": "Use Your Illusion II",
@@ -5142,27 +5099,6 @@
       ],
       "subgenres": [
         "Acid Jazz"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mufkf2frvw0so",
-      "artist": "Franz Ferdinand",
-      "album": "Franz Ferdinand",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2004日版(EICP 392)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Indie Rock"
       ],
       "reserved": false
     },
