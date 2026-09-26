@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T10:06:52.360Z",
+  "generatedAt": "2026-09-26T10:45:03.694Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -3281,27 +3281,6 @@
       ],
       "subgenres": [
         "Pop Rap"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtvgdjsula3kl",
-      "artist": "Fleetwood Mac",
-      "album": "Tango In The Night",
-      "price": "450",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1995日版(WPCR-386)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
       ],
       "reserved": false
     },
