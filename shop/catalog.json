@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T05:15:29.241Z",
+  "generatedAt": "2026-09-27T05:54:58.801Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5466,5 +5466,6 @@
       "kind": "freeship",
       "value": 100
     }
-  ]
+  ],
+  "offerOn": true
 }
