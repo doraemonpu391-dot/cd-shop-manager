@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T10:18:27.653Z",
+  "generatedAt": "2026-09-27T10:21:17.150Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5267,27 +5267,6 @@
       ],
       "subgenres": [
         "Indie Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mui86h36u1pch",
-      "artist": "Sade",
-      "album": "Love Deluxe",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1992日版(ESCA 5673)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Smooth Jazz"
       ],
       "reserved": false
     },
