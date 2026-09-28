@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T10:21:17.150Z",
+  "generatedAt": "2026-09-28T10:34:25.642Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -3473,27 +3473,6 @@
       "reserved": false
     },
     {
-      "id": "mtxbdzosutjqy",
-      "artist": "Led Zeppelin",
-      "album": "Led Zeppelin IV",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1988日版(20P2-2026)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Classic Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mtxbdzos0h3ey",
       "artist": "Yes",
       "album": "Close To The Edge",
@@ -3679,27 +3658,6 @@
       ],
       "subgenres": [
         "Alt-Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mty235er6nxq5",
-      "artist": "Sade",
-      "album": "Diamond Life",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1985美版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Jazz"
-      ],
-      "subgenres": [
-        "Smooth Jazz"
       ],
       "reserved": false
     },
