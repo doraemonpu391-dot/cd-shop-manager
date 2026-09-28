@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T10:34:25.642Z",
+  "generatedAt": "2026-09-28T12:44:19.796Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5519,6 +5519,195 @@
       ],
       "subgenres": [
         "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mul8onk8v99wh",
+      "artist": "Ke$ha",
+      "album": "Warrior",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2012台版，含中、英文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Dance-Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mul8onk89i6fn",
+      "artist": "Lenny Kravitz",
+      "album": "Baptism",
+      "price": "70",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2004歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mul8onk8o1pi9",
+      "artist": "Nickelback",
+      "album": "The Long Road",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2003美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Grunge"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mul8onk82emom",
+      "artist": "Green Day",
+      "album": "Nimrod.",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1999歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mul8onk8twp94",
+      "artist": "The Black Crowes",
+      "album": "The Southern Harmony And Musical Companion",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1992美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Southern Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mul8onk8b7ibq",
+      "artist": "Foo Fighters",
+      "album": "One By One",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2003日版(BVCP-27032)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mul8onk8qbjhh",
+      "artist": "Shadow Gallery",
+      "album": "Carved In Stone",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1995日版(APCY-8236)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Metal"
+      ],
+      "subgenres": [
+        "Prog Metal"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mul8onk8duso0",
+      "artist": "Avril Lavigne",
+      "album": "Let Go",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2002日版(BVCA-24007)，含影片內容Enhanced CD，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mul8onk80w44b",
+      "artist": "Avril Lavigne",
+      "album": "The Best Damn Thing",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2007日版(BVCA-24110)，含影片內容Enhanced CD，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
       ],
       "reserved": false
     }
