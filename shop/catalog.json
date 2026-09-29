@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T12:44:19.796Z",
+  "generatedAt": "2026-09-29T15:20:24.073Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5708,6 +5708,191 @@
       ],
       "subgenres": [
         "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mumtp7jdy6gfa",
+      "artist": "Oasis",
+      "album": "Heathen Chemistry",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2002日本先行発売日版(EICP 111)，含英、日文歌詞解說，Bonus Track",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Britpop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mumtp7jgsvimh",
+      "artist": "Red Hot Chili Peppers",
+      "album": "Californication",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1999日版(WPCR-10375)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mumtp7jhenvjo",
+      "artist": "The Beatles",
+      "album": "Revolver",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1987日版(CP32-5327)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mumtp7jhjcas8",
+      "artist": "U2",
+      "album": "All That You Can't Leave Behind",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2000美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mumtp7jhxzsl2",
+      "artist": "Primal Scream",
+      "album": "Give Out But Don't Give Up",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2011英版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [],
+      "subgenres": [],
+      "reserved": false
+    },
+    {
+      "id": "mumtp7jhf73ab",
+      "artist": "Van Halen",
+      "album": "Van Halen",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1995歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Hard Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mumtp7jh93l67",
+      "artist": "King Crimson",
+      "album": "Starless And Bible Black",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1989美版，Robert Fripp親自重混The Definitive Edition",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Prog Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mumtp7jhbssom",
+      "artist": "Bon Jovi",
+      "album": "Have A Nice Day",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2005台版，CD+DVD",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mumtp7jis2yvb",
+      "artist": "Various",
+      "album": "Lady Gaga: The Super Fame Hits",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2010上碟唱片發行純翻唱合輯，由不知名錄音室樂手演唱Lady Gaga, Beyonce, The Black Eyed Peas, Ke$ha之作品",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Dance-Pop"
       ],
       "reserved": false
     }
