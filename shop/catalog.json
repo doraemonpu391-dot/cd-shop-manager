@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T12:08:07.353Z",
+  "generatedAt": "2026-09-30T17:47:57.931Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5767,27 +5767,6 @@
       ],
       "subgenres": [
         "Dance-Pop"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "muo29s0yq7r75",
-      "artist": "Morphine",
-      "album": "Cure For Pain",
-      "price": "400",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1996日版(VACK-2001)，含英、日文歌詞解說，非常好聽",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Alt-Rock"
       ],
       "reserved": false
     },
