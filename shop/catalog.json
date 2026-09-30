@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T10:23:09.217Z",
+  "generatedAt": "2026-09-30T12:08:07.353Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5767,6 +5767,195 @@
       ],
       "subgenres": [
         "Dance-Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muo29s0yq7r75",
+      "artist": "Morphine",
+      "album": "Cure For Pain",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1996日版(VACK-2001)，含英、日文歌詞解說，非常好聽",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muo29s10h4i40",
+      "artist": "Weezer",
+      "album": "Weezer (Red Album)",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2008美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muo29s11bb8y0",
+      "artist": "Pink Floyd",
+      "album": "The Dark Side Of The Moon (SACD)",
+      "price": "1000",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2003美版，多聲道/雙聲道混合SACD",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Prog Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muo29s11re5ag",
+      "artist": "Sonic Youth",
+      "album": "NYC Ghosts & Flowers",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2000美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Noise Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muo29s11mf9qf",
+      "artist": "The Jimi Hendrix Experience",
+      "album": "Are You Experienced",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1997日版(MVCE-24027)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Psychedelic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muo29s11ebqzx",
+      "artist": "The Rentals",
+      "album": "Return Of The Rentals",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1996日版(WPCR-651)，含英、日文歌詞解說，Weezer Matt Sharp個人團",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muo29s11c10av",
+      "artist": "The Doors",
+      "album": "The Doors",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1988日版(20P2-2344)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Psychedelic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muo29s11xgut5",
+      "artist": "Nirvana",
+      "album": "MTV Unplugged In New York",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1994日版(MVCG-163)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muo29s11eb769",
+      "artist": "Metallica",
+      "album": "Load",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1996歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Hard Rock"
       ],
       "reserved": false
     }
