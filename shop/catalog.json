@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T17:38:47.605Z",
+  "generatedAt": "2026-09-30T10:19:14.822Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -1776,27 +1776,6 @@
       "reserved": false
     },
     {
-      "id": "mt4dlkq63xnw2",
-      "artist": "The Cranberries",
-      "album": "Bury The Hatchet",
-      "price": "100",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Alt-Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mt4dlkq6bbtjd",
       "artist": "Eagles",
       "album": "Hell Freezes Over",
@@ -2990,27 +2969,6 @@
       "reserved": false
     },
     {
-      "id": "mtr7ci9lx1zyk",
-      "artist": "Green Day",
-      "album": "Bullet In A Bible",
-      "price": "500",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2005初回日盤(WPZR-30108~9)，CD+DVD，含透明塑膠殼、英日文歌詞解說、原裝塑膠套",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Punk"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mtr7ci9lkcmfm",
       "artist": "Metallica",
       "album": "Reload",
@@ -3112,27 +3070,6 @@
       ],
       "subgenres": [
         "Psychedelic Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtsn73pqlgmbn",
-      "artist": "Nirvana",
-      "album": "MTV Unplugged In New York",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1994美版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Grunge"
       ],
       "reserved": false
     },
@@ -5376,27 +5313,6 @@
       "reserved": false
     },
     {
-      "id": "mujnbjt960vdn",
-      "artist": "Linkin Park",
-      "album": "Meteora",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2003台版，含中、英文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Nu Metal"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mujnbjt9s6oij",
       "artist": "宇多田光",
       "album": "Distance",
@@ -5708,48 +5624,6 @@
       ],
       "subgenres": [
         "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mumtp7jdy6gfa",
-      "artist": "Oasis",
-      "album": "Heathen Chemistry",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2002日本先行発売日版(EICP 111)，含英、日文歌詞解說，Bonus Track",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Britpop"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mumtp7jgsvimh",
-      "artist": "Red Hot Chili Peppers",
-      "album": "Californication",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1999日版(WPCR-10375)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Alt-Rock"
       ],
       "reserved": false
     },
