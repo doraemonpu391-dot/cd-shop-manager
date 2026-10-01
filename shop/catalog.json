@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T17:47:57.931Z",
+  "generatedAt": "2026-10-01T05:16:56.387Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -687,27 +687,6 @@
       "id": "ms1jfcf1paqhn",
       "artist": "The White Stripes",
       "album": "Get Behind Me Satan",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Alt-Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "ms1jfcf1tjl53",
-      "artist": "Colplay",
-      "album": "X&Y",
       "price": "250",
       "origPrice": "",
       "noPromo": false,
@@ -2007,27 +1986,6 @@
       "reserved": false
     },
     {
-      "id": "mt8kcm849am3c",
-      "artist": "Portishead",
-      "album": "Portishead",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1997歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Electronic"
-      ],
-      "subgenres": [
-        "Trip Hop"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mta31n6z0fwm0",
       "artist": "The Beatles",
       "album": "White Album",
@@ -2318,48 +2276,6 @@
       ],
       "subgenres": [
         "Europop"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtcw0930hxkqi",
-      "artist": "Alanis Morissette",
-      "album": "Jagged Little Pill",
-      "price": "100",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1995台版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Alt-Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtcw0930nr8o9",
-      "artist": "Blind Melon",
-      "album": "Nico",
-      "price": "150",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1996歐版，Enhanced CD",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Alt-Rock"
       ],
       "reserved": false
     },
@@ -2923,27 +2839,6 @@
       ],
       "subgenres": [
         "Indie Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtpglg5wnqrmq",
-      "artist": "Alanis Morissette",
-      "album": "MTV Unplugged",
-      "price": "100",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1999台版，含英文歌詞紙",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
       ],
       "reserved": false
     },
@@ -4267,27 +4162,6 @@
       "reserved": false
     },
     {
-      "id": "mu5gyrvutatd8",
-      "artist": "Alanis Morissette",
-      "album": "Under Rug Swept",
-      "price": "100",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2002歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mu5gyrvut6857",
       "artist": "Madonna",
       "album": "I'm Breathless (Music From And Inspired By The Film Dick Tracy)",
@@ -4536,27 +4410,6 @@
       "reserved": false
     },
     {
-      "id": "mucm106735nub",
-      "artist": "Bon Jovi",
-      "album": "Cross Road",
-      "price": "100",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1994美版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mucm1067lsiu8",
       "artist": "The Doobie Brothers",
       "album": "Best Of The Doobies",
@@ -4574,27 +4427,6 @@
       ],
       "subgenres": [
         "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mucm1067y2oql",
-      "artist": "Guns N' Roses",
-      "album": "Use Your Illusion II",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1991日版(MVCG-44)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Hard Rock"
       ],
       "reserved": false
     },
@@ -5414,27 +5246,6 @@
       ],
       "subgenres": [
         "Indie Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mujnbjt952fh7",
-      "artist": "U2",
-      "album": "The Joshua Tree",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1992美版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Alt-Rock"
       ],
       "reserved": false
     },
