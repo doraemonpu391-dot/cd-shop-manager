@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T18:09:03.546Z",
+  "generatedAt": "2026-10-02T17:56:05.233Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -4658,27 +4658,6 @@
       ],
       "subgenres": [
         "Synth-Pop"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mufkf2frvikhg",
-      "artist": "Blink-182",
-      "album": "Take Off Your Pants And Jacket",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2001歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Punk"
       ],
       "reserved": false
     },
