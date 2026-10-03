@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T12:39:44.472Z",
+  "generatedAt": "2026-10-03T16:50:39.251Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5645,27 +5645,6 @@
       "reserved": false
     },
     {
-      "id": "musdmriv8kncu",
-      "artist": "Green Day",
-      "album": "21st Century Breakdown",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2009日版(WPCR-13377)，含、英日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Punk"
-      ],
-      "reserved": false
-    },
-    {
       "id": "musdmrixg1loj",
       "artist": "Pulp",
       "album": "Different Class",
@@ -5683,27 +5662,6 @@
       ],
       "subgenres": [
         "Britpop"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "musdmrix0msek",
-      "artist": "MGMT",
-      "album": "Congratulations",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2010美版，日本輸入盤、原租借品",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Psychedelic Rock"
       ],
       "reserved": false
     },
@@ -5767,27 +5725,6 @@
       ],
       "subgenres": [
         "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "musdmrix70ko6",
-      "artist": "Lady Gaga",
-      "album": "The Fame",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2008歐版，超級膠殼",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Dance-Pop"
       ],
       "reserved": false
     },
