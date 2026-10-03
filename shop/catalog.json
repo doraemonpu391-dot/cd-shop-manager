@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T08:06:43.839Z",
+  "generatedAt": "2026-10-03T12:39:44.472Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5641,6 +5641,195 @@
       ],
       "subgenres": [
         "Hard Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "musdmriv8kncu",
+      "artist": "Green Day",
+      "album": "21st Century Breakdown",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2009日版(WPCR-13377)，含、英日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "musdmrixg1loj",
+      "artist": "Pulp",
+      "album": "Different Class",
+      "price": "450",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1995歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Britpop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "musdmrix0msek",
+      "artist": "MGMT",
+      "album": "Congratulations",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2010美版，日本輸入盤、原租借品",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Psychedelic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "musdmrixyka3a",
+      "artist": "The Beatles",
+      "album": "1967-1970",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2010日版(TOCP-71019・20)，2CD，含、英日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "musdmrixpyelp",
+      "artist": "Franz Ferdinand",
+      "album": "Franz Ferdinand",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2004日版(EICP 392)，含、英日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "musdmrixfugxb",
+      "artist": "Fiona Apple",
+      "album": "When The Pawn",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1999加版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "musdmrix70ko6",
+      "artist": "Lady Gaga",
+      "album": "The Fame",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2008歐版，超級膠殼",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Dance-Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "musdmrixj0hz3",
+      "artist": "Blur",
+      "album": "Parklife",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1994歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Britpop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "musdmrix508oz",
+      "artist": "Kendrick Lamar",
+      "album": "To Pimp A Butterfly",
+      "price": "500",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2015歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Hip-Hop/R&B"
+      ],
+      "subgenres": [
+        "Conscious Hip Hop"
       ],
       "reserved": false
     }
