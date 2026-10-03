@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T05:14:51.912Z",
+  "generatedAt": "2026-10-03T05:16:08.300Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -2213,27 +2213,6 @@
       ],
       "subgenres": [
         "Classic Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtbcjtcak0402",
-      "artist": "Aphex Twin",
-      "album": "Richard D. James Album",
-      "price": "500",
-      "origPrice": "600",
-      "noPromo": false,
-      "notes": "1997美版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Electronic"
-      ],
-      "subgenres": [
-        "IDM"
       ],
       "reserved": false
     },
