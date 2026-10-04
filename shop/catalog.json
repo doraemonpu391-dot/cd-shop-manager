@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T17:24:39.638Z",
+  "generatedAt": "2026-10-04T06:57:50.800Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -701,27 +701,6 @@
       ],
       "subgenres": [
         "Alt-Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "ms1jfcf17a4c0",
-      "artist": "The Offspring",
-      "album": "Americana",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "日版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Punk"
       ],
       "reserved": false
     },
@@ -2570,27 +2549,6 @@
       ],
       "subgenres": [
         "Folk Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtio6dne8qdjl",
-      "artist": "Def Leppard",
-      "album": "Adrenalize",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1992日版(PHCR-1161)，含日文解說、歌詞",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Hard Rock"
       ],
       "reserved": false
     },
@@ -4448,27 +4406,6 @@
       ],
       "subgenres": [
         "Britpop"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mue1mgi1njnv4",
-      "artist": "Sigur Rós",
-      "album": "Takk...",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2005台版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Post Rock"
       ],
       "reserved": false
     },
