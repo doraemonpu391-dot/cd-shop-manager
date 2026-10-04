@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T11:45:44.048Z",
+  "generatedAt": "2026-10-04T17:53:50.189Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -1440,27 +1440,6 @@
       "reserved": false
     },
     {
-      "id": "msyo1qgjcaqa5",
-      "artist": "Metallica",
-      "album": "Death Magnetic",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "台版，含中文底頁",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Metal"
-      ],
-      "subgenres": [
-        "Thrash Metal"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mt042t1tdrqkp",
       "artist": "Chicago",
       "album": "The Heart Of Chicago",
@@ -2532,27 +2511,6 @@
       "reserved": false
     },
     {
-      "id": "mtio6dne45tm4",
-      "artist": "Carole King",
-      "album": "Tapestry",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1991日版(ESCA 5283)，含日文解說、歌詞",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Folk Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mtio6dnehgc18",
       "artist": "The Offspring",
       "album": "Smash",
@@ -2797,27 +2755,6 @@
       ],
       "subgenres": [
         "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtr7ci9lkcmfm",
-      "artist": "Metallica",
-      "album": "Reload",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1997美版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Metal"
-      ],
-      "subgenres": [
-        "Thrash Metal"
       ],
       "reserved": false
     },
@@ -4536,27 +4473,6 @@
       "reserved": false
     },
     {
-      "id": "mufkf2fprq7e1",
-      "artist": "Metallica",
-      "album": "St. Anger",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2003日版(SICP 373~4)，CD+DVD，含英、日文歌詞解說",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Metal"
-      ],
-      "subgenres": [
-        "Thrash Metal"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mufkf2frt2iiq",
       "artist": "Madonna",
       "album": "American Life",
@@ -5271,27 +5187,6 @@
       "reserved": false
     },
     {
-      "id": "mumtp7jhjcas8",
-      "artist": "U2",
-      "album": "All That You Can't Leave Behind",
-      "price": "100",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2000美版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mumtp7jhxzsl2",
       "artist": "Primal Scream",
       "album": "Give Out But Don't Give Up",
@@ -5519,27 +5414,6 @@
       "reserved": false
     },
     {
-      "id": "muo29s11eb769",
-      "artist": "Metallica",
-      "album": "Load",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1996歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Hard Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "musdmrixg1loj",
       "artist": "Pulp",
       "album": "Different Class",
@@ -5666,27 +5540,6 @@
       "reserved": false
     },
     {
-      "id": "mutr8ehn7h442",
-      "artist": "Nirvana",
-      "album": "MTV Unplugged In New York",
-      "price": "450",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1994台版",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Grunge"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mutr8ehn3mxcj",
       "artist": "Beck",
       "album": "Midnite Vultures",
@@ -5725,27 +5578,6 @@
       ],
       "subgenres": [
         "Pop Punk"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mutr8ehnc1fnd",
-      "artist": "Europe",
-      "album": "Out Of This World",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1988日版(VDPB-25001)，含日文歌詞、解說，此版發行無底頁",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Soft Rock"
       ],
       "reserved": false
     },
