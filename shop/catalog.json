@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T17:54:43.085Z",
+  "generatedAt": "2026-10-04T18:11:03.156Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5684,6 +5684,21 @@
       "subgenres": [
         "Pop Rock"
       ],
+      "reserved": false
+    },
+    {
+      "id": "muu4zulg04mqd",
+      "artist": "Unknown Artist",
+      "album": "飄帶",
+      "price": "0",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "數量有限，送完為止",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [],
+      "genres": [],
+      "subgenres": [],
       "reserved": false
     }
   ],
