@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T07:05:30.161Z",
+  "generatedAt": "2026-10-04T11:45:44.048Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5662,6 +5662,195 @@
       ],
       "subgenres": [
         "Conscious Hip Hop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mutr8ehn7h442",
+      "artist": "Nirvana",
+      "album": "MTV Unplugged In New York",
+      "price": "450",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1994台版",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Grunge"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mutr8ehn3mxcj",
+      "artist": "Beck",
+      "album": "Midnite Vultures",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1999歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Synth-Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mutr8ehnp1vsm",
+      "artist": "Sum41",
+      "album": "Chuck",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2004日版(UICL-1044)，含日文歌詞、解說，原租借片",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mutr8ehnc1fnd",
+      "artist": "Europe",
+      "album": "Out Of This World",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1988日版(VDPB-25001)，含日文歌詞、解說，此版發行無底頁",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Soft Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mutr8ehnx0jic",
+      "artist": "Mogwai",
+      "album": "Happy Songs For Happy People",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2003日版(TFCK-87316)，含日文歌詞、解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Post Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mutr8ehndagpk",
+      "artist": "Eagles",
+      "album": "Hell Freezes Over",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1994歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Classic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mutr8ehncm4ge",
+      "artist": "Avril Lavigne",
+      "album": "Under My Skin",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2004日版(BVCA-24020)，含日文歌詞、解說，小海報",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mutr8ehoz8ie0",
+      "artist": "U2",
+      "album": "The Joshua Tree",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1992日版(PHCR-1706)，含日文歌詞、解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mutr8eho1x71a",
+      "artist": "Bon Jovi",
+      "album": "Crush",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2000歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
       ],
       "reserved": false
     }
