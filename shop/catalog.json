@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T18:14:13.247Z",
+  "generatedAt": "2026-10-05T12:25:19.910Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5699,6 +5699,195 @@
       "regions": [],
       "genres": [],
       "subgenres": [],
+      "reserved": false
+    },
+    {
+      "id": "muv835ru1x27w",
+      "artist": "My Bloody Valentine",
+      "album": "Loveless",
+      "price": "800",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1998日版(ESCA 7703)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Shoegaze"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muv835rxqlagl",
+      "artist": "Nirvana",
+      "album": "Nevermind",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2008歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Grunge"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muv835rxks7hp",
+      "artist": "Nirvana",
+      "album": "Bleach",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2016歐美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Grunge"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muv835rx1m1l2",
+      "artist": "The Little Willies",
+      "album": "The Little Willies",
+      "price": "50",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2006中國發行盜版2CD，號稱dts、HDCD但應該並非真實，全新",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Jazz"
+      ],
+      "subgenres": [
+        "Folk Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muv835rx9qxrc",
+      "artist": "Enigma",
+      "album": "MCMXC a.D. \"The Limited Edition\"",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1990台灣進口歐版，含百代宣傳紙",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Electronic"
+      ],
+      "subgenres": [
+        "New Age"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muv835rxgylrz",
+      "artist": "Damien Rice",
+      "album": "O / B-Sides",
+      "price": "120",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2004台版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muv835rytw01s",
+      "artist": "Tina Turner",
+      "album": "Simply The Best",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1991歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muv835ryhgcq1",
+      "artist": "Madonna",
+      "album": "GHV2 (Greatest Hits Volume 2)",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2001台版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Dance-Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muv835ry0iwz6",
+      "artist": "Radiohead",
+      "album": "I Might Be Wrong - Live Recordings",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2001歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
       "reserved": false
     }
   ],
