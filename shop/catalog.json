@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T15:31:20.913Z",
+  "generatedAt": "2026-10-05T17:55:05.826Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5761,27 +5761,6 @@
       ],
       "subgenres": [
         "Folk Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "muv835rx9qxrc",
-      "artist": "Enigma",
-      "album": "MCMXC a.D. \"The Limited Edition\"",
-      "price": "100",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1990台灣進口歐版，含百代宣傳紙",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Electronic"
-      ],
-      "subgenres": [
-        "New Age"
       ],
       "reserved": false
     },
