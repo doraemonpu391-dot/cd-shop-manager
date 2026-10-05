@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T13:24:55.594Z",
+  "generatedAt": "2026-10-05T14:32:19.864Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5706,7 +5706,7 @@
       "artist": "My Bloody Valentine",
       "album": "Loveless",
       "price": "600",
-      "origPrice": "",
+      "origPrice": "800",
       "noPromo": false,
       "notes": "1998日版(ESCA 7703)，含英、日文歌詞解說",
       "sideLabel": true,
@@ -5719,27 +5719,6 @@
       ],
       "subgenres": [
         "Shoegaze"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "muv835rxqlagl",
-      "artist": "Nirvana",
-      "album": "Nevermind",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2008歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Grunge"
       ],
       "reserved": false
     },
@@ -5945,7 +5924,7 @@
   ],
   "promoRules": [
     {
-      "name": "長期優惠",
+      "name": "常態優惠",
       "mode": "every",
       "metric": "qty",
       "n": 3,
@@ -5953,12 +5932,12 @@
       "value": 50
     },
     {
-      "name": "滿額免運",
+      "name": "免運優惠",
       "mode": "atLeast",
       "metric": "money",
       "n": 2000,
       "kind": "freeship",
-      "value": 0
+      "value": 100
     }
   ],
   "offerOn": true
