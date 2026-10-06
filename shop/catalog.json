@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T16:28:30.748Z",
+  "generatedAt": "2026-10-06T18:56:25.538Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -976,27 +976,6 @@
         "Prog Rock"
       ],
       "reserved": false
-    },
-    {
-      "id": "msk9c09v5crx3",
-      "artist": "The Chemical Brothers",
-      "album": "Push The Button",
-      "price": "150",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Electronic"
-      ],
-      "subgenres": [
-        "Electro House"
-      ],
-      "reserved": true
     },
     {
       "id": "msm5cnhaqlfkx",
@@ -3095,27 +3074,6 @@
       "reserved": false
     },
     {
-      "id": "mtxbdzoog5tbm",
-      "artist": "Oasis",
-      "album": "The Masterplan",
-      "price": "400",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1998日版(ESCA 7383)，含英、日文歌詞解說",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Britpop"
-      ],
-      "reserved": true
-    },
-    {
       "id": "mtxbdzosn7cdi",
       "artist": "Earth, Wind & Fire",
       "album": "The Best Of Earth Wind & Fire Vol. I",
@@ -3532,27 +3490,6 @@
       ],
       "subgenres": [
         "Reggae"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mu178u6ikualh",
-      "artist": "Sex Pistols",
-      "album": "Never Mind The Bollocks Here's The Sex Pistols",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1993日版(VJCP-23171)，含英、日文歌詞解說",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Punk"
       ],
       "reserved": false
     },
@@ -4137,27 +4074,6 @@
       "reserved": false
     },
     {
-      "id": "mub8kmp4kj27q",
-      "artist": "Stevie Wonder",
-      "album": "Songs In The Key Of Life - Vol. 1 & 2",
-      "price": "700",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1997日版(POCT-1927/8)，2CD，含英、日文歌詞解說",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Funk/Soul"
-      ],
-      "subgenres": [
-        "Funk/Soul"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mucm1067n9evi",
       "artist": "Rage",
       "album": "End Of All Days",
@@ -4494,27 +4410,6 @@
       "reserved": false
     },
     {
-      "id": "mufkf2fr02mft",
-      "artist": "Kanye West",
-      "album": "Late Registration",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2005歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Hip-Hop/R&B"
-      ],
-      "subgenres": [
-        "Pop Rap"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mugpfyuhdoyj0",
       "artist": "Paul McCartney",
       "album": "Off The Ground",
@@ -4767,27 +4662,6 @@
       "reserved": false
     },
     {
-      "id": "mui86h366gevs",
-      "artist": "Various",
-      "album": "Music From The Motion Picture Pulp Fiction",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1994美版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Soundtrack/Stage"
-      ],
-      "subgenres": [
-        "Soundtrack/Stage"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mui86h36sptev",
       "artist": "Blur",
       "album": "Modern Life Is Rubbish",
@@ -4851,27 +4725,6 @@
       "reserved": false
     },
     {
-      "id": "mujnbjt9s6oij",
-      "artist": "宇多田光",
-      "album": "Distance",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2001台版，含中、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "日本"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "J-pop"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mujnbjt9d02jq",
       "artist": "Patti Smith",
       "album": "Gone Again",
@@ -4931,27 +4784,6 @@
       ],
       "subgenres": [
         "Grunge"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mujnbjt9p52s3",
-      "artist": "The Strokes",
-      "album": "Room On Fire",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2003美版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Indie Rock"
       ],
       "reserved": false
     },
@@ -5103,27 +4935,6 @@
       "reserved": false
     },
     {
-      "id": "mumtp7jhenvjo",
-      "artist": "The Beatles",
-      "album": "Revolver",
-      "price": "400",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1987日版(CP32-5327)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mumtp7jhxzsl2",
       "artist": "Primal Scream",
       "album": "Give Out But Don't Give Up",
@@ -5158,27 +4969,6 @@
       ],
       "subgenres": [
         "Hard Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mumtp7jh93l67",
-      "artist": "King Crimson",
-      "album": "Starless And Bible Black",
-      "price": "400",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1989美版，Robert Fripp親自重混The Definitive Edition",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Prog Rock"
       ],
       "reserved": false
     },
@@ -5288,27 +5078,6 @@
       "reserved": false
     },
     {
-      "id": "muo29s11mf9qf",
-      "artist": "The Jimi Hendrix Experience",
-      "album": "Are You Experienced",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1997日版(MVCE-24027)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Psychedelic Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "muo29s11ebqzx",
       "artist": "The Rentals",
       "album": "Return Of The Rentals",
@@ -5347,48 +5116,6 @@
       ],
       "subgenres": [
         "Psychedelic Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "musdmrixg1loj",
-      "artist": "Pulp",
-      "album": "Different Class",
-      "price": "450",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1995歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Britpop"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "musdmrixyka3a",
-      "artist": "The Beatles",
-      "album": "1967-1970",
-      "price": "400",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2010日版(TOCP-71019・20)，2CD，含、英日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
       ],
       "reserved": false
     },
@@ -5452,27 +5179,6 @@
       ],
       "subgenres": [
         "Britpop"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "musdmrix508oz",
-      "artist": "Kendrick Lamar",
-      "album": "To Pimp A Butterfly",
-      "price": "500",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2015歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Hip-Hop/R&B"
-      ],
-      "subgenres": [
-        "Conscious Hip Hop"
       ],
       "reserved": false
     },
@@ -5582,27 +5288,6 @@
       "reserved": false
     },
     {
-      "id": "mutr8ehoz8ie0",
-      "artist": "U2",
-      "album": "The Joshua Tree",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1992日版(PHCR-1706)，含日文歌詞、解說",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mutr8eho1x71a",
       "artist": "Bon Jovi",
       "album": "Crush",
@@ -5636,27 +5321,6 @@
       "regions": [],
       "genres": [],
       "subgenres": [],
-      "reserved": false
-    },
-    {
-      "id": "muv835ru1x27w",
-      "artist": "My Bloody Valentine",
-      "album": "Loveless",
-      "price": "600",
-      "origPrice": "800",
-      "noPromo": false,
-      "notes": "1998日版(ESCA 7703)，含英、日文歌詞解說",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Shoegaze"
-      ],
       "reserved": false
     },
     {
@@ -5740,27 +5404,6 @@
       ],
       "subgenres": [
         "Dance-Pop"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "muv835ry0iwz6",
-      "artist": "Radiohead",
-      "album": "I Might Be Wrong - Live Recordings",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2001歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Alt-Rock"
       ],
       "reserved": false
     },
@@ -5866,69 +5509,6 @@
       ],
       "subgenres": [
         "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "muwl9x8ljq5v7",
-      "artist": "Tom Waits",
-      "album": "Bone Machine",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1992美版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Experimental Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "muwl9x8ljbmw4",
-      "artist": "Oasis",
-      "album": "Definitely Maybe",
-      "price": "550",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1995台灣進口澳洲限量版，2CD(專輯CD+額外單曲CD)，含回函卡、歌詞紙",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Britpop"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "muwl9x8lb2ikk",
-      "artist": "Carole King",
-      "album": "Tapestry",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1986美版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Folk Rock"
       ],
       "reserved": false
     },
