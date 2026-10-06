@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T17:55:05.826Z",
+  "generatedAt": "2026-10-06T07:20:17.956Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -1017,7 +1017,7 @@
       "subgenres": [
         "Electro House"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "msm5cnhaqlfkx",
@@ -3155,7 +3155,7 @@
       "subgenres": [
         "Britpop"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "mtxbdzosn7cdi",
@@ -5761,27 +5761,6 @@
       ],
       "subgenres": [
         "Folk Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "muv835rxgylrz",
-      "artist": "Damien Rice",
-      "album": "O / B-Sides",
-      "price": "120",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2004台版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Indie Rock"
       ],
       "reserved": false
     },
