@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T11:22:15.965Z",
+  "generatedAt": "2026-10-06T16:28:30.748Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -974,27 +974,6 @@
       ],
       "subgenres": [
         "Prog Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "msk9c09vhb9oa",
-      "artist": "Fight",
-      "album": "War Of Words",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1993日版(ESCA-5819)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Metal"
-      ],
-      "subgenres": [
-        "Thrash Metal"
       ],
       "reserved": false
     },
@@ -2906,27 +2885,6 @@
       "reserved": false
     },
     {
-      "id": "mtu4lf44x0xhu",
-      "artist": "OutKast",
-      "album": "Speakerboxxx / The Love Below",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2003美版，2CD",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Hip-Hop/R&B"
-      ],
-      "subgenres": [
-        "Pop Rap"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mtvgdjswlnwsk",
       "artist": "Yngwie Malmsteen",
       "album": "The Seventh Sign",
@@ -3864,27 +3822,6 @@
       ],
       "subgenres": [
         "Dance-Pop"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mu41zfz5k7nmk",
-      "artist": "OutKast",
-      "album": "Idlewild",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2006日版(BVCQ-24031)，含英、日文歌詞解說",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Hip-Hop/R&B"
-      ],
-      "subgenres": [
-        "Pop Rap"
       ],
       "reserved": false
     },
