@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T09:51:23.493Z",
+  "generatedAt": "2026-10-06T11:22:15.965Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5824,6 +5824,195 @@
       ],
       "subgenres": [
         "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muwl9x8jfnt1x",
+      "artist": "White Zombie",
+      "album": "Astro-Creep: 2000",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1995台灣進口美版",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Industrial Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muwl9x8lkl7cj",
+      "artist": "Sonic Youth",
+      "album": "Experimental Jet Set, Trash And No Star",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1994日版(MVCG-155)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Experimental Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muwl9x8l21uwj",
+      "artist": "Porno For Pyros",
+      "album": "Porno For Pyros",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1993日版(WPCP-5211)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muwl9x8lc0pa9",
+      "artist": "Angra",
+      "album": "Holy Land",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1996日版(VICP-5633)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Metal"
+      ],
+      "subgenres": [
+        "Power Metal"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muwl9x8lf1kg2",
+      "artist": "Coldplay",
+      "album": "Mylo Xyloto",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2011歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muwl9x8ljq5v7",
+      "artist": "Tom Waits",
+      "album": "Bone Machine",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1992美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Experimental Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muwl9x8ljbmw4",
+      "artist": "Oasis",
+      "album": "Definitely Maybe",
+      "price": "550",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1995台灣進口澳洲限量版，2CD(專輯CD+額外單曲CD)，含回函卡、歌詞紙",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Britpop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muwl9x8lb2ikk",
+      "artist": "Carole King",
+      "album": "Tapestry",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1986美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Folk Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muwl9x8l5fwg4",
+      "artist": "Fleetwood Mac",
+      "album": "Tango In The Night",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1987日版(32XD-707)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Soft Rock"
       ],
       "reserved": false
     }
