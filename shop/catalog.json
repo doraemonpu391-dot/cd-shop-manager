@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T19:11:33.410Z",
+  "generatedAt": "2026-10-07T12:06:47.146Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5530,6 +5530,195 @@
       ],
       "subgenres": [
         "Soft Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muy2b1n80zh5h",
+      "artist": "The Doors",
+      "album": "Strange Days",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1998日版(AMCY-3186)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Psychedelic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muy2b1n8z93cv",
+      "artist": "Eric Clapton",
+      "album": "Pilgrim",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1998日版(WPCR-1400)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Blues Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muy2b1n81st0b",
+      "artist": "Suede",
+      "album": "Dog Man Star",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1998日版(ESCA 6070)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Britpop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muy2b1n85x5pj",
+      "artist": "The Mars Volta",
+      "album": "Frances The Mute",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2005日版(UICU-9009)，CD+DVD，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Prog Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muy2b1n8frfli",
+      "artist": "The Strokes",
+      "album": "Is This It",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2001歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muy2b1n8g9bbs",
+      "artist": "Green Day",
+      "album": "Dookie",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1994日版(WPCR-31)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muy2b1n8n4bsd",
+      "artist": "Rush",
+      "album": "Roll The Bones",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1991日版(AMCY-286)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Prog Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muy2b1n8pgbti",
+      "artist": "Foo Fighters",
+      "album": "Echoes, Silence, Patience & Grace",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2007美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Grunge"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "muy2b1n82xlvd",
+      "artist": "Yes",
+      "album": "Fragile",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1994歐版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Prog Rock"
       ],
       "reserved": false
     }
