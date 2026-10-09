@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T06:25:12.707Z",
+  "generatedAt": "2026-10-09T07:30:55.980Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5719,6 +5719,195 @@
       ],
       "subgenres": [
         "Prog Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv0nbya93jrvp",
+      "artist": "Whitesnake",
+      "album": "Slip Of The Tongue",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1989美版(9 24249-2)，1989美版",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Glam Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv0nbya9428nf",
+      "artist": "Peter Gabriel",
+      "album": "Us",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1992美版(GEFD 24473)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Art Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv0nbya9vjf9v",
+      "artist": "No Doubt",
+      "album": "Return Of Saturn",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2000日版(MVCT-24067)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Ska"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv0nbya90jozz",
+      "artist": "Franz Ferdinand",
+      "album": "Tonight: Franz Ferdinand",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2009日版(EICP 1090)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv0nbya9hoja5",
+      "artist": "Yes",
+      "album": "90125",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1996日版(AMCY-4042)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv0nbya9pfiql",
+      "artist": "Paul Gilbert",
+      "album": "Flying Dog",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1998日版(PHCR-83)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Hard Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv0nbyaajbrvh",
+      "artist": "The Beatles",
+      "album": "Anthology 1",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1995日版(TOCP-8701~02)，2CD，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv0nbyaa91vog",
+      "artist": "Fiona Apple",
+      "album": "Tidal",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1996日版(SRCS 8102)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Art Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv0nbyaa4d7md",
+      "artist": "Prince",
+      "album": "Chaos And Disorder",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1996歐版(9362-46317-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Funk/Soul"
       ],
       "reserved": false
     }
