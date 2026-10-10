@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T19:18:51.595Z",
+  "generatedAt": "2026-10-10T05:34:53.676Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -1545,27 +1545,6 @@
       "reserved": false
     },
     {
-      "id": "mt1vmv9amj0co",
-      "artist": "Massive Attack",
-      "album": "100th Window",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2003日版首版(VJCP-68463)，側標印有「日本先行発売」",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Electronic"
-      ],
-      "subgenres": [
-        "Trip Hop"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mt1vmv9a5cjff",
       "artist": "Elton John",
       "album": "Something About The Way You Look Tonight / Candle In The Wind 1997",
@@ -2759,27 +2738,6 @@
       "reserved": false
     },
     {
-      "id": "mtsn73pq0f0e5",
-      "artist": "Prince",
-      "album": "Emancipation",
-      "price": "400",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1996歐版，3CD",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Funk/Soul"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mtsn73pqz7ibm",
       "artist": "The Doors",
       "album": "The Doors",
@@ -3070,27 +3028,6 @@
       ],
       "subgenres": [
         "Indie Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtxbdzosn7cdi",
-      "artist": "Earth, Wind & Fire",
-      "album": "The Best Of Earth Wind & Fire Vol. I",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "美版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Funk/Soul"
-      ],
-      "subgenres": [
-        "Disco"
       ],
       "reserved": false
     },
@@ -3696,27 +3633,6 @@
       ],
       "subgenres": [
         "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mu41zfz51tjwc",
-      "artist": "The Chemical Brothers",
-      "album": "Singles 93-03",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2003日版(VJCP 68562-63)，2CD，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Electronic"
-      ],
-      "subgenres": [
-        "Breakbeat"
       ],
       "reserved": false
     },
@@ -5366,27 +5282,6 @@
       "reserved": false
     },
     {
-      "id": "muv835rytw01s",
-      "artist": "Tina Turner",
-      "album": "Simply The Best",
-      "price": "100",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1991歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "muv835ryhgcq1",
       "artist": "Madonna",
       "album": "GHV2 (Greatest Hits Volume 2)",
@@ -5744,27 +5639,6 @@
       "reserved": false
     },
     {
-      "id": "mv0nbya9428nf",
-      "artist": "Peter Gabriel",
-      "album": "Us",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1992美版(GEFD 24473)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Art Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mv0nbya9vjf9v",
       "artist": "No Doubt",
       "album": "Return Of Saturn",
@@ -5887,27 +5761,6 @@
       ],
       "subgenres": [
         "Art Pop"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mv0nbyaa4d7md",
-      "artist": "Prince",
-      "album": "Chaos And Disorder",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1996歐版(9362-46317-2)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Funk/Soul"
       ],
       "reserved": false
     }
