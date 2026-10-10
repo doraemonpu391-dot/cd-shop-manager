@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T09:23:30.040Z",
+  "generatedAt": "2026-10-10T10:39:49.693Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5866,27 +5866,6 @@
       ],
       "subgenres": [
         "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mv26mlyd0nov5",
-      "artist": "Oasis",
-      "album": "(What's The Story) Morning Glory?",
-      "price": "500",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1995日版(ESCA 6290)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Britpop"
       ],
       "reserved": false
     },
