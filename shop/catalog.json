@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T05:47:08.106Z",
+  "generatedAt": "2026-10-10T09:18:51.215Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5761,6 +5761,195 @@
       ],
       "subgenres": [
         "Art Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv26mlycq7sf3",
+      "artist": "John Lennon",
+      "album": "The John Lennon Collection",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1989日版(TOCP-5923)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv26mlyd294n3",
+      "artist": "Foo Fighters",
+      "album": "There Is Nothing Left To Lose",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1999歐版(07863 67892 2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv26mlydfdzfb",
+      "artist": "The Beatles",
+      "album": "Help!",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1993日版(CP32-5325)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv26mlydegl0d",
+      "artist": "The Beatles",
+      "album": "Beatles For Sale",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1987美版(CDP 7 46438 2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv26mlydxy64v",
+      "artist": "The Beatles",
+      "album": "With The Beatles",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1993日版(CP32-5322)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv26mlyd0nov5",
+      "artist": "Oasis",
+      "album": "(What's The Story) Morning Glory?",
+      "price": "500",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1995日版(ESCA 6290)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Britpop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv26mlydcznsb",
+      "artist": "Bruce Springsteen",
+      "album": "The Ghost Of Tom Joad",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1995美版(CK 67484)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Folk Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv26mlyd129ae",
+      "artist": "Europe",
+      "album": "The Final Countdown",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1986日版(VDP-1083)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Soft Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv26mlydu284f",
+      "artist": "Jamiroquai",
+      "album": "Synkronized",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1999台版(OK69973)，含太空牛仔身分證、其他專輯宣傳小卡",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Funk/Soul"
+      ],
+      "subgenres": [
+        "Acid Jazz"
       ],
       "reserved": false
     }
