@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T11:03:16.035Z",
+  "generatedAt": "2026-10-11T16:02:03.967Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5992,6 +5992,195 @@
       ],
       "subgenres": [
         "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv40h0ivtextw",
+      "artist": "Jack Johnson",
+      "album": "From Here to Now to You",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2013歐版(0602537455263)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Folk/Country"
+      ],
+      "subgenres": [
+        "Folk Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv40h0iyfxsw1",
+      "artist": "The Cranberries",
+      "album": "Bury the Hatchet",
+      "price": "120",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1999歐版(524 209-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv40h0iyq4bi4",
+      "artist": "Damien Rice",
+      "album": "9",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2006台版(2564640422)，含中、英文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Folk/Country"
+      ],
+      "subgenres": [
+        "Folk Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv40h0iy5dwhf",
+      "artist": "Alanis Morissette",
+      "album": "Jagged Little Pill",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1995台版(9 45901-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv40h0iy06dr9",
+      "artist": "Blonde Redhead",
+      "album": "23",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2007台版(HN412CD)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv40h0iy3b02s",
+      "artist": "Kimbra",
+      "album": "Vows",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2012歐版(9362-49513-4)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv40h0iy46j0u",
+      "artist": "Arch Enemy",
+      "album": "Burning Bridges",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1999日版(TFCK-87184)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Metal"
+      ],
+      "subgenres": [
+        "Melodic Death Metal"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv40h0iy3yaw0",
+      "artist": "The Sundays",
+      "album": "Reading, Writing and Arithmetic",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1990英版(ROUGH CD 148)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Dreampop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv40h0iyghhoe",
+      "artist": "Explosions in the Sky",
+      "album": "Take Care, Take Care, Take Care",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2011台版(WWRD107)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Post Rock"
       ],
       "reserved": false
     }
