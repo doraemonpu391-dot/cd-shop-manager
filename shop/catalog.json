@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T06:08:23.626Z",
+  "generatedAt": "2026-10-11T10:38:10.116Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -239,27 +239,6 @@
       ],
       "subgenres": [
         "Alt-Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mrn7ktvl3aw85",
-      "artist": "Bobby Brown",
-      "album": "Dance!...Ya Know It!",
-      "price": "50",
-      "origPrice": "100",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Hip-Hop/R&B"
-      ],
-      "subgenres": [
-        "New Jack Swing"
       ],
       "reserved": false
     },
@@ -1100,27 +1079,6 @@
       ],
       "subgenres": [
         "Indie Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mssy2rdl58pcs",
-      "artist": "Bobby Brown",
-      "album": "Bobby",
-      "price": "70",
-      "origPrice": "100",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Hip-Hop/R&B"
-      ],
-      "subgenres": [
-        "New Jack Swing"
       ],
       "reserved": false
     },
@@ -2133,48 +2091,6 @@
       "reserved": false
     },
     {
-      "id": "mtcw0930edaw1",
-      "artist": "Atomic Kitten",
-      "album": "The Greatest Hits",
-      "price": "100",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2004台版，CD+VCD，含中英歌詞本、回函卡、來電答鈴",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Europop"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtcw0930gsk3f",
-      "artist": "Annie Lennox",
-      "album": "Medusa",
-      "price": "100",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1995美版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Synth-Pop"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mtcw0930tt5ir",
       "artist": "Atomic Kitten",
       "album": "Ladies Night",
@@ -2860,27 +2776,6 @@
       ],
       "subgenres": [
         "Heavy Metal"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtvgdjsxsd2t9",
-      "artist": "Diana King",
-      "album": "Tougher Than Love",
-      "price": "100",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1995日版(SRCS 7495)，含英、日文解說歌詞，日版限定Bonus Track",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Hip-Hop/R&B"
-      ],
-      "subgenres": [
-        "Contemporary R&B"
       ],
       "reserved": false
     },
@@ -4175,27 +4070,6 @@
       ],
       "subgenres": [
         "Alt-Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mue1mgi1doxnp",
-      "artist": "Ne-Yo",
-      "album": "In My Own Words",
-      "price": "100",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2006台版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Contemporary R&B"
       ],
       "reserved": false
     },
