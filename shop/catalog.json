@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T16:02:03.967Z",
+  "generatedAt": "2026-10-11T16:06:42.355Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -6045,7 +6045,7 @@
       "origPrice": "",
       "noPromo": false,
       "notes": "2006台版(2564640422)，含中、英文歌詞解說",
-      "sideLabel": false,
+      "sideLabel": true,
       "hasImage": true,
       "regions": [
         "西洋"
