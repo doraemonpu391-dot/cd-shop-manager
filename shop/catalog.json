@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T11:13:19.551Z",
+  "generatedAt": "2026-10-12T11:54:59.314Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -6181,6 +6181,195 @@
       ],
       "subgenres": [
         "Post Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv5734a7ednhk",
+      "artist": "The Beatles",
+      "album": "1",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2000日版(TOCP-65600)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv5734a8muf94",
+      "artist": "Madonna",
+      "album": "Celebration",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2009台版(9362-49729-6)，2CD",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Dance-Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv5734a83cy35",
+      "artist": "Carpenters",
+      "album": "Twenty-Two Hits Of The Carpenters",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1995日版(POCM-1540)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Soft Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv5734a8q9mng",
+      "artist": "Björk",
+      "album": "Homogenic",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1997日版(POCP-7275)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Electronic"
+      ],
+      "subgenres": [
+        "Experimental"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv5734a83jf7s",
+      "artist": "Bette Midler",
+      "album": "Experience The Divine (Greatest Hits)",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1993日版(AMCY-554)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv5734a8ftoc9",
+      "artist": "Aphex Twin",
+      "album": "Drukqs",
+      "price": "500",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2001美版(31174-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Electronic"
+      ],
+      "subgenres": [
+        "IDM"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv5734a8f5ro6",
+      "artist": "Madonna",
+      "album": "Confessions On A Dance Floor",
+      "price": "120",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2005歐版(9362-49460-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Dance-Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv5734a81j57f",
+      "artist": "Oasis",
+      "album": "Heathen Chemistry",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2002日版(EICP 111)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Britpop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mv5734a8xf9lk",
+      "artist": "Derek & The Dominos",
+      "album": "Layla And Other Assorted Love Songs",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2006日版(UICY-6203)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Blues Rock"
       ],
       "reserved": false
     }
