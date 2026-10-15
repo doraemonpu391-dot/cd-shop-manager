@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T18:51:13.536Z",
+  "generatedAt": "2026-10-15T04:37:15.462Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -553,27 +553,6 @@
       ],
       "subgenres": [
         "Heavy Metal"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mryyh9b8tw0u9",
-      "artist": "Mariah Carey",
-      "album": "Music Box",
-      "price": "100",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Contemporary R&B"
       ],
       "reserved": false
     },
@@ -1901,27 +1880,6 @@
       "reserved": false
     },
     {
-      "id": "mtbcjtcakhdos",
-      "artist": "Celine Dion",
-      "album": "Falling Into You",
-      "price": "100",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1996亞版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Soft Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mtbcjtcar5knb",
       "artist": "The Offspring",
       "album": "Conspiracy Of One",
@@ -1981,27 +1939,6 @@
       ],
       "subgenres": [
         "Modern Classical"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtcw0930tt5ir",
-      "artist": "Atomic Kitten",
-      "album": "Ladies Night",
-      "price": "100",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2003台版，含紙盒、中英歌詞本、回函卡、",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Europop"
       ],
       "reserved": false
     },
@@ -5676,27 +5613,6 @@
       ],
       "subgenres": [
         "Melodic Death Metal"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mv40h0iy3yaw0",
-      "artist": "The Sundays",
-      "album": "Reading, Writing and Arithmetic",
-      "price": "400",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1990英版(ROUGH CD 148)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Dreampop"
       ],
       "reserved": false
     },
