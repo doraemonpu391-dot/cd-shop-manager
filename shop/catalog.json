@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T19:22:11.440Z",
+  "generatedAt": "2026-10-16T10:46:01.633Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5802,6 +5802,195 @@
       ],
       "subgenres": [
         "Britpop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvaudu2jdy2n6",
+      "artist": "Eagles",
+      "album": "Eagles",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1988日版(20P2-2012)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Classic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvaudu2lmlcsb",
+      "artist": "Foo Fighters",
+      "album": "Foo Fighters",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1995歐版(7243 8 34027 2 4)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvaudu2muknbv",
+      "artist": "The Cranberries",
+      "album": "Bury The Hatchet",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1999台版(524 209-2)，含中文歌詞、解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvaudu2m2mke4",
+      "artist": "R.E.M.",
+      "album": "Up",
+      "price": "120",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1998日版(WPCR-2400)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvaudu2m5qdjn",
+      "artist": "Stereophonics",
+      "album": "Performance And Cocktails",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1999歐版(VVR1004492)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvaudu2ml3ae7",
+      "artist": "The White Stripes",
+      "album": "Icky Thump",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2007美版(162940-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Garage Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvaudu2m7g5oo",
+      "artist": "Earth, Wind & Fire",
+      "album": "Gratitude",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1991日版(SRCS 6112)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Funk/Soul"
+      ],
+      "subgenres": [
+        "Soul"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvaudu2m4hhbl",
+      "artist": "R.E.M.",
+      "album": "Monster",
+      "price": "120",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1994日版(WPCR-101)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvaudu2m977ae",
+      "artist": "PJ Harvey",
+      "album": "4-Track Demos",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1993歐版(IMCD 170)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
       ],
       "reserved": false
     }
