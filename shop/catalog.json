@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T10:46:01.633Z",
+  "generatedAt": "2026-10-16T10:56:58.367Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -1460,27 +1460,6 @@
       "reserved": false
     },
     {
-      "id": "mt1vmv9aqdjur",
-      "artist": "Chicago",
-      "album": "The Heart Of Chicago  1967-1997",
-      "price": "100",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "含歌詞",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mt4dlkq6uhjk4",
       "artist": "Enigma",
       "album": "Love Sensuality Devotion (The Greatest Hits)",
@@ -1771,27 +1750,6 @@
       ],
       "subgenres": [
         "Folk Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mta31n70eqkjl",
-      "artist": "Guns N' Roses",
-      "album": "Appetite For Destruction",
-      "price": "400",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1991日版(MVCG-12)，含英、日文歌詞及解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Hard Rock"
       ],
       "reserved": false
     },
@@ -2964,27 +2922,6 @@
       ],
       "subgenres": [
         "Psychedelic Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtzm3oey8olej",
-      "artist": "Britney Spears",
-      "album": "Britney",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2001新加坡版，限量版、Enhanced CD(含額外影片內容)，含Britney 2002電影宣傳小海報",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Contemporary R&B"
       ],
       "reserved": false
     },
@@ -4699,27 +4636,6 @@
       "reserved": false
     },
     {
-      "id": "mutr8ehndagpk",
-      "artist": "Eagles",
-      "album": "Hell Freezes Over",
-      "price": "150",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1994歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Classic Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mutr8ehncm4ge",
       "artist": "Avril Lavigne",
       "album": "Under My Skin",
@@ -4737,27 +4653,6 @@
       ],
       "subgenres": [
         "Alt-Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mutr8eho1x71a",
-      "artist": "Bon Jovi",
-      "album": "Crush",
-      "price": "150",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2000歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
       ],
       "reserved": false
     },
@@ -5424,27 +5319,6 @@
       ],
       "subgenres": [
         "Alt-Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mv3psqr0xau4a",
-      "artist": "Fatboy Slim",
-      "album": "You've Come A Long Way, Baby",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1998日版(ESCA 7350)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Electronic"
-      ],
-      "subgenres": [
-        "Big Beat"
       ],
       "reserved": false
     },
