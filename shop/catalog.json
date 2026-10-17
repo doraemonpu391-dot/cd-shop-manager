@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T12:18:56.332Z",
+  "generatedAt": "2026-10-17T12:44:42.285Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5855,6 +5855,195 @@
       "origPrice": "",
       "noPromo": false,
       "notes": "1993歐版(IMCD 170)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvce2baub2ymb",
+      "artist": "Fiona Apple",
+      "album": "When The Pawn",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1999美版(EK 69195)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Art Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvce2bavi0m5q",
+      "artist": "Eric Clapton",
+      "album": "Unplugged",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1992日版(WPCP-4950)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Blues Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvce2bav7yvgb",
+      "artist": "Metallica",
+      "album": "Death Magnetic",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2008歐版(00602517737266)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Metal"
+      ],
+      "subgenres": [
+        "Thrash Metal"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvce2bavkg9zv",
+      "artist": "Led Zeppelin",
+      "album": "Led Zeppelin II",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1995日版(AMCY-4006)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Classic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvce2bavjk1ry",
+      "artist": "Bruce Springsteen",
+      "album": "Born In The U.S.A.",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1995日版(SRCS 7861)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvce2bavnxs9f",
+      "artist": "Gary Moore",
+      "album": "Ballads & Blues 1982 - 1994",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1994台版(7243 8 40054 2 9)",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Blues Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvce2bavo22xv",
+      "artist": "Stratovarius",
+      "album": "Elements Pt.1",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2003日版(VICP-62177)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Metal"
+      ],
+      "subgenres": [
+        "Power Metal"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvce2bavpco2t",
+      "artist": "Tahiti 80",
+      "album": "Wallpaper For The Soul",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2002日版(VICP 61946)，含英、日文歌詞解說，原日本租借品",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvce2bavot0xw",
+      "artist": "The Cranberries",
+      "album": "Stars: The Best Of 1992-2002",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2002台版(063 277-2)，2CD，含中文歌詞",
       "sideLabel": false,
       "hasImage": true,
       "regions": [
