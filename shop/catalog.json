@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T12:54:33.959Z",
+  "generatedAt": "2026-10-17T17:22:56.588Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5235,27 +5235,6 @@
       ],
       "subgenres": [
         "Soft Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mv26mlydu284f",
-      "artist": "Jamiroquai",
-      "album": "Synkronized",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1999台版(OK69973)，含太空牛仔身分證、其他專輯宣傳小卡",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Funk/Soul"
-      ],
-      "subgenres": [
-        "Acid Jazz"
       ],
       "reserved": false
     },
