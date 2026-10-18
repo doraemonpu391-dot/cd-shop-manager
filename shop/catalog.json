@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T12:51:44.546Z",
+  "generatedAt": "2026-10-18T18:30:09.522Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -3842,27 +3842,6 @@
       "reserved": false
     },
     {
-      "id": "mugpfyujzu13s",
-      "artist": "Avril Lavigne",
-      "album": "Avril Lavigne",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2003歐版，有日本租借片印（レンタル専用）",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mugpfyujfbf78",
       "artist": "Sum 41",
       "album": "All Killer No Filler",
@@ -4615,27 +4594,6 @@
       "reserved": false
     },
     {
-      "id": "mutr8ehncm4ge",
-      "artist": "Avril Lavigne",
-      "album": "Under My Skin",
-      "price": "150",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2004日版(BVCA-24020)，含日文歌詞、解說，小海報",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Alt-Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "muu4zulg04mqd",
       "artist": "Unknown Artist",
       "album": "飄帶",
@@ -4861,27 +4819,6 @@
       "reserved": false
     },
     {
-      "id": "muy2b1n8frfli",
-      "artist": "The Strokes",
-      "album": "Is This It",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2001歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Indie Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "muy2b1n8n4bsd",
       "artist": "Rush",
       "album": "Roll The Bones",
@@ -4899,27 +4836,6 @@
       ],
       "subgenres": [
         "Prog Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "muy2b1n8pgbti",
-      "artist": "Foo Fighters",
-      "album": "Echoes, Silence, Patience & Grace",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2007美版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Grunge"
       ],
       "reserved": false
     },
@@ -5827,27 +5743,6 @@
       "reserved": false
     },
     {
-      "id": "mvce2bavi0m5q",
-      "artist": "Eric Clapton",
-      "album": "Unplugged",
-      "price": "150",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1992日版(WPCP-4950)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Blues Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mvce2bav7yvgb",
       "artist": "Metallica",
       "album": "Death Magnetic",
@@ -5995,27 +5890,6 @@
       "reserved": false
     },
     {
-      "id": "mvdtr7h2vgncb",
-      "artist": "宇多田光",
-      "album": "First Love",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1999台版(7243 499942 25)，含中文歌詞",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "日本"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "J-pop"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mvdtr7h3oz1gx",
       "artist": "Michael Jackson",
       "album": "Blood On The Dance Floor (HIStory In The Mix)",
@@ -6033,27 +5907,6 @@
       ],
       "subgenres": [
         "Dance-Pop"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mvdtr7h3jfmcu",
-      "artist": "宇多田光",
-      "album": "Deep River",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2002日版(TOCT-24819)，初回圖案盤",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "日本"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "J-pop"
       ],
       "reserved": false
     },
@@ -6100,48 +5953,6 @@
       "reserved": false
     },
     {
-      "id": "mvdtr7h3dq668",
-      "artist": "宇多田光",
-      "album": "Distance",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2001日版(TOCT-24601)，初回圖案盤",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "日本"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "J-pop"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mvdtr7h350vnl",
-      "artist": "Carly Rae Jepsen",
-      "album": "E•MO•TION",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2015歐版(00602547385314)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Dance-Pop"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mvdtr7h36lc0l",
       "artist": "Tanlines",
       "album": "Mixed Emotions",
@@ -6159,27 +5970,6 @@
       ],
       "subgenres": [
         "Electro"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mvdtr7h35rwyq",
-      "artist": "The Weeknd",
-      "album": "Beauty Behind The Madness",
-      "price": "400",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2015歐版(0602547503305)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Contemporary R&B"
       ],
       "reserved": false
     }
