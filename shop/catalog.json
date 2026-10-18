@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T17:33:27.495Z",
+  "generatedAt": "2026-10-18T11:50:07.640Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -4510,27 +4510,6 @@
       "reserved": false
     },
     {
-      "id": "musdmrixpyelp",
-      "artist": "Franz Ferdinand",
-      "album": "Franz Ferdinand",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2004日版(EICP 392)，含、英日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Indie Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "musdmrixfugxb",
       "artist": "Fiona Apple",
       "album": "When The Pawn",
@@ -5235,27 +5214,6 @@
       ],
       "subgenres": [
         "Soft Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mv3psqr0g9z7g",
-      "artist": "Blur",
-      "album": "Blur",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1997歐版(7243 8 55562 2 7)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Britpop"
       ],
       "reserved": false
     },
