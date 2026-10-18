@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T18:30:09.522Z",
+  "generatedAt": "2026-10-18T18:32:06.231Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5886,27 +5886,6 @@
       ],
       "subgenres": [
         "Alt-Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mvdtr7h3oz1gx",
-      "artist": "Michael Jackson",
-      "album": "Blood On The Dance Floor (HIStory In The Mix)",
-      "price": "400",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1997台版，含3D小卡、歌詞紙、回函卡",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Dance-Pop"
       ],
       "reserved": false
     },
