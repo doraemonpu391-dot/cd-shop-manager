@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T12:10:35.109Z",
+  "generatedAt": "2026-10-18T12:51:44.546Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5991,6 +5991,195 @@
       ],
       "subgenres": [
         "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvdtr7h2vgncb",
+      "artist": "宇多田光",
+      "album": "First Love",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1999台版(7243 499942 25)，含中文歌詞",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "日本"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "J-pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvdtr7h3oz1gx",
+      "artist": "Michael Jackson",
+      "album": "Blood On The Dance Floor (HIStory In The Mix)",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1997台版，含3D小卡、歌詞紙、回函卡",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Dance-Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvdtr7h3jfmcu",
+      "artist": "宇多田光",
+      "album": "Deep River",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2002日版(TOCT-24819)，初回圖案盤",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "日本"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "J-pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvdtr7h3ndvv4",
+      "artist": "Michael Jackson",
+      "album": "Number Ones",
+      "price": "500",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2003日版(EICP 333)，Thriller時期圖樣封面，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Disco"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvdtr7h3ou86u",
+      "artist": "Taylor Swift",
+      "album": "Red",
+      "price": "450",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2012台版(3717314)，2CD精裝盤",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvdtr7h3dq668",
+      "artist": "宇多田光",
+      "album": "Distance",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2001日版(TOCT-24601)，初回圖案盤",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "日本"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "J-pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvdtr7h350vnl",
+      "artist": "Carly Rae Jepsen",
+      "album": "E•MO•TION",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2015歐版(00602547385314)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Dance-Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvdtr7h36lc0l",
+      "artist": "Tanlines",
+      "album": "Mixed Emotions",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2012台版",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "日本"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Electro"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvdtr7h35rwyq",
+      "artist": "The Weeknd",
+      "album": "Beauty Behind The Madness",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2015歐版(0602547503305)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Contemporary R&B"
       ],
       "reserved": false
     }
