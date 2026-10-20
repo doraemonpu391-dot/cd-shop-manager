@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T18:33:41.741Z",
+  "generatedAt": "2026-10-20T10:30:04.665Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5951,6 +5951,21 @@
         "Electro"
       ],
       "reserved": false
+    },
+    {
+      "id": "mvgjkliddft2q",
+      "artist": "Unknown Artists",
+      "album": "貼紙",
+      "price": "0",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "數量有限，送完為止",
+      "sideLabel": false,
+      "hasImage": false,
+      "regions": [],
+      "genres": [],
+      "subgenres": [],
+      "reserved": false
     }
   ],
   "promo": "🛍️買三片折50六片100，依此類推，歡迎選購！🚚滿兩千享免運優惠",
@@ -6007,7 +6022,7 @@
   ],
   "promoRules": [
     {
-      "name": "常態優惠",
+      "name": "長期優惠",
       "mode": "every",
       "metric": "qty",
       "n": 3,
@@ -6015,12 +6030,12 @@
       "value": 50
     },
     {
-      "name": "免運優惠",
+      "name": "滿額免運",
       "mode": "atLeast",
       "metric": "money",
       "n": 2000,
       "kind": "freeship",
-      "value": 100
+      "value": 0
     }
   ],
   "offerOn": true
