@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T10:32:17.748Z",
+  "generatedAt": "2026-10-21T16:42:35.406Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5953,13 +5953,13 @@
       "reserved": false
     },
     {
-      "id": "mvgjkliddft2q",
+      "id": "mvicbcuzhgov1",
       "artist": "Unknown Artists",
       "album": "貼紙",
       "price": "0",
       "origPrice": "",
       "noPromo": false,
-      "notes": "數量有限，送完為止",
+      "notes": "一組兩張，數量有限，送完為止",
       "sideLabel": false,
       "hasImage": true,
       "regions": [],
@@ -6022,7 +6022,7 @@
   ],
   "promoRules": [
     {
-      "name": "長期優惠",
+      "name": "常態優惠",
       "mode": "every",
       "metric": "qty",
       "n": 3,
@@ -6030,12 +6030,12 @@
       "value": 50
     },
     {
-      "name": "滿額免運",
+      "name": "免運優惠",
       "mode": "atLeast",
       "metric": "money",
       "n": 2000,
       "kind": "freeship",
-      "value": 0
+      "value": 100
     }
   ],
   "offerOn": true
