@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T16:42:35.406Z",
+  "generatedAt": "2026-10-21T17:01:29.756Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -2128,27 +2128,6 @@
       ],
       "subgenres": [
         "New Age"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtio6dncjfbkz",
-      "artist": "Nine Inch Nails",
-      "album": "The Fragile",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1999美版，2CD",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Industrial Rock"
       ],
       "reserved": false
     },
