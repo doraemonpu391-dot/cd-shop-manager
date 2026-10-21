@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T17:01:29.756Z",
+  "generatedAt": "2026-10-21T17:22:17.426Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5944,6 +5944,195 @@
       "regions": [],
       "genres": [],
       "subgenres": [],
+      "reserved": false
+    },
+    {
+      "id": "mvidqp8qtckpo",
+      "artist": "The Bluetones",
+      "album": "Return To The Last Chance Saloon",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1998日版(POCM-1237)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Britpop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvidqp8rzzeir",
+      "artist": "Cyndi Lauper",
+      "album": "Sisters Of Avalon",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1997美版(EK 66433)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvidqp8rkz0qs",
+      "artist": "The Strokes",
+      "album": "Room On Fire",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2003美版(82876 55497-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvidqp8r6txgr",
+      "artist": "Queen",
+      "album": "A Night At The Opera",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2011歐版(276 442 2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvidqp8rlq4ip",
+      "artist": "Green Day",
+      "album": "¡Uno!",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2012歐版(9362-49487 1)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvidqp8rm88sd",
+      "artist": "Eagles",
+      "album": "Hotel California",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1989日版(20P2-2016)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Classic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvidqp8r42b1h",
+      "artist": "The Velvet Underground & Nico",
+      "album": "The Velvet Underground & Nico",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1996美版(531 250 2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Art Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvidqp8rifeu4",
+      "artist": "The Cardigans",
+      "album": "First Band On The Moon",
+      "price": "120",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1996歐版(533 117-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvidqp8rpqxq5",
+      "artist": "Avril Lavigne",
+      "album": "Avril Lavigne",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2013美版(88725496332)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
       "reserved": false
     }
   ],
