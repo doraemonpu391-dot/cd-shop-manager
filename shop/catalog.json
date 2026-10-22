@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T17:22:17.426Z",
+  "generatedAt": "2026-10-22T06:43:36.813Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -4115,27 +4115,6 @@
       "reserved": false
     },
     {
-      "id": "mujnbjt95crhv",
-      "artist": "Soundgarden",
-      "album": "Superunknown",
-      "price": "400",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1994日版(POCM-1065)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Grunge"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mul8onk8v99wh",
       "artist": "Ke$ha",
       "album": "Warrior",
@@ -6048,27 +6027,6 @@
       ],
       "subgenres": [
         "Pop Punk"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mvidqp8rm88sd",
-      "artist": "Eagles",
-      "album": "Hotel California",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1989日版(20P2-2016)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Classic Rock"
       ],
       "reserved": false
     },
