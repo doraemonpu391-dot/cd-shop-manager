@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T14:37:53.612Z",
+  "generatedAt": "2026-10-22T16:02:02.097Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -4567,27 +4567,6 @@
       "reserved": false
     },
     {
-      "id": "muv835rxks7hp",
-      "artist": "Nirvana",
-      "album": "Bleach",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2016歐美版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Grunge"
-      ],
-      "reserved": false
-    },
-    {
       "id": "muv835rx1m1l2",
       "artist": "The Little Willies",
       "album": "The Little Willies",
@@ -5512,27 +5491,6 @@
       "reserved": false
     },
     {
-      "id": "mvaudu2lmlcsb",
-      "artist": "Foo Fighters",
-      "album": "Foo Fighters",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1995歐版(7243 8 34027 2 4)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Alt-Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mvaudu2muknbv",
       "artist": "The Cranberries",
       "album": "Bury The Hatchet",
@@ -5968,48 +5926,6 @@
       "reserved": false
     },
     {
-      "id": "mvidqp8rkz0qs",
-      "artist": "The Strokes",
-      "album": "Room On Fire",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2003美版(82876 55497-2)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Indie Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mvidqp8r6txgr",
-      "artist": "Queen",
-      "album": "A Night At The Opera",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2011歐版(276 442 2)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mvidqp8rlq4ip",
       "artist": "Green Day",
       "album": "¡Uno!",
@@ -6027,27 +5943,6 @@
       ],
       "subgenres": [
         "Pop Punk"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mvidqp8r42b1h",
-      "artist": "The Velvet Underground & Nico",
-      "album": "The Velvet Underground & Nico",
-      "price": "400",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1996美版(531 250 2)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Art Rock"
       ],
       "reserved": false
     },
@@ -6153,27 +6048,6 @@
       ],
       "subgenres": [
         "Alt-Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mvj7dom0og7ca",
-      "artist": "Nirvana",
-      "album": "In Utero",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1993美版(DGCD-24607)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Grunge"
       ],
       "reserved": false
     },
