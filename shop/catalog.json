@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T06:43:36.813Z",
+  "generatedAt": "2026-10-22T07:11:59.086Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -6090,6 +6090,195 @@
       ],
       "subgenres": [
         "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvj7dom0je2s7",
+      "artist": "The Stone Roses",
+      "album": "The Stone Roses",
+      "price": "500",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1999日版(CTCZ-30021~2)，十週年紀念精裝版，2CD，Enchanced CD，含小相冊故事",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvj7dom02jnip",
+      "artist": "Beyoncé",
+      "album": "B'Day",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2006美版(82796 90920 2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Contemporary R&B"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvj7dom0y7c7r",
+      "artist": "Red Hot Chili Peppers",
+      "album": "One Hot Minute",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1995歐版(9362-45733-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvj7dom0og7ca",
+      "artist": "Nirvana",
+      "album": "In Utero",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1993美版(DGCD-24607)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Grunge"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvj7dom01xm1f",
+      "artist": "The Beatles",
+      "album": "Revolver",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1987歐版(CDP 7 46441 2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvj7dom0kfduy",
+      "artist": "Nine Inch Nails",
+      "album": "The Fragile",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1999日版(MVCT-30001-2)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Industrial Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvj7dom00tcx8",
+      "artist": "Red Hot Chili Peppers",
+      "album": "By The Way",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2002日版(WPCR-11300)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvj7dom0rkh5e",
+      "artist": "Skid Row",
+      "album": "Skid Row",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1989台版(7567-81936-2)",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Glam Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvj7dom0g7c4t",
+      "artist": "Eagles",
+      "album": "Hotel California",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2005日版(WPCR-75130)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Classic Rock"
       ],
       "reserved": false
     }
