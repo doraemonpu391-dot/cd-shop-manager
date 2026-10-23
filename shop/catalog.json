@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T17:40:17.254Z",
+  "generatedAt": "2026-10-23T17:47:54.491Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -4777,27 +4777,6 @@
       "reserved": false
     },
     {
-      "id": "muy2b1n82xlvd",
-      "artist": "Yes",
-      "album": "Fragile",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1994歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Prog Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mv0nbya93jrvp",
       "artist": "Whitesnake",
       "album": "Slip Of The Tongue",
@@ -5592,27 +5571,6 @@
       ],
       "subgenres": [
         "Soul"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mvaudu2m4hhbl",
-      "artist": "R.E.M.",
-      "album": "Monster",
-      "price": "120",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1994日版(WPCR-101)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Alt-Rock"
       ],
       "reserved": false
     },
