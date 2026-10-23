@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T17:56:42.359Z",
+  "generatedAt": "2026-10-23T18:14:57.502Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -1481,27 +1481,6 @@
       "reserved": false
     },
     {
-      "id": "mt4dlkq6bbtjd",
-      "artist": "Eagles",
-      "album": "Hell Freezes Over",
-      "price": "150",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "含歌詞",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Classic Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mt5o7k01asgey",
       "artist": "Madonna",
       "album": "The Confessions Tour",
@@ -2376,27 +2355,6 @@
       ],
       "subgenres": [
         "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtr7ci9l2a5dv",
-      "artist": "Kasabian",
-      "album": "Empire",
-      "price": "100",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2006歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Indie Rock"
       ],
       "reserved": false
     },
@@ -3317,27 +3275,6 @@
       ],
       "subgenres": [
         "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mu5gyrvudga1w",
-      "artist": "Led Zeppelin",
-      "album": "In Through The Out Door",
-      "price": "400",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1988日版(20P2 2029)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Classic Rock"
       ],
       "reserved": false
     },
@@ -4630,27 +4567,6 @@
       "reserved": false
     },
     {
-      "id": "muwl9x8l5fwg4",
-      "artist": "Fleetwood Mac",
-      "album": "Tango In The Night",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1987日版(32XD-707)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Soft Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "muy2b1n80zh5h",
       "artist": "The Doors",
       "album": "Strange Days",
@@ -4773,27 +4689,6 @@
       ],
       "subgenres": [
         "Ska"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mv0nbya90jozz",
-      "artist": "Franz Ferdinand",
-      "album": "Tonight: Franz Ferdinand",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2009日版(EICP 1090)，含英、日文歌詞解說",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Indie Rock"
       ],
       "reserved": false
     },
@@ -5571,27 +5466,6 @@
       ],
       "subgenres": [
         "Thrash Metal"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mvce2bavkg9zv",
-      "artist": "Led Zeppelin",
-      "album": "Led Zeppelin II",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1995日版(AMCY-4006)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Classic Rock"
       ],
       "reserved": false
     },
