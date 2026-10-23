@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T11:45:39.459Z",
+  "generatedAt": "2026-10-23T17:40:17.254Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -6136,27 +6136,6 @@
       "reserved": false
     },
     {
-      "id": "mvkwlhckpg8ys",
-      "artist": "The Flaming Lips",
-      "album": "Yoshimi Battles the Pink Robots",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2002美版(9 48141-2)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Psychedelic Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mvkwlhckkac4n",
       "artist": "The Flaming Lips",
       "album": "At War With The Mystics",
@@ -6174,69 +6153,6 @@
       ],
       "subgenres": [
         "Psychedelic Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mvkwlhck7hrcj",
-      "artist": "Nirvana",
-      "album": "Bleach",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1990美版(SP34B)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Grunge"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mvkwlhck9zcd1",
-      "artist": "Nirvana",
-      "album": "Nevermind",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1991美版(DGCD-24425)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Grunge"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mvkwlhckuwjvz",
-      "artist": "Nirvana",
-      "album": "In Utero",
-      "price": "500",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1993日版(MVCG-126)，Bonus Track，含英、日文歌詞解說",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Grunge"
       ],
       "reserved": false
     },
@@ -6279,27 +6195,6 @@
       ],
       "subgenres": [
         "Alt Metal"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mvkwlhckgrpj9",
-      "artist": "Amy Winehouse",
-      "album": "Back to Black",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2009日版(UICY-60013)，日版特別封面，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Funk/Soul"
-      ],
-      "subgenres": [
-        "Soul"
       ],
       "reserved": false
     }
