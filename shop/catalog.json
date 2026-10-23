@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T08:14:39.806Z",
+  "generatedAt": "2026-10-23T11:30:39.566Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -6031,27 +6031,6 @@
       "reserved": false
     },
     {
-      "id": "mvj7dom0y7c7r",
-      "artist": "Red Hot Chili Peppers",
-      "album": "One Hot Minute",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1995歐版(9362-45733-2)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Alt-Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mvj7dom01xm1f",
       "artist": "The Beatles",
       "album": "Revolver",
@@ -6090,27 +6069,6 @@
       ],
       "subgenres": [
         "Industrial Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mvj7dom00tcx8",
-      "artist": "Red Hot Chili Peppers",
-      "album": "By The Way",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2002日版(WPCR-11300)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Alt-Rock"
       ],
       "reserved": false
     },
