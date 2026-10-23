@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T17:47:54.491Z",
+  "generatedAt": "2026-10-23T17:56:42.359Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -3674,27 +3674,6 @@
       "reserved": false
     },
     {
-      "id": "mue1mgi11ubqa",
-      "artist": "Foo Fighters",
-      "album": "There Is Nothing Left To Lose",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1999日版(BVCP-21109)，含紋身貼紙，英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Alt-Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mue1mgi18j8dc",
       "artist": "The Jazz Butcher",
       "album": "Fishcotheque",
@@ -3943,27 +3922,6 @@
       ],
       "subgenres": [
         "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mui86h35kmzma",
-      "artist": "Noel Gallagher's High Flying Birds",
-      "album": "Noel Gallagher's High Flying Birds",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2011英版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Indie Rock"
       ],
       "reserved": false
     },
@@ -5424,27 +5382,6 @@
       ],
       "subgenres": [
         "Dance-Pop"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mv5734a81j57f",
-      "artist": "Oasis",
-      "album": "Heathen Chemistry",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "2002日版(EICP 111)，含英、日文歌詞解說",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Britpop"
       ],
       "reserved": false
     },
