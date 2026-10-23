@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T11:30:39.566Z",
+  "generatedAt": "2026-10-23T11:45:39.459Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -6111,6 +6111,195 @@
       ],
       "subgenres": [
         "Classic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvkwlhcjddvau",
+      "artist": "The Flaming Lips",
+      "album": "The Soft Bulletin",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1999美版(9 46876-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Psychedelic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvkwlhckpg8ys",
+      "artist": "The Flaming Lips",
+      "album": "Yoshimi Battles the Pink Robots",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2002美版(9 48141-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Psychedelic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvkwlhckkac4n",
+      "artist": "The Flaming Lips",
+      "album": "At War With The Mystics",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2006歐版(9362-49966-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Psychedelic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvkwlhck7hrcj",
+      "artist": "Nirvana",
+      "album": "Bleach",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1990美版(SP34B)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Grunge"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvkwlhck9zcd1",
+      "artist": "Nirvana",
+      "album": "Nevermind",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1991美版(DGCD-24425)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Grunge"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvkwlhckuwjvz",
+      "artist": "Nirvana",
+      "album": "In Utero",
+      "price": "500",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1993日版(MVCG-126)，Bonus Track，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Grunge"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvkwlhckcuy09",
+      "artist": "Soundgarden",
+      "album": "Superunknown",
+      "price": "600",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "1994日版(POCM-1065)，含初回特典貼紙、海報，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Grunge"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvkwlhcktrb98",
+      "artist": "Evanescence",
+      "album": "Fallen",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2003台版(510879.2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Metal"
+      ],
+      "subgenres": [
+        "Alt Metal"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvkwlhckgrpj9",
+      "artist": "Amy Winehouse",
+      "album": "Back to Black",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "notes": "2009日版(UICY-60013)，日版特別封面，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Funk/Soul"
+      ],
+      "subgenres": [
+        "Soul"
       ],
       "reserved": false
     }
