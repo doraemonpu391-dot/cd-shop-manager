@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T10:39:13.400Z",
+  "generatedAt": "2026-10-24T11:00:21.255Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -6260,6 +6260,204 @@
       "regions": [],
       "genres": [],
       "subgenres": [],
+      "reserved": false
+    },
+    {
+      "id": "mvmaf1qwkhsie",
+      "artist": "Prince And The New Power Generation",
+      "album": "Love Symbol",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1992日版(WPCP-4999)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Funk/Soul"
+      ],
+      "subgenres": [
+        "Funk/Soul"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvmaf1qxbpn32",
+      "artist": "UNKLE",
+      "album": "Psyence Fiction",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1998美版(314-540-970-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Electronic"
+      ],
+      "subgenres": [
+        "Trip Hop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvmaf1qxzb2gs",
+      "artist": "Public Enemy",
+      "album": "It Takes A Nation Of Millions To Hold Us Back",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1988日版(25DP 5209)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Hip-Hop/R&B"
+      ],
+      "subgenres": [
+        "Conscious Hip Hop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvmaf1qxpt82a",
+      "artist": "Alanis Morissette",
+      "album": "Supposed Former Infatuation Junkie",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1998台版(9362-47094-2)，含Alanis給亞洲樂迷的話、白蠟燭、回函卡",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvmaf1qxh8g0d",
+      "artist": "Rage Against The Machine",
+      "album": "Evil Empire",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1996日版(SRCS 7734)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Metal"
+      ],
+      "subgenres": [
+        "Alt Metal"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvmaf1qxy5m6t",
+      "artist": "Led Zeppelin",
+      "album": "In Through The Out Door",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1988日版(20P2-2029)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Hard Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvmaf1qx68dvi",
+      "artist": "Kula Shaker",
+      "album": "K",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1996日版(ESCA 6498)，含英、日文歌詞解說，原日本租借片",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvmaf1qxmix91",
+      "artist": "Red Hot Chili Peppers",
+      "album": "Blood Sugar Sex Magik",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1991日版(WPCP-4558)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvmaf1qxltk83",
+      "artist": "Third Eye Blind",
+      "album": "Third Eye Blind",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1997美版(62012-2)，含台灣環球回函卡",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
       "reserved": false
     }
   ],
