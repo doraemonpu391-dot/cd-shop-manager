@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T18:32:10.550Z",
+  "generatedAt": "2026-10-24T07:35:40.201Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -4171,27 +4171,6 @@
       ],
       "genres": [],
       "subgenres": [],
-      "reserved": false
-    },
-    {
-      "id": "mumtp7jhf73ab",
-      "artist": "Van Halen",
-      "album": "Van Halen",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "notes": "1995歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Hard Rock"
-      ],
       "reserved": false
     },
     {
