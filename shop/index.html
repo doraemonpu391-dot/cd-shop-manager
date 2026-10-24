@@ -556,7 +556,8 @@
     var npPill = it.noPromo ? '<span class="pill nopromo">不參與優惠</span>' : '';
     var offPill = off >= 1 && !it.hasImage ? '<span class="offtag inline">'+off+'% OFF</span>' : '';
     var pills = '';
-    if(it.sideLabel) pills += '<span class="pill side">附側標</span>';   // 附側標永遠排第一
+    if(it.gift) pills += '<span class="pill side">贈品</span>';           // 後台勾「贈品」才有；不參與優惠
+    if(it.sideLabel) pills += '<span class="pill side">附側標</span>';
     pills += npPill;
     axisVals(it,'regions').forEach(function(r){ pills += '<span class="pill region">'+esc(r)+'</span>'; });
     axisVals(it,'genres').forEach(function(g){ pills += '<span class="pill">'+esc(g)+'</span>'; });
@@ -589,10 +590,10 @@
   function subtotal(){ var t=0; selectedItems().forEach(function(it){ t += itemPrice(it); }); return t; }
   // 有標價的才算進門檻；面議商品不知道多少錢，計進去會算出「3 件應付 NT$0」這種東西。
   // 符合優惠資格＝有標價、且沒有被標記「不參與優惠」（殘次／已特價品）
-  function promoOk(it){ return itemPrice(it) > 0 && !(it && it.noPromo); }
+  function promoOk(it){ return itemPrice(it) > 0 && !(it && (it.noPromo || it.gift)); }   // 贈品一律不參與優惠
   function pricedCount(){ var n=0; selectedItems().forEach(function(it){ if(promoOk(it)) n++; }); return n; }
   function promoSubtotal(){ var t=0; selectedItems().forEach(function(it){ if(promoOk(it)) t += itemPrice(it); }); return t; }
-  function noPromoCount(){ var n=0; selectedItems().forEach(function(it){ if(itemPrice(it)>0 && it && it.noPromo) n++; }); return n; }
+  function noPromoCount(){ var n=0; selectedItems().forEach(function(it){ if(itemPrice(it)>0 && it && (it.noPromo || it.gift)) n++; }); return n; }
 
   // **與 renderer/index.html 的 computePromo 必須完全同規則**，改一邊要改兩邊。
   // 前台不算運費（賣家不在網頁上收錢），所以 shipFee 一律傳 0；免運只在後台成立訂單時折抵。
