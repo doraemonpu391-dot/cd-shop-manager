@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T08:57:52.401Z",
+  "generatedAt": "2026-10-24T09:00:54.702Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -141,7 +141,7 @@
       "origPrice": "150",
       "noPromo": false,
       "genre": "Indie Rock",
-      "notes": "無殼，完整CD、冊本、底頁於塑膠套中（加裝CD殼+20）",
+      "notes": "a",
       "sideLabel": false,
       "hasImage": true,
       "regions": [
@@ -163,7 +163,7 @@
       "origPrice": "250",
       "noPromo": false,
       "genre": "Synth-pop",
-      "notes": "無殼，完整CD、冊本、底頁於塑膠套中（加裝CD殼+20）",
+      "notes": "a",
       "sideLabel": false,
       "hasImage": true,
       "regions": [
@@ -4431,7 +4431,7 @@
       "album": "飄帶",
       "price": "0",
       "origPrice": "",
-      "noPromo": false,
+      "noPromo": true,
       "notes": "數量有限，送完為止",
       "sideLabel": false,
       "hasImage": true,
@@ -5622,7 +5622,7 @@
       "album": "貼紙",
       "price": "0",
       "origPrice": "",
-      "noPromo": false,
+      "noPromo": true,
       "notes": "一組兩張，數量有限，送完為止",
       "sideLabel": false,
       "hasImage": true,
