@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T11:03:59.695Z",
+  "generatedAt": "2026-10-24T11:29:01.815Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -6209,28 +6209,6 @@
       "reserved": false
     },
     {
-      "id": "mvkwlhcktrb98",
-      "artist": "Evanescence",
-      "album": "Fallen",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2003台版(510879.2)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Metal"
-      ],
-      "subgenres": [
-        "Alt Metal"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mvm9itwk1dw9e",
       "artist": "Unknown Artists",
       "album": "飄帶(P)",
@@ -6239,22 +6217,6 @@
       "noPromo": false,
       "gift": true,
       "notes": "數量稀少，購物即送",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [],
-      "genres": [],
-      "subgenres": [],
-      "reserved": false
-    },
-    {
-      "id": "mvm9itwlgp3k3",
-      "artist": "Various",
-      "album": "水傷CD*7",
-      "price": "0",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": true,
-      "notes": "購物即送",
       "sideLabel": false,
       "hasImage": true,
       "regions": [],
