@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T11:29:24.718Z",
+  "generatedAt": "2026-10-24T11:36:58.313Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -6222,28 +6222,6 @@
       "regions": [],
       "genres": [],
       "subgenres": [],
-      "reserved": false
-    },
-    {
-      "id": "mvmaf1qwkhsie",
-      "artist": "Prince And The New Power Generation",
-      "album": "Love Symbol",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1992日版(WPCP-4999)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Funk/Soul"
-      ],
-      "subgenres": [
-        "Funk/Soul"
-      ],
       "reserved": false
     },
     {
