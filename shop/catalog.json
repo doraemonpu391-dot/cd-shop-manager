@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T09:31:25.751Z",
+  "generatedAt": "2026-10-24T10:35:17.272Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -6228,6 +6228,38 @@
       "subgenres": [
         "Alt Metal"
       ],
+      "reserved": false
+    },
+    {
+      "id": "mvm9itwk1dw9e",
+      "artist": "Unknown Artists",
+      "album": "飄帶(P)",
+      "price": "0",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": true,
+      "notes": "數量稀少，購物即送",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [],
+      "genres": [],
+      "subgenres": [],
+      "reserved": false
+    },
+    {
+      "id": "mvm9itwlgp3k3",
+      "artist": "Various",
+      "album": "水傷CD*7",
+      "price": "0",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": true,
+      "notes": "購物即送",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [],
+      "genres": [],
+      "subgenres": [],
       "reserved": false
     }
   ],
