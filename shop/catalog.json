@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T08:13:12.088Z",
+  "generatedAt": "2026-10-25T08:27:33.366Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -6397,6 +6397,204 @@
       ],
       "subgenres": [
         "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvnkefmib7f4k",
+      "artist": "Gorillaz",
+      "album": "Gorillaz",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2001歐版(7243 534488 0 6)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Trip Hop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvnkefmisbubq",
+      "artist": "Damien Rice",
+      "album": "O/B-Sides",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2004台版(50-50467-6290-2-8)，2CD",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Folk Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvnkefmi1yjmt",
+      "artist": "Avril Lavigne",
+      "album": "Under My Skin",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2004台版(82876-59774-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvnkefmjnfhim",
+      "artist": "Black Box Recorder",
+      "album": "England Made Me",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1998歐版(7243 496064 25)",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvnkefmjwqzme",
+      "artist": "Sigur Rós",
+      "album": "Ágætis byrjun",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2000英版(FATCD11)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Post Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvnkefmj35bei",
+      "artist": "The xx",
+      "album": "xx",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2009台版(HN654CD)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvnkefmjkhbq9",
+      "artist": "Sade",
+      "album": "The Best of Sade",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1994美版(EK 66686)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Funk/Soul"
+      ],
+      "subgenres": [
+        "Smooth Jazz"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvnkefmj12gap",
+      "artist": "Macy Gray",
+      "album": "On How Life Is",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1999歐版(494423.2)",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Funk/Soul"
+      ],
+      "subgenres": [
+        "Contemporary R&B"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvnkefmjtzd0d",
+      "artist": "Eric Clapton",
+      "album": "Unplugged",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1992美版(9 45024-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Blues Rock"
       ],
       "reserved": false
     }
