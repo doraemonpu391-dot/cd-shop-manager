@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T08:27:33.366Z",
+  "generatedAt": "2026-10-25T16:26:17.879Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -6529,28 +6529,6 @@
       ],
       "subgenres": [
         "Indie Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mvnkefmjkhbq9",
-      "artist": "Sade",
-      "album": "The Best of Sade",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1994美版(EK 66686)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Funk/Soul"
-      ],
-      "subgenres": [
-        "Smooth Jazz"
       ],
       "reserved": false
     },
