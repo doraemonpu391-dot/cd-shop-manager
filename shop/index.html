@@ -304,6 +304,7 @@
       </select>
     </div>
     <label class="salechk" id="saleChk" for="saleOnly"><input type="checkbox" id="saleOnly"> 特價品</label>
+    <label class="salechk" id="giftChk" for="giftOnly" style="display:none;"><input type="checkbox" id="giftOnly"> 贈品</label>
     <div class="fgroup" id="regionGroup" style="display:none;">
       <label for="regionSel">地區</label>
       <select id="regionSel"><option value="">全部</option></select>
@@ -1039,9 +1040,12 @@
     var priceActive = hasMin || hasMax;
     var saleOnly = document.getElementById('saleOnly').checked;
     document.getElementById('saleChk').classList.toggle('on', saleOnly);
+    var giftOnly = document.getElementById('giftOnly').checked;
+    document.getElementById('giftChk').classList.toggle('on', giftOnly);
 
     var out = ITEMS.filter(function(it){
       if(saleOnly && discountPct(it) < 1) return false;
+      if(giftOnly && !it.gift) return false;
       if(q && ((it.artist||'')+' '+(it.album||'')).toLowerCase().indexOf(q) === -1) return false;
       if(region && axisVals(it,'regions').indexOf(region) === -1) return false;
       if(genre && axisVals(it,'genres').indexOf(genre) === -1) return false;
@@ -1058,7 +1062,7 @@
     setList(out);
 
     // 結果數與「清除篩選」顯示
-    var filtering = !!q || !!region || !!genre || !!sub || priceActive || saleOnly;
+    var filtering = !!q || !!region || !!genre || !!sub || priceActive || saleOnly || giftOnly;
     document.getElementById('clearFilters').style.display = filtering ? 'inline-block' : 'none';
     var rc = document.getElementById('resultCount');
     rc.textContent = filtering ? ('符合 ' + out.length + ' 件 / 共 ' + ITEMS.length + ' 件') : '';
@@ -1071,6 +1075,7 @@
     document.getElementById('priceMin').value = '';
     document.getElementById('priceMax').value = '';
     document.getElementById('saleOnly').checked = false;
+    document.getElementById('giftOnly').checked = false;
     applyFilter();
   }
   // 從商品清單建立三軸下拉選項；某軸完全沒有值時整組隱藏。
@@ -1193,6 +1198,8 @@
 
   fetch('./catalog.json?_=' + Date.now(), {cache:'no-store'}).then(function(r){ return r.json(); }).then(function(data){
     ITEMS = (data && Array.isArray(data.items)) ? data.items : [];
+    // 「贈品」篩選只在目前有贈品時才出現；沒有贈品勾了只會看到空白
+    document.getElementById('giftChk').style.display = ITEMS.some(function(it){ return it && it.gift; }) ? '' : 'none';
     VER = encodeURIComponent(String((data && data.generatedAt) || Date.now()).replace(/[^0-9A-Za-z]/g,''));
     if(data && data.intro && String(data.intro).trim()){
       var introEl = document.getElementById('intro');
@@ -1237,6 +1244,7 @@
     document.getElementById('priceMin').addEventListener('input', applyFilter);
     document.getElementById('priceMax').addEventListener('input', applyFilter);
     document.getElementById('saleOnly').addEventListener('change', applyFilter);
+    document.getElementById('giftOnly').addEventListener('change', applyFilter);
     // 轉向或縮放會讓選購列重新折行（高度改變），浮動鈕要跟著重新定位
     window.addEventListener('resize', positionFbBtn);
     document.getElementById('clearFilters').addEventListener('click', clearFilters);
