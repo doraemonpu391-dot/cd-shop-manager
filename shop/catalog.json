@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T18:21:26.650Z",
+  "generatedAt": "2026-10-26T19:57:08.188Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -6401,28 +6401,6 @@
       "reserved": false
     },
     {
-      "id": "mvnkefmib7f4k",
-      "artist": "Gorillaz",
-      "album": "Gorillaz",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2001歐版(7243 534488 0 6)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Trip Hop"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mvnkefmisbubq",
       "artist": "Damien Rice",
       "album": "O/B-Sides",
@@ -6507,28 +6485,6 @@
       ],
       "subgenres": [
         "Contemporary R&B"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mvnkefmjtzd0d",
-      "artist": "Eric Clapton",
-      "album": "Unplugged",
-      "price": "150",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1992美版(9 45024-2)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Blues Rock"
       ],
       "reserved": false
     },
