@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T16:28:43.844Z",
+  "generatedAt": "2026-10-26T08:42:58.512Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -6573,6 +6573,204 @@
       ],
       "subgenres": [
         "Blues Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvp0e3zb09u1x",
+      "artist": "Talking Heads",
+      "album": "Remain in Light",
+      "price": "500",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1998日版(WPCR-2664)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Art Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvp0e3zbytpb9",
+      "artist": "Sade",
+      "album": "Love Deluxe",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1992日版(ESCA 5673)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Funk/Soul"
+      ],
+      "subgenres": [
+        "Smooth Jazz"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvp0e3zbzwl70",
+      "artist": "King Crimson",
+      "album": "In the Court of the Crimson King",
+      "price": "500",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1989歐版(EGCD 1)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Prog Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvp0e3zbinbz0",
+      "artist": "Fleetwood Mac",
+      "album": "Rumours",
+      "price": "500",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1997日版(WPCR-2535)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Classic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvp0e3zb2c0nh",
+      "artist": "Gorillaz",
+      "album": "Plastic Beach",
+      "price": "450",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2010日版(TOCP-66951)，含英、日文歌詞解說，小海報",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Trip Hop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvp0e3zc5satf",
+      "artist": "Gorillaz",
+      "album": "Demon Days",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2005歐版(0946 311688 2 6)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Trip Hop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvp0e3zct8oyy",
+      "artist": "Queen",
+      "album": "Queen Jewels II",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2013日版(UICY 15270)，日本限定推出合輯，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Classic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvp0e3zcy2aap",
+      "artist": "Queen",
+      "album": "Queen Jewels",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2004日版(TOCP 67318)，日本限定推出合輯，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Classic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvp0e3zcy94gu",
+      "artist": "Carole King",
+      "album": "Tapestry",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1999日版(ESCA 7770)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Folk Rock"
       ],
       "reserved": false
     }
