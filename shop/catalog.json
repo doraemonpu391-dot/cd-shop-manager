@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T08:42:58.512Z",
+  "generatedAt": "2026-10-26T17:37:18.289Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -6445,28 +6445,6 @@
       "reserved": false
     },
     {
-      "id": "mvnkefmi1yjmt",
-      "artist": "Avril Lavigne",
-      "album": "Under My Skin",
-      "price": "150",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2004台版(82876-59774-2)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mvnkefmjnfhim",
       "artist": "Black Box Recorder",
       "album": "England Made Me",
@@ -6485,28 +6463,6 @@
       ],
       "subgenres": [
         "Indie Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mvnkefmjwqzme",
-      "artist": "Sigur Rós",
-      "album": "Ágætis byrjun",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2000英版(FATCD11)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Post Rock"
       ],
       "reserved": false
     },
@@ -6617,50 +6573,6 @@
       ],
       "subgenres": [
         "Smooth Jazz"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mvp0e3zbzwl70",
-      "artist": "King Crimson",
-      "album": "In the Court of the Crimson King",
-      "price": "500",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1989歐版(EGCD 1)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Prog Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mvp0e3zbinbz0",
-      "artist": "Fleetwood Mac",
-      "album": "Rumours",
-      "price": "500",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1997日版(WPCR-2535)，含英、日文歌詞解說",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Classic Rock"
       ],
       "reserved": false
     },
