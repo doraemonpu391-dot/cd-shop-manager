@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T13:49:46.313Z",
+  "generatedAt": "2026-10-27T15:42:46.308Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -6617,6 +6617,204 @@
       ],
       "subgenres": [
         "Folk Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvquttw7d07pj",
+      "artist": "王菲",
+      "album": "玩具",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1997港版(534664-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "粵語"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Mandopop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvquttw9spb00",
+      "artist": "王靖雯",
+      "album": "迷",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1994台版(70036)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "華語"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Mandopop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvquttw9x6mt4",
+      "artist": "王菲",
+      "album": "寓言",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2000港版(7243 529852 2 7)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "華語"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Mandopop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvquttw90fesc",
+      "artist": "Björk",
+      "album": "Vespertine",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2001台版(589 001-2)",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Electronic"
+      ],
+      "subgenres": [
+        "Experimental Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvquttw9iqag4",
+      "artist": "Fugees",
+      "album": "The Score",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1996美版(CK 67147)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Hip-Hop/R&B"
+      ],
+      "subgenres": [
+        "Conscious Hip Hop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvquttw9thffz",
+      "artist": "The Who",
+      "album": "Who's Next",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2005日版(UICY-90046)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Classic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvquttw9q5ik0",
+      "artist": "Queen",
+      "album": "A Night at the Opera",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1994日版(TOCP-8274)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Classic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvquttw9kox2n",
+      "artist": "Pearl Jam",
+      "album": "Ten",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1991美版(ZK 47857)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Grunge"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvquttw9crn1k",
+      "artist": "Pearl Jam",
+      "album": "Vs.",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1993日版(SRCS 6827)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Grunge"
       ],
       "reserved": false
     }
