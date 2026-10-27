@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T06:51:11.682Z",
+  "generatedAt": "2026-10-27T13:43:01.286Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -1635,28 +1635,6 @@
       ],
       "subgenres": [
         "Glam Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mt5o7k052p0l1",
-      "artist": "Green Day",
-      "album": "Insomniac",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1995歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Punk"
       ],
       "reserved": false
     },
