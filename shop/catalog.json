@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T06:58:14.425Z",
+  "generatedAt": "2026-10-29T07:04:32.148Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -755,28 +755,6 @@
       ],
       "subgenres": [
         "Hard Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "msbhxmoerg1nn",
-      "artist": "Eagles",
-      "album": "Hell Freezes Over",
-      "price": "100",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1994台版，外圈有一透光點",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Classic Rock"
       ],
       "reserved": false
     },
@@ -2577,28 +2555,6 @@
       ],
       "subgenres": [
         "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtwy0pz3915fg",
-      "artist": "Simon & Garfunkel",
-      "album": "The Simon And Garfunkel Collection",
-      "price": "150",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1987歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Folk Rock"
       ],
       "reserved": false
     },
@@ -5247,28 +5203,6 @@
       "reserved": false
     },
     {
-      "id": "mv40h0iy5dwhf",
-      "artist": "Alanis Morissette",
-      "album": "Jagged Little Pill",
-      "price": "100",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1995台版(9 45901-2)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Alt-Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mv40h0iy3b02s",
       "artist": "Kimbra",
       "album": "Vows",
@@ -5335,28 +5269,6 @@
       "reserved": false
     },
     {
-      "id": "mv5734a7ednhk",
-      "artist": "The Beatles",
-      "album": "1",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2000日版(TOCP-65600)，含英、日文歌詞解說",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mv5734a8muf94",
       "artist": "Madonna",
       "album": "Celebration",
@@ -5375,28 +5287,6 @@
       ],
       "subgenres": [
         "Dance-Pop"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mv5734a83cy35",
-      "artist": "Carpenters",
-      "album": "Twenty-Two Hits Of The Carpenters",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1995日版(POCM-1540)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Soft Rock"
       ],
       "reserved": false
     },
@@ -6563,28 +6453,6 @@
       "noPromo": false,
       "gift": false,
       "notes": "2013日版(UICY 15270)，日本限定推出合輯，含英、日文歌詞解說",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Classic Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mvp0e3zcy2aap",
-      "artist": "Queen",
-      "album": "Queen Jewels",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2004日版(TOCP 67318)，日本限定推出合輯，含英、日文歌詞解說",
       "sideLabel": true,
       "hasImage": true,
       "regions": [
