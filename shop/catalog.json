@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T15:42:46.308Z",
+  "generatedAt": "2026-10-29T06:58:14.425Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -6815,6 +6815,204 @@
       ],
       "subgenres": [
         "Grunge"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvt6yzjdk8sn6",
+      "artist": "Bon Jovi",
+      "album": "Slippery When Wet",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1986歐版(830 264-2)，寶麗金進口",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Hard Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvt6yzjdp7rq8",
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1997台版(488187 2)，含英搖樂團介紹、綠洲團員小海報",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Britpop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvt6yzjd7fi6t",
+      "artist": "Mariah Carey",
+      "album": "Daydream",
+      "price": "120",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1995台版(481367 2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Contemporary R&B"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvt6yzjd3pewx",
+      "artist": "Sade",
+      "album": "Diamond Life",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1992歐版(CD 26044)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Funk/Soul"
+      ],
+      "subgenres": [
+        "Smooth Jazz"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvt6yzjdyc7yl",
+      "artist": "Avril Lavigne",
+      "album": "Let Go",
+      "price": "120",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2002美版(07822-14740-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvt6yzjdef1he",
+      "artist": "Avril Lavigne",
+      "album": "The Best Damn Thing",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2007台版(88697 03774-2)，含台版紙盒、中文歌詞",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvt6yzjd683ep",
+      "artist": "The Cardigans",
+      "album": "First Band on the Moon",
+      "price": "120",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1996歐版(533 117-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvt6yzjdjw35o",
+      "artist": "The Cranberries",
+      "album": "No Need to Argue",
+      "price": "120",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1994英版(CID 8029 524050-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvt6yzjde6ddk",
+      "artist": "Ace of Base",
+      "album": "The Sign (Happy Nation U.S. Version)",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1993歐版(521 472-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Electronic"
+      ],
+      "subgenres": [
+        "Europop"
       ],
       "reserved": false
     }
