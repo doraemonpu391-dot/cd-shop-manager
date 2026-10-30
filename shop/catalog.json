@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T07:07:45.924Z",
+  "generatedAt": "2026-10-30T05:36:50.615Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -6881,6 +6881,204 @@
       ],
       "subgenres": [
         "Europop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvuji5ra9pvxn",
+      "artist": "David Gilmour",
+      "album": "About Face",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1987美版(CK 39296)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Art Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvuji5ra2qu20",
+      "artist": "Squarepusher",
+      "album": "Feed Me Weird Things",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1996英版(CAT037CD)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Electronic"
+      ],
+      "subgenres": [
+        "IDM"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvuji5raidl40",
+      "artist": "Aphex Twin",
+      "album": "Come to Daddy",
+      "price": "450",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1997美版(31001)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Electronic"
+      ],
+      "subgenres": [
+        "IDM"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvuji5rba5lr6",
+      "artist": "Mark Ronson",
+      "album": "Uptown Special",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2015美版(88875056282)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Contemporary R&B"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvuji5rbpjw84",
+      "artist": "The Flaming Lips",
+      "album": "Yoshimi Battles The Pink Robots",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2002歐版(9362-48141-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Psychedelic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvuji5rboknw7",
+      "artist": "Jamiroquai",
+      "album": "The Return Of The Space Cowboy",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1994日版(ESCA 6066)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Funk/Soul"
+      ],
+      "subgenres": [
+        "Acid Jazz"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvuji5rb23mp6",
+      "artist": "Jamiroquai",
+      "album": "Emergency On Planet Earth",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1993日版(ESCA 5775)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Funk/Soul"
+      ],
+      "subgenres": [
+        "Acid Jazz"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvuji5rb0vdgz",
+      "artist": "Towa Tei",
+      "album": "Sound Museum",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1997日版(AMCY-2258~9)，2CD",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "日本"
+      ],
+      "genres": [
+        "Electronic"
+      ],
+      "subgenres": [
+        "Downtempo"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvuji5rb3y2zp",
+      "artist": "Prince",
+      "album": "The Rainbow Children",
+      "price": "450",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2002日版(VICP-61736)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Jazz"
+      ],
+      "subgenres": [
+        "Jazz-Funk"
       ],
       "reserved": false
     }
