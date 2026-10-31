@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T12:04:13.169Z",
+  "generatedAt": "2026-10-31T12:05:28.394Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -6683,28 +6683,6 @@
       ],
       "subgenres": [
         "Grunge"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mvt6yzjdk8sn6",
-      "artist": "Bon Jovi",
-      "album": "Slippery When Wet",
-      "price": "150",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1986歐版(830 264-2)，寶麗金進口",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Hard Rock"
       ],
       "reserved": false
     },
