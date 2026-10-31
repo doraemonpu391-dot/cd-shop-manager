@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T12:05:28.394Z",
+  "generatedAt": "2026-10-31T12:08:42.582Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -4457,28 +4457,6 @@
       ],
       "subgenres": [
         "Psychedelic Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "musdmrixfugxb",
-      "artist": "Fiona Apple",
-      "album": "When The Pawn",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1999加版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
       ],
       "reserved": false
     },
