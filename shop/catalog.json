@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T05:40:18.833Z",
+  "generatedAt": "2026-10-31T12:04:13.169Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -6948,7 +6948,7 @@
       "subgenres": [
         "IDM"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "mvuji5rba5lr6",
@@ -7058,29 +7058,7 @@
       "subgenres": [
         "Downtempo"
       ],
-      "reserved": false
-    },
-    {
-      "id": "mvuji5rb3y2zp",
-      "artist": "Prince",
-      "album": "The Rainbow Children",
-      "price": "450",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2002日版(VICP-61736)，含英、日文歌詞解說",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Jazz"
-      ],
-      "subgenres": [
-        "Jazz-Funk"
-      ],
-      "reserved": false
+      "reserved": true
     }
   ],
   "promo": "🛍️買三片折50六片100，依此類推，歡迎選購！🚚滿兩千享免運優惠",
