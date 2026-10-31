@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T12:08:42.582Z",
+  "generatedAt": "2026-10-31T12:32:59.640Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -7015,6 +7015,204 @@
         "Downtempo"
       ],
       "reserved": true
+    },
+    {
+      "id": "mvwdt6j1webku",
+      "artist": "Britney Spears",
+      "album": "...Baby One More Time",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1999日版(AVCZ-95114)，日版限定封面，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Dance-Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvwdt6j3kmj5d",
+      "artist": "Madonna",
+      "album": "Ray Of Light",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1998台版(9 46847-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Dance-Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvwdt6j3w9zr1",
+      "artist": "Mariah Carey",
+      "album": "Charmbracelet",
+      "price": "120",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2002美版(440 063 467-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Contemporary R&B"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvwdt6j3c75ej",
+      "artist": "Ariana Grande",
+      "album": "My Everything",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2014日版(UICU-1255)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Contemporary R&B"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvwdt6j3e1doo",
+      "artist": "Enya",
+      "album": "A Day Without Rain",
+      "price": "70",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2000台版(8573-85986-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Folk/Country"
+      ],
+      "subgenres": [
+        "New Age"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvwdt6j3gkyxn",
+      "artist": "Enya",
+      "album": "Watermark",
+      "price": "70",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1989美版(9 24233-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Folk/Country"
+      ],
+      "subgenres": [
+        "New Age"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvwdt6j3mmkzf",
+      "artist": "Madonna",
+      "album": "MDNA",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2012台版(0602527997360)，2CD，含歌詞",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Dance-Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvwdt6j3l7ebx",
+      "artist": "Enya",
+      "album": "Paint The Sky With Stars (The Best Of Enya)",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1997歐版(3984 20895 2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Folk/Country"
+      ],
+      "subgenres": [
+        "New Age"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvwdt6j361v8o",
+      "artist": "Alicia Keys",
+      "album": "The Diary Of Alicia Keys",
+      "price": "120",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2003台版(82876-58165-2)，CD+DVD，含台版紙盒、中英文歌詞解說小海報",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Contemporary R&B"
+      ],
+      "reserved": false
     }
   ],
   "promo": "🛍️買三片折50六片100，依此類推，歡迎選購！🚚滿兩千享免運優惠",
