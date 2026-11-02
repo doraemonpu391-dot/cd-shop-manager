@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T20:27:10.898Z",
+  "generatedAt": "2026-11-02T20:29:07.475Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -6863,28 +6863,6 @@
       "reserved": false
     },
     {
-      "id": "mvuji5raidl40",
-      "artist": "Aphex Twin",
-      "album": "Come to Daddy",
-      "price": "450",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1997美版(31001)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Electronic"
-      ],
-      "subgenres": [
-        "IDM"
-      ],
-      "reserved": true
-    },
-    {
       "id": "mvuji5rba5lr6",
       "artist": "Mark Ronson",
       "album": "Uptown Special",
@@ -6971,28 +6949,6 @@
         "Acid Jazz"
       ],
       "reserved": false
-    },
-    {
-      "id": "mvuji5rb0vdgz",
-      "artist": "Towa Tei",
-      "album": "Sound Museum",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1997日版(AMCY-2258~9)，2CD",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "日本"
-      ],
-      "genres": [
-        "Electronic"
-      ],
-      "subgenres": [
-        "Downtempo"
-      ],
-      "reserved": true
     },
     {
       "id": "mvwdt6j1webku",
