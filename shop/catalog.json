@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T12:27:52.239Z",
+  "generatedAt": "2026-11-02T20:27:10.898Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5309,28 +5309,6 @@
       ],
       "subgenres": [
         "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mv5734a8ftoc9",
-      "artist": "Aphex Twin",
-      "album": "Drukqs",
-      "price": "500",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2001美版(31174-2)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Electronic"
-      ],
-      "subgenres": [
-        "IDM"
       ],
       "reserved": false
     },
