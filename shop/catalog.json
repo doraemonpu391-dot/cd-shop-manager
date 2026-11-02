@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T12:32:59.640Z",
+  "generatedAt": "2026-11-02T12:27:52.239Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -7211,6 +7211,204 @@
       ],
       "subgenres": [
         "Contemporary R&B"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvz8ib5e6lsb6",
+      "artist": "Sade",
+      "album": "Soldier Of Love",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2010加版(88697639332)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Funk/Soul"
+      ],
+      "subgenres": [
+        "Smooth Jazz"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvz8ib5gcgx6b",
+      "artist": "Paul Oakenfold",
+      "album": "Bunkka",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2002台版(PERFALB09CD)",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Electronic"
+      ],
+      "subgenres": [
+        "Breakbeat"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvz8ib5hf5d27",
+      "artist": "Janis Joplin",
+      "album": "Pearl",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1999美版(CK 65786)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Funk/Soul"
+      ],
+      "subgenres": [
+        "Funk/Soul"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvz8ib5h5bnkk",
+      "artist": "The Clash",
+      "album": "The Clash ~ 白い暴動 ~",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1999日版(ESCA 7809)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvz8ib5h33vgl",
+      "artist": "Tears For Fears",
+      "album": "Songs From The Big Chair",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1985歐版(824 300-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "New Wave"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvz8ib5hkcqrs",
+      "artist": "Kula Shaker",
+      "album": "K",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1996日版(ESCA 6498)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Psychedelic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvz8ib5hwai3q",
+      "artist": "Green Day",
+      "album": "Insomniac",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1995歐版(9362-46046-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvz8ib5hfpnhn",
+      "artist": "Britney Spears",
+      "album": "Greatest Hits: My Prerogative",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2004台版(82876 66004 2)，含台版紙盒、中文歌詞解說本",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Dance-Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mvz8ib5hmkbc7",
+      "artist": "Various",
+      "album": "The Bodyguard (Original Soundtrack Album)",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1992美版(07822 18699 2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Soundtrack/Stage"
+      ],
+      "subgenres": [
+        "Soundtrack/Stage"
       ],
       "reserved": false
     }
