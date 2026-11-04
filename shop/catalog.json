@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T20:30:38.254Z",
+  "generatedAt": "2026-11-04T13:32:28.284Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -3211,6 +3211,28 @@
       ],
       "subgenres": [
         "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mu41zfz5vkhgx",
+      "artist": "Green Day",
+      "album": "Kerplunk!",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1995美版",
+      "sideLabel": false,
+      "hasImage": false,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Punk"
       ],
       "reserved": false
     },
@@ -7343,6 +7365,220 @@
       ],
       "subgenres": [
         "Soundtrack/Stage"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw0dplekub9pg",
+      "artist": "King Crimson",
+      "album": "Larks'",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "",
+      "sideLabel": false,
+      "hasImage": false,
+      "regions": [],
+      "genres": [],
+      "subgenres": [],
+      "reserved": false
+    },
+    {
+      "id": "mw25p3awcxju8",
+      "artist": "Bruce Springsteen",
+      "album": "Tunnel Of Love",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1987日版(32DP 870)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw25p3awamyb6",
+      "artist": "Måneskin",
+      "album": "Il Ballo Della Vita",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2018義版(19075899772)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw25p3awm8uqx",
+      "artist": "Smashing Pumpkins",
+      "album": "Siamese Dream",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1993美版(0777 7 88267 2 9)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw25p3awt4m17",
+      "artist": "The Beatles",
+      "album": "Please Please Me",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1987日版(CP32-5321)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw25p3awyy91j",
+      "artist": "The Beatles",
+      "album": "Abbey Road",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1987日版(CP32-5332)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Art Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw25p3awle15i",
+      "artist": "The Beatles",
+      "album": "A Hard Day's Night",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1987美版(CDP 7 46437 2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw25p3axzbqk2",
+      "artist": "Pink Floyd",
+      "album": "The Dark Side Of The Moon",
+      "price": "450",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1994英版(7243 8 29752 2 9)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Prog Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw25p3axbptg0",
+      "artist": "Mariah Carey",
+      "album": "The Emancipation Of Mimi",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2005日版(UICL 1047)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Contemporary R&B"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw25p3axboeew",
+      "artist": "Madonna",
+      "album": "Something To Remember",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1995台版(9 46100-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Synth-Pop"
       ],
       "reserved": false
     }
