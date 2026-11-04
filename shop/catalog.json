@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T13:32:28.284Z",
+  "generatedAt": "2026-11-04T17:39:26.766Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -2339,28 +2339,6 @@
       "reserved": false
     },
     {
-      "id": "mtpglg5ss2jnt",
-      "artist": "Blur",
-      "album": "Think Tank",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2003日版(TOCP-66153)，含英、日文歌詞解說",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Indie Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mtpglg5wf7vwj",
       "artist": "Elbow",
       "album": "Asleep In The Back",
@@ -3215,28 +3193,6 @@
       "reserved": false
     },
     {
-      "id": "mu41zfz5vkhgx",
-      "artist": "Green Day",
-      "album": "Kerplunk!",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1995美版",
-      "sideLabel": false,
-      "hasImage": false,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Punk"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mu41zfz5c4j6m",
       "artist": "The Beatles",
       "album": "Love",
@@ -4047,28 +4003,6 @@
       "reserved": false
     },
     {
-      "id": "mui86h36sptev",
-      "artist": "Blur",
-      "album": "Modern Life Is Rubbish",
-      "price": "400",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1993歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Britpop"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mui86h36mpchz",
       "artist": "Sex Pistols",
       "album": "Never Mind The Bollocks Here's The Sex Pistols",
@@ -4479,28 +4413,6 @@
       ],
       "subgenres": [
         "Psychedelic Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "musdmrixj0hz3",
-      "artist": "Blur",
-      "album": "Parklife",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1994歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Britpop"
       ],
       "reserved": false
     },
@@ -6357,28 +6269,6 @@
       "reserved": false
     },
     {
-      "id": "mvp0e3zbytpb9",
-      "artist": "Sade",
-      "album": "Love Deluxe",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1992日版(ESCA 5673)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Funk/Soul"
-      ],
-      "subgenres": [
-        "Smooth Jazz"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mvp0e3zb2c0nh",
       "artist": "Gorillaz",
       "album": "Plastic Beach",
@@ -6973,28 +6863,6 @@
       "reserved": false
     },
     {
-      "id": "mvwdt6j1webku",
-      "artist": "Britney Spears",
-      "album": "...Baby One More Time",
-      "price": "150",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1999日版(AVCZ-95114)，日版限定封面，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Dance-Pop"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mvwdt6j3kmj5d",
       "artist": "Madonna",
       "album": "Ray Of Light",
@@ -7101,28 +6969,6 @@
       ],
       "subgenres": [
         "New Age"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mvwdt6j3mmkzf",
-      "artist": "Madonna",
-      "album": "MDNA",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2012台版(0602527997360)，2CD，含歌詞",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Dance-Pop"
       ],
       "reserved": false
     },
