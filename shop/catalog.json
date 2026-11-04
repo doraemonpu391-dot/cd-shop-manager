@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T17:39:26.766Z",
+  "generatedAt": "2026-11-04T17:40:12.939Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -7381,28 +7381,6 @@
       ],
       "subgenres": [
         "Prog Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mw25p3axbptg0",
-      "artist": "Mariah Carey",
-      "album": "The Emancipation Of Mimi",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2005日版(UICL 1047)，含英、日文歌詞解說",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Contemporary R&B"
       ],
       "reserved": false
     },
