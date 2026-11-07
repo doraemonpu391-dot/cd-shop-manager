@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T10:37:10.038Z",
+  "generatedAt": "2026-11-07T10:45:27.536Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -3871,28 +3871,6 @@
       "reserved": false
     },
     {
-      "id": "mugpfyujzvl7o",
-      "artist": "Rihanna",
-      "album": "Music Of The Sun",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2005日版(UICD-9015)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Hip-Hop/R&B"
-      ],
-      "subgenres": [
-        "Contemporary R&B"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mugpfyujk2y00",
       "artist": "Mr.big",
       "album": "Hey Man",
@@ -7403,28 +7381,6 @@
       ],
       "subgenres": [
         "Synth-Pop"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mw4ww2mea9vl7",
-      "artist": "Celine Dion",
-      "album": "Falling Into You",
-      "price": "150",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1996日版(ESCA 6410)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Soft Rock"
       ],
       "reserved": false
     },
