@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T11:49:16.155Z",
+  "generatedAt": "2026-11-07T10:37:10.038Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -7601,6 +7601,204 @@
       ],
       "subgenres": [
         "New Wave"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw69r6hb6hfk9",
+      "artist": "Dream Theater",
+      "album": "A Change Of Seasons",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1995日版(AMCY-885)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Metal"
+      ],
+      "subgenres": [
+        "Prog Metal"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw69r6hb6cwak",
+      "artist": "Guns N' Roses",
+      "album": "Appetite For Destruction",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2002日版(UICY-2101)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Hard Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw69r6hbzmcln",
+      "artist": "The Who",
+      "album": "Tommy",
+      "price": "600",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1996日版(POCP-7133)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Art Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw69r6hb5xp4k",
+      "artist": "Metallica",
+      "album": "Load",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1996澳版(532 618-2)，台灣寶麗金進口，含中文介紹",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Metal"
+      ],
+      "subgenres": [
+        "Thrash Metal"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw69r6hbzazko",
+      "artist": "Ocean Colour Scene",
+      "album": "Marchin' Already",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1997日版(MVCE-24040)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Britpop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw69r6hcrxj48",
+      "artist": "Ocean Colour Scene",
+      "album": "Moseley Shoals",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1996歐版(MCD 60008)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Britpop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw69r6hcbali7",
+      "artist": "The Smashing Pumpkins",
+      "album": "Adore",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1998加版(7243 8 45879 2 5)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw69r6hcer3fb",
+      "artist": "The Offspring",
+      "album": "Smash",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1994美版(86432-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw69r6hcgmmti",
+      "artist": "Rick Wakeman",
+      "album": "Journey To The Centre Of The Earth",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1988美版(CD 3156)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Modern Classical"
       ],
       "reserved": false
     }
