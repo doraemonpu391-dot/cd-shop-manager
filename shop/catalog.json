@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T10:45:27.536Z",
+  "generatedAt": "2026-11-07T10:59:18.315Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -1705,28 +1705,6 @@
       "reserved": true
     },
     {
-      "id": "mt8kcm83d2mni",
-      "artist": "The Beatles",
-      "album": "Let It Be",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1987歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mta31n6z0fwm0",
       "artist": "The Beatles",
       "album": "White Album",
@@ -3083,28 +3061,6 @@
       ],
       "subgenres": [
         "Dance-Pop"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mu2mpogl84x05",
-      "artist": "The Beatles",
-      "album": "A Hard Day's Night",
-      "price": "400",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1993日版(CP32-5323)，Beatles 30週年紀念系列，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
       ],
       "reserved": false
     },
@@ -4829,28 +4785,6 @@
       "reserved": false
     },
     {
-      "id": "mv26mlydfdzfb",
-      "artist": "The Beatles",
-      "album": "Help!",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1993日版(CP32-5325)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mv26mlydegl0d",
       "artist": "The Beatles",
       "album": "Beatles For Sale",
@@ -5791,28 +5725,6 @@
       "reserved": false
     },
     {
-      "id": "mvj7dom01xm1f",
-      "artist": "The Beatles",
-      "album": "Revolver",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1987歐版(CDP 7 46441 2)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mvj7dom0kfduy",
       "artist": "Nine Inch Nails",
       "album": "The Fragile",
@@ -6291,50 +6203,6 @@
       "reserved": false
     },
     {
-      "id": "mvp0e3zct8oyy",
-      "artist": "Queen",
-      "album": "Queen Jewels II",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2013日版(UICY 15270)，日本限定推出合輯，含英、日文歌詞解說",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Classic Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mvp0e3zcy94gu",
-      "artist": "Carole King",
-      "album": "Tapestry",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1999日版(ESCA 7770)，含英、日文歌詞解說",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Folk Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mvquttw7d07pj",
       "artist": "王菲",
       "album": "玩具",
@@ -6454,28 +6322,6 @@
       "gift": false,
       "notes": "2005日版(UICY-90046)，含英、日文歌詞解說",
       "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Classic Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mvquttw9q5ik0",
-      "artist": "Queen",
-      "album": "A Night at the Opera",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1994日版(TOCP-8274)，含英、日文歌詞解說",
-      "sideLabel": false,
       "hasImage": true,
       "regions": [
         "西洋"
@@ -7271,72 +7117,6 @@
       ],
       "subgenres": [
         "Alt-Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mw25p3awt4m17",
-      "artist": "The Beatles",
-      "album": "Please Please Me",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1987日版(CP32-5321)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mw25p3awyy91j",
-      "artist": "The Beatles",
-      "album": "Abbey Road",
-      "price": "400",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1987日版(CP32-5332)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Art Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mw25p3awle15i",
-      "artist": "The Beatles",
-      "album": "A Hard Day's Night",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1987美版(CDP 7 46437 2)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
       ],
       "reserved": false
     },
