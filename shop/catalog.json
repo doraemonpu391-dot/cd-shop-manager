@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T12:39:17.284Z",
+  "generatedAt": "2026-11-08T12:40:40.741Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -6269,28 +6269,6 @@
       "reserved": false
     },
     {
-      "id": "mvquttw90fesc",
-      "artist": "Björk",
-      "album": "Vespertine",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2001台版(589 001-2)",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Electronic"
-      ],
-      "subgenres": [
-        "Experimental Pop"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mvquttw9iqag4",
       "artist": "Fugees",
       "album": "The Score",
@@ -6397,28 +6375,6 @@
       ],
       "subgenres": [
         "Britpop"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mvt6yzjd7fi6t",
-      "artist": "Mariah Carey",
-      "album": "Daydream",
-      "price": "120",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1995台版(481367 2)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Contemporary R&B"
       ],
       "reserved": false
     },
