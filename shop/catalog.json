@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T10:59:35.007Z",
+  "generatedAt": "2026-11-08T12:37:00.285Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -7535,6 +7535,204 @@
       ],
       "subgenres": [
         "Modern Classical"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw7th4h80wkn1",
+      "artist": "Martika",
+      "album": "Martika's Kitchen",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1991歐版(467189 2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw7th4h911n8w",
+      "artist": "Michael Jackson",
+      "album": "Thriller",
+      "price": "800",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1991日版(ESCA 5408)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Funk/Soul"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw7th4h9vv0bz",
+      "artist": "Michael Jackson",
+      "album": "Off The Wall",
+      "price": "600",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2001歐版(EPC 504421 2)，特別版，Bonus Track",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Disco"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw7th4h9s3qzb",
+      "artist": "Led Zeppelin",
+      "album": "Mothership",
+      "price": "900",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2007日版(WPZR 30252-4)，原裝完整，2CD+DVD，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Classic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw7th4h9kcvyf",
+      "artist": "Pulp",
+      "album": "Different Class",
+      "price": "450",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1995歐版(CID 8041)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Britpop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw7th4h93234r",
+      "artist": "The Beatles",
+      "album": "Sgt. Pepper's Lonely Hearts Club Band",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1998日版(TOCP-51118)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Psychedelic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw7th4h98qytj",
+      "artist": "Mariah Carey",
+      "album": "Mariah Carey",
+      "price": "120",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1990美版(CK 45202)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Contemporary R&B"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw7th4h9isuch",
+      "artist": "Mariah Carey",
+      "album": "Emotions",
+      "price": "120",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1991美版(CK 47980)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Contemporary R&B"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw7th4h9ngngo",
+      "artist": "Talking Heads",
+      "album": "Stop Making Sense",
+      "price": "500",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1996日版(TOCP-3248)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Art Rock"
       ],
       "reserved": false
     }
