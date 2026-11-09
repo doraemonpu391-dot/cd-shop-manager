@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T16:48:17.435Z",
+  "generatedAt": "2026-11-09T15:36:16.932Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -6093,28 +6093,6 @@
       "reserved": false
     },
     {
-      "id": "mvnkefmj35bei",
-      "artist": "The xx",
-      "album": "xx",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2009台版(HN654CD)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Indie Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mvnkefmj12gap",
       "artist": "Macy Gray",
       "album": "On How Life Is",
@@ -6608,28 +6586,6 @@
       "gift": false,
       "notes": "1994日版(ESCA 6066)，含英、日文歌詞解說",
       "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Funk/Soul"
-      ],
-      "subgenres": [
-        "Acid Jazz"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mvuji5rb23mp6",
-      "artist": "Jamiroquai",
-      "album": "Emergency On Planet Earth",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1993日版(ESCA 5775)，含英、日文歌詞解說",
-      "sideLabel": true,
       "hasImage": true,
       "regions": [
         "西洋"
@@ -7535,28 +7491,6 @@
       ],
       "subgenres": [
         "Funk/Soul"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mw7th4h9vv0bz",
-      "artist": "Michael Jackson",
-      "album": "Off The Wall",
-      "price": "600",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2001歐版(EPC 504421 2)，特別版，Bonus Track",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Disco"
       ],
       "reserved": false
     },
