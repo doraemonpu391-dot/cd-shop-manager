@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T15:36:50.838Z",
+  "generatedAt": "2026-11-09T16:23:55.239Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -7623,6 +7623,204 @@
       ],
       "subgenres": [
         "Art Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw9h0t9n32n1p",
+      "artist": "Madonna",
+      "album": "GHV2",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2001台版(9362-48000-2)，含台版紙盒、中英文歌詞相冊",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Contemporary R&B"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw9h0t9nsvdsf",
+      "artist": "Portishead",
+      "album": "Dummy + Portishead",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2009台版(531 864-4)，2CD",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Electronic"
+      ],
+      "subgenres": [
+        "Trip Hop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw9h0t9n28pty",
+      "artist": "Mariah Carey",
+      "album": "Butterfly",
+      "price": "120",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1997美版(CK 67835)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Contemporary R&B"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw9h0t9nhxwp3",
+      "artist": "The Beatles",
+      "album": "Revolver",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1987日版(CP32-5327)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw9h0t9nb339e",
+      "artist": "South Central Cartel",
+      "album": "'N Gatz We Truss",
+      "price": "500",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1994美版(314-529 344-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Hip-Hop/R&B"
+      ],
+      "subgenres": [
+        "Gangsta"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw9h0t9nqsrc4",
+      "artist": "Chicago",
+      "album": "The Heart Of Chicago 1967-1997",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1997美版(9 46554-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw9h0t9n0u58g",
+      "artist": "The Clash",
+      "album": "The Clash",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1987美版(EK 36060)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw9h0t9nug0ry",
+      "artist": "Yngwie Malmsteen",
+      "album": "The Yngwie Malmsteen Collection",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1991歐版(849 271-2)，台灣寶麗金進口",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Metal"
+      ],
+      "subgenres": [
+        "Heavy Metal"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mw9h0t9nawq9k",
+      "artist": "Yngwie Malmsteen",
+      "album": "Magnum Opus",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1995日版(PCCY-00772)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Metal"
+      ],
+      "subgenres": [
+        "Heavy Metal"
       ],
       "reserved": false
     }
