@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T16:23:55.239Z",
+  "generatedAt": "2026-11-10T05:55:48.638Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -2255,24 +2255,6 @@
       "reserved": false
     },
     {
-      "id": "mtlgs7scesebz",
-      "artist": "Metallica",
-      "album": "Metallica",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1991歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [],
-      "subgenres": [],
-      "reserved": false
-    },
-    {
       "id": "mtlgs7scamz63",
       "artist": "Steely Dan",
       "album": "Gaucho",
@@ -2291,28 +2273,6 @@
       ],
       "subgenres": [
         "Jazz Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtlgs7sciwip8",
-      "artist": "Rainbow",
-      "album": "The Very Best Of Rainbow",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2004日版，含英、日文歌詞解說，Rainbow編年史海報",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Hard Rock"
       ],
       "reserved": false
     },
@@ -2555,28 +2515,6 @@
       ],
       "subgenres": [
         "Contemporary R&B"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtwy0pz3f0vie",
-      "artist": "Sade",
-      "album": "Lovers Live",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2002亞版，含中、英歌詞",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Jazz"
-      ],
-      "subgenres": [
-        "Smooth Jazz"
       ],
       "reserved": false
     },
@@ -3259,28 +3197,6 @@
       "reserved": false
     },
     {
-      "id": "mu5gyrvulcf6o",
-      "artist": "Madonna",
-      "album": "Erotica",
-      "price": "120",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1992美版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Dance-Pop"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mu5gyrvu80bdm",
       "artist": "Lenny Kravitz",
       "album": "5",
@@ -3959,28 +3875,6 @@
       "reserved": false
     },
     {
-      "id": "mujnbjt58ydyd",
-      "artist": "Alicia Keys",
-      "album": "Songs In A Minor",
-      "price": "150",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2001限量精裝台版，含紙盒、小海報/中、英文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Contemporary R&B"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mujnbjt9d02jq",
       "artist": "Patti Smith",
       "album": "Gone Again",
@@ -4499,50 +4393,6 @@
       "reserved": false
     },
     {
-      "id": "muwl9x8lc0pa9",
-      "artist": "Angra",
-      "album": "Holy Land",
-      "price": "400",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1996日版(VICP-5633)，含英、日文歌詞解說",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Metal"
-      ],
-      "subgenres": [
-        "Power Metal"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "muwl9x8lf1kg2",
-      "artist": "Coldplay",
-      "album": "Mylo Xyloto",
-      "price": "150",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2011歐版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "muy2b1n80zh5h",
       "artist": "The Doors",
       "album": "Strange Days",
@@ -4609,28 +4459,6 @@
       "reserved": false
     },
     {
-      "id": "muy2b1n8n4bsd",
-      "artist": "Rush",
-      "album": "Roll The Bones",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1991日版(AMCY-286)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Prog Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mv0nbya93jrvp",
       "artist": "Whitesnake",
       "album": "Slip Of The Tongue",
@@ -4649,28 +4477,6 @@
       ],
       "subgenres": [
         "Glam Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mv0nbya9vjf9v",
-      "artist": "No Doubt",
-      "album": "Return Of Saturn",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2000日版(MVCT-24067)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Ska"
       ],
       "reserved": false
     },
@@ -5593,28 +5399,6 @@
       "reserved": false
     },
     {
-      "id": "mvidqp8rzzeir",
-      "artist": "Cyndi Lauper",
-      "album": "Sisters Of Avalon",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1997美版(EK 66433)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mvidqp8rlq4ip",
       "artist": "Green Day",
       "album": "¡Uno!",
@@ -6159,28 +5943,6 @@
       "reserved": false
     },
     {
-      "id": "mvp0e3zc5satf",
-      "artist": "Gorillaz",
-      "album": "Demon Days",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2005歐版(0946 311688 2 6)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Trip Hop"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mvquttw7d07pj",
       "artist": "王菲",
       "album": "玩具",
@@ -6265,28 +6027,6 @@
       ],
       "subgenres": [
         "Conscious Hip Hop"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mvquttw9thffz",
-      "artist": "The Who",
-      "album": "Who's Next",
-      "price": "400",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2005日版(UICY-90046)，含英、日文歌詞解說",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Classic Rock"
       ],
       "reserved": false
     },
@@ -6577,28 +6317,6 @@
       "reserved": false
     },
     {
-      "id": "mvuji5rboknw7",
-      "artist": "Jamiroquai",
-      "album": "The Return Of The Space Cowboy",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1994日版(ESCA 6066)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Funk/Soul"
-      ],
-      "subgenres": [
-        "Acid Jazz"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mvwdt6j3kmj5d",
       "artist": "Madonna",
       "album": "Ray Of Light",
@@ -6731,50 +6449,6 @@
       "reserved": false
     },
     {
-      "id": "mvwdt6j361v8o",
-      "artist": "Alicia Keys",
-      "album": "The Diary Of Alicia Keys",
-      "price": "120",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2003台版(82876-58165-2)，CD+DVD，含台版紙盒、中英文歌詞解說小海報",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Contemporary R&B"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mvz8ib5e6lsb6",
-      "artist": "Sade",
-      "album": "Soldier Of Love",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2010加版(88697639332)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Funk/Soul"
-      ],
-      "subgenres": [
-        "Smooth Jazz"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mvz8ib5gcgx6b",
       "artist": "Paul Oakenfold",
       "album": "Bunkka",
@@ -6797,28 +6471,6 @@
       "reserved": false
     },
     {
-      "id": "mvz8ib5hf5d27",
-      "artist": "Janis Joplin",
-      "album": "Pearl",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1999美版(CK 65786)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Funk/Soul"
-      ],
-      "subgenres": [
-        "Funk/Soul"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mvz8ib5h5bnkk",
       "artist": "The Clash",
       "album": "The Clash ~ 白い暴動 ~",
@@ -6837,28 +6489,6 @@
       ],
       "subgenres": [
         "Punk"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mvz8ib5h33vgl",
-      "artist": "Tears For Fears",
-      "album": "Songs From The Big Chair",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1985歐版(824 300-2)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "New Wave"
       ],
       "reserved": false
     },
@@ -6903,28 +6533,6 @@
       ],
       "subgenres": [
         "Pop Punk"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mvz8ib5hfpnhn",
-      "artist": "Britney Spears",
-      "album": "Greatest Hits: My Prerogative",
-      "price": "150",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2004台版(82876 66004 2)，含台版紙盒、中文歌詞解說本",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Dance-Pop"
       ],
       "reserved": false
     },
@@ -7073,28 +6681,6 @@
       ],
       "subgenres": [
         "Synth-Pop"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mw4ww2mfg2yl4",
-      "artist": "Def Leppard",
-      "album": "Hysteria",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1987歐版(830 675-2)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Hard Rock"
       ],
       "reserved": false
     },
@@ -7561,28 +7147,6 @@
       "reserved": false
     },
     {
-      "id": "mw7th4h98qytj",
-      "artist": "Mariah Carey",
-      "album": "Mariah Carey",
-      "price": "120",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1990美版(CK 45202)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Contemporary R&B"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mw7th4h9isuch",
       "artist": "Mariah Carey",
       "album": "Emotions",
@@ -7667,28 +7231,6 @@
       ],
       "subgenres": [
         "Trip Hop"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mw9h0t9n28pty",
-      "artist": "Mariah Carey",
-      "album": "Butterfly",
-      "price": "120",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1997美版(CK 67835)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Pop"
-      ],
-      "subgenres": [
-        "Contemporary R&B"
       ],
       "reserved": false
     },
