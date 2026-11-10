@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T06:13:06.606Z",
+  "generatedAt": "2026-11-10T16:47:25.858Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -7363,6 +7363,204 @@
       ],
       "subgenres": [
         "Heavy Metal"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwaxaw9wg9oxj",
+      "artist": "Linkin Park",
+      "album": "Minutes to Midnight",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2007台版(9362-49901-9)，含紙殼、中文歌詞",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Nu Metal"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwaxaw9wugoi1",
+      "artist": "Broken Social Scene Presents Kevin Drew",
+      "album": "Spirit If...",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2007台版(WWRD60)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwaxaw9xlpwh6",
+      "artist": "Muse",
+      "album": "Showbiz",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2003台版(5050466888624)，全新未拆封",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwaxaw9x6qagu",
+      "artist": "王菲",
+      "album": "寓言",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2000中國版(SCD-521)",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "華語"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Mandopop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwaxaw9x78z2k",
+      "artist": "王菲",
+      "album": "王菲",
+      "price": "500",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1997台版(ED-7012)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "華語"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Mandopop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwaxaw9xnbxxp",
+      "artist": "My Chemical Romance",
+      "album": "The Black Parade",
+      "price": "450",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2006日版(WPCR-12506)，日版Bonus Track，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Emo"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwaxaw9x9vzx4",
+      "artist": "Franz Ferdinand",
+      "album": "You Could Have It So Much Better",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2005美版(EK 94800)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwaxaw9xdjlg8",
+      "artist": "Red Hot Chili Peppers",
+      "album": "Mother's Milk",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1995日版(TOCP-3162)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwaxaw9xgxp63",
+      "artist": "Sade",
+      "album": "The Best of Sade",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1994歐版(477793 2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Funk/Soul"
+      ],
+      "subgenres": [
+        "Smooth Jazz"
       ],
       "reserved": false
     }
