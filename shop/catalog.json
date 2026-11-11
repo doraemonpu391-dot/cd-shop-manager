@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T16:47:25.858Z",
+  "generatedAt": "2026-11-11T13:02:26.440Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -7561,6 +7561,204 @@
       ],
       "subgenres": [
         "Smooth Jazz"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwc4pfn6o79hm",
+      "artist": "Wham!",
+      "album": "The Final",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1995台版(CD EPC 88681)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwc4pfn995oiq",
+      "artist": "Молчат Дома (Molchat Doma)",
+      "album": "Этажи (Etazhi)",
+      "price": "650",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2020美版(SBR-3037)，全新未拆封",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Post Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwc4pfn98aony",
+      "artist": "Eric Clapton",
+      "album": "Slowhand",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1993日版(POCP-2279)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Blues Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwc4pfn9cn8r2",
+      "artist": "Suede",
+      "album": "Head Music",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1999亞版(NUD 494243 2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Britpop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwc4pfn93xrnb",
+      "artist": "Oasis",
+      "album": "(What's The Story) Morning Glory?",
+      "price": "500",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1995港版(481020 2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Britpop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwc4pfn9yrygk",
+      "artist": "Mariah Carey",
+      "album": "Charmbracelet",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2002日版(UICL-1031)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Contemporary R&B"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwc4pfn9qnxcf",
+      "artist": "Green Day",
+      "album": "Nimrod.",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1997日版(WPCR-1601)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwc4pfn9fhbxp",
+      "artist": "Green Day",
+      "album": "Insomniac",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1995日版(WPCR-450)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwc4pfn9agef4",
+      "artist": "Enigma",
+      "album": "Love Sensuality Devotion (The Greatest Hits)",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2001日版(VJCP-68341)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Electronic"
+      ],
+      "subgenres": [
+        "New Age"
       ],
       "reserved": false
     }
