@@ -430,24 +430,6 @@
       return '<a href="'+u+'" target="_blank" rel="noopener noreferrer">'+u+'</a>' + trail;
     });
   }
-  // 同上，但另外支援 [文字](網址) 自訂連結文字。一樣先跳脫、只允許 http(s)。
-  function linkifyRich(s){
-    var t = esc(s);
-    var stash = [];
-    // ① 先把 [文字](網址) 抽成佔位符，避免被下面的裸網址規則吃掉
-    t = t.replace(/\[([^\]\n]+)\]\((https?:\/\/[^\s)]+)\)/g, function(_, label, url){
-      stash.push('<a href="'+url+'" target="_blank" rel="noopener noreferrer">'+label+'</a>');
-      return '\u0000'+(stash.length-1)+'\u0000';
-    });
-    // ② 裸網址沿用原規則
-    t = t.replace(/(https?:\/\/[^\s<]+)/g, function(u){
-      var trail = '', m = u.match(/[.,!?)\]}）】」』、，。]+$/);
-      if(m){ trail = m[0]; u = u.slice(0, u.length - trail.length); }
-      return '<a href="'+u+'" target="_blank" rel="noopener noreferrer">'+u+'</a>' + trail;
-    });
-    // ③ 還原佔位符
-    return t.replace(/\u0000(\d+)\u0000/g, function(_, i){ return stash[+i]; });
-  }
   // 社群連結：自訂陣列 [{icon:dataURL, label, url}]。相容舊的 {facebook,...} 物件格式。
   function normalizeShopSocials(socials){
     if(Array.isArray(socials)){
@@ -1232,7 +1214,7 @@
     renderSocials(data && data.socials);   // 社群圖示列
     if(data && data.promo && String(data.promo).trim()){
       var promoEl = document.getElementById('promo');
-      promoEl.innerHTML = linkifyRich(data.promo);   // 支援 [文字](網址)
+      promoEl.textContent = data.promo;
       promoEl.style.display = 'block';
     }
     var upd = document.getElementById('updated');
