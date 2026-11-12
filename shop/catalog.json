@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T19:47:36.585Z",
+  "generatedAt": "2026-11-12T05:18:47.300Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -7759,6 +7759,204 @@
       ],
       "subgenres": [
         "New Age"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwd3l07s0izfn",
+      "artist": "Green Day",
+      "album": "Revolution Radio",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2016加版(2-555326)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwd3l07sdweat",
+      "artist": "Paramore",
+      "album": "Brand New Eyes",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2009歐版(7567895804)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwd3l07spmfwx",
+      "artist": "My Chemical Romance",
+      "album": "Three Cheers For Sweet Revenge",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2004美版(48615-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Emo"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwd3l07sohyww",
+      "artist": "Fall Out Boy",
+      "album": "Infinity on High",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2009日版(UICY-60030)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Emo"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwd3l07s6p44o",
+      "artist": "Rage Against the Machine",
+      "album": "The Battle of Los Angeles",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1999美版(EK 69630)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Metal"
+      ],
+      "subgenres": [
+        "Funk Metal"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwd3l07sqs36v",
+      "artist": "Oasis",
+      "album": "Be Here Now",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1997日版(ESCA 6767)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Britpop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwd3l07sg8p7u",
+      "artist": "Prince",
+      "album": "Chaos and Disorder",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1996歐版(9362-46317-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Funk/Soul"
+      ],
+      "subgenres": [
+        "Funk/Soul"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwd3l07s8d98q",
+      "artist": "Various Artists",
+      "album": "The Last Emperor: Original Motion Picture Soundtrack",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1987英版(CDV 2485)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Soundtrack/Stage"
+      ],
+      "subgenres": [
+        "Soundtrack/Stage"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwd3l07s1poj0",
+      "artist": "Gorillaz",
+      "album": "Gorillaz",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2002台版(7243 534488 0 6)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Trip Hop"
       ],
       "reserved": false
     }
