@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T04:53:50.302Z",
+  "generatedAt": "2026-11-14T10:26:33.209Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -4767,28 +4767,6 @@
       "reserved": false
     },
     {
-      "id": "mv40h0iyq4bi4",
-      "artist": "Damien Rice",
-      "album": "9",
-      "price": "150",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2006台版(2564640422)，含中、英文歌詞解說",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Folk/Country"
-      ],
-      "subgenres": [
-        "Folk Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mv40h0iy3b02s",
       "artist": "Kimbra",
       "album": "Vows",
@@ -6509,28 +6487,6 @@
       "reserved": false
     },
     {
-      "id": "mw4ww2mfbth62",
-      "artist": "陳勛奇, Roel A. Garcia",
-      "album": "重慶森林 電影原聲大碟",
-      "price": "450",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1995港版(CP 50218)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "粵語"
-      ],
-      "genres": [
-        "Soundtrack/Stage"
-      ],
-      "subgenres": [
-        "Soundtrack/Stage"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mw4ww2mfvn7cc",
       "artist": "New Order",
       "album": "Substance",
@@ -7539,28 +7495,6 @@
       ],
       "subgenres": [
         "Funk/Soul"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mwd3l07s8d98q",
-      "artist": "Various Artists",
-      "album": "The Last Emperor: Original Motion Picture Soundtrack",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1987英版(CDV 2485)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Soundtrack/Stage"
-      ],
-      "subgenres": [
-        "Soundtrack/Stage"
       ],
       "reserved": false
     },
