@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T18:58:29.049Z",
+  "generatedAt": "2026-11-14T03:51:31.155Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -6531,28 +6531,6 @@
       "reserved": false
     },
     {
-      "id": "mw4ww2mf4cvot",
-      "artist": "The Verve",
-      "album": "A Northern Soul",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1995歐版(7243 840437 28)，台版側標",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Britpop"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mw4ww2mfvn7cc",
       "artist": "New Order",
       "album": "Substance",
@@ -7231,28 +7209,6 @@
       ],
       "subgenres": [
         "Alt-Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mwaxaw9xgxp63",
-      "artist": "Sade",
-      "album": "The Best of Sade",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1994歐版(477793 2)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Funk/Soul"
-      ],
-      "subgenres": [
-        "Smooth Jazz"
       ],
       "reserved": false
     },
