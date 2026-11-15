@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T12:29:19.726Z",
+  "generatedAt": "2026-11-15T17:44:17.175Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -491,28 +491,6 @@
       ],
       "subgenres": [
         "Musical"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mrrj1ibtlv3ip",
-      "artist": "David Bowie",
-      "album": "Earthling",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "含歌詞",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Art Rock"
       ],
       "reserved": false
     },
@@ -1239,28 +1217,6 @@
       ],
       "subgenres": [
         "Contemporary R&B"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "msyo1qgjzxygx",
-      "artist": "David Bowie",
-      "album": "1. Outside (The Nathan Adler Diaries: A Hyper Cycle)",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Industrial Rock"
       ],
       "reserved": false
     },
@@ -7561,28 +7517,6 @@
       ],
       "subgenres": [
         "Prog Metal"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mwhta7cr08u7p",
-      "artist": "The Beatles",
-      "album": "1",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2000亞版(7243 5 29325 2 8)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
       ],
       "reserved": false
     },
