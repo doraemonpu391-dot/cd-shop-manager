@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T10:26:33.209Z",
+  "generatedAt": "2026-11-15T12:29:19.726Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -7517,6 +7517,204 @@
       ],
       "subgenres": [
         "Trip Hop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwhta7cp6m3x7",
+      "artist": "Björk",
+      "album": "Gling-Glo",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2003美版(OLI 061)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Jazz"
+      ],
+      "subgenres": [
+        "Contemporary Jazz"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwhta7cr6ncfv",
+      "artist": "Dream Theater",
+      "album": "Metropolis Pt. 2: Scenes from a Memory + Through Her Eyes EP",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1999台版(62546-2)，CD+EP，含台版紙盒、中文介紹",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Metal"
+      ],
+      "subgenres": [
+        "Prog Metal"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwhta7cr08u7p",
+      "artist": "The Beatles",
+      "album": "1",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2000亞版(7243 5 29325 2 8)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwhta7cr8xxe6",
+      "artist": "Muse",
+      "album": "Origin of Symmetry",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2001英版(MUSH93CD)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwhta7crn5o4x",
+      "artist": "Yeah Yeah Yeahs",
+      "album": "It's Blitz!",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2009日版(UICP-1109)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwhta7creg3nu",
+      "artist": "Good Charlotte",
+      "album": "The Young and the Hopeless",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2002美版(EK 86486)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwhta7cr9dyyx",
+      "artist": "The Cranberries",
+      "album": "No Need to Argue",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1994美版(314-524 050-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwhta7cr6tqbl",
+      "artist": "Neil Young",
+      "album": "After the Gold Rush",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "美版(2283-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Country Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwhta7crnceke",
+      "artist": "Led Zeppelin",
+      "album": "BBC Sessions",
+      "price": "450",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1997日版(AMCY-2401~2)，2CD，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Classic Rock"
       ],
       "reserved": false
     }
