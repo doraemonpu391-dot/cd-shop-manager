@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T17:44:17.175Z",
+  "generatedAt": "2026-11-16T16:40:14.627Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -4305,28 +4305,6 @@
       "reserved": false
     },
     {
-      "id": "muy2b1n80zh5h",
-      "artist": "The Doors",
-      "album": "Strange Days",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1998日版(AMCY-3186)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Psychedelic Rock"
-      ],
-      "reserved": true
-    },
-    {
       "id": "muy2b1n8z93cv",
       "artist": "Eric Clapton",
       "album": "Pilgrim",
@@ -6292,22 +6270,6 @@
       "subgenres": [
         "Soundtrack/Stage"
       ],
-      "reserved": false
-    },
-    {
-      "id": "mw0dplekub9pg",
-      "artist": "King Crimson",
-      "album": "Larks'",
-      "price": "400",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": false,
-      "regions": [],
-      "genres": [],
-      "subgenres": [],
       "reserved": false
     },
     {
