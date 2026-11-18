@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T10:11:29.672Z",
+  "generatedAt": "2026-11-18T10:15:54.936Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -3171,28 +3171,6 @@
       "reserved": false
     },
     {
-      "id": "mub8kmp4foy4k",
-      "artist": "Black Rebel Motorcycle Club",
-      "album": "Howl",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2005美版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Indie Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mub8kmp4khivk",
       "artist": "One Direction",
       "album": "Take Me Home",
@@ -5675,28 +5653,6 @@
       ],
       "subgenres": [
         "Indie Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mvnkefmj12gap",
-      "artist": "Macy Gray",
-      "album": "On How Life Is",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1999歐版(494423.2)",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Funk/Soul"
-      ],
-      "subgenres": [
-        "Contemporary R&B"
       ],
       "reserved": false
     },
