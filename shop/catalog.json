@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T16:43:39.180Z",
+  "generatedAt": "2026-11-18T10:11:29.672Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -7611,6 +7611,204 @@
       ],
       "subgenres": [
         "Classic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwlyoje8hxh35",
+      "artist": "Björk",
+      "album": "Homogenic",
+      "price": "450",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1997日版(POCP 7275)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Electronic"
+      ],
+      "subgenres": [
+        "Experimental Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwlyoje8c7ofr",
+      "artist": "Foo Fighters",
+      "album": "The Colour And The Shape",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1997日版(TOCP-50186)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwlyoje82jwnl",
+      "artist": "D12",
+      "album": "D12 World",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2004日版(UICS 1077)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Hip-Hop/R&B"
+      ],
+      "subgenres": [
+        "Gangsta"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwlyoje8c040u",
+      "artist": "Led Zeppelin",
+      "album": "Led Zeppelin",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1995日版(AMCY-4005)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Classic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwlyoje8jjdbw",
+      "artist": "Gorillaz",
+      "album": "Demon Days",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2005歐版(0946 346592 2 2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Electronic"
+      ],
+      "subgenres": [
+        "Trip Hop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwlyoje8v64ku",
+      "artist": "Sting",
+      "album": "Ten Summoner's Tales",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1993日版(POCM-1021)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwlyoje95pe8x",
+      "artist": "Dr. Dre",
+      "album": "2001",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1999日版(MVCT-24063)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Hip-Hop/R&B"
+      ],
+      "subgenres": [
+        "G-Funk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwlyoje93qyo2",
+      "artist": "Pet Shop Boys",
+      "album": "Nightlife",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1999日版(TOCP-65333)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Electronic"
+      ],
+      "subgenres": [
+        "Synth-Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwlyoje9dcnfv",
+      "artist": "Whitney Houston",
+      "album": "I'm Your Baby Tonight",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1990美版(ARCD-8616)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Contemporary R&B"
       ],
       "reserved": false
     }
