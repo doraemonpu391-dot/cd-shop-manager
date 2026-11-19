@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T18:41:06.656Z",
+  "generatedAt": "2026-11-19T09:39:28.698Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -7765,6 +7765,204 @@
       ],
       "subgenres": [
         "Contemporary R&B"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwncz7jyg3wir",
+      "artist": "Ghosts and Vodka",
+      "album": "Addicts and Drunks",
+      "price": "900",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2003日版(DLC-006)，含英、日文解說，極稀有",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Midwest Emo"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwncz7jym7dfd",
+      "artist": "Carpenters",
+      "album": "Twenty-Two Hits of the Carpenters",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1995日版(POCM-1540)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Soft Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwncz7jy0fiuv",
+      "artist": "Rhye",
+      "album": "Woman",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2013歐版(3716952)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Indie Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwncz7jyya133",
+      "artist": "Sum 41",
+      "album": "Does This Look Infected?",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2002歐版(063 561-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwncz7jy73vdd",
+      "artist": "James Blake",
+      "album": "James Blake",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2011歐版(ATLAS02CD)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Neo Soul"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwncz7jy8xqnh",
+      "artist": "Jeff Beck",
+      "album": "Flash",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1985美版(EK 39483)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Blues Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwncz7jy1ha1h",
+      "artist": "Marvin Gaye",
+      "album": "What's Going On",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2004日版(UICY-9788)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Funk/Soul"
+      ],
+      "subgenres": [
+        "Soul"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwncz7jy1mr4q",
+      "artist": "Enigma",
+      "album": "The Screen Behind the Mirror",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2000歐版(7243 8 48606 2 2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Electronic"
+      ],
+      "subgenres": [
+        "New Age"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwncz7jyjmkr4",
+      "artist": "The Beatles",
+      "album": "Abbey Road",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2009日版(TOCP-71013)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
       ],
       "reserved": false
     }
