@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T09:39:28.698Z",
+  "generatedAt": "2026-11-19T10:03:47.685Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5119,28 +5119,6 @@
       "reserved": false
     },
     {
-      "id": "mvce2bavot0xw",
-      "artist": "The Cranberries",
-      "album": "Stars: The Best Of 1992-2002",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2002台版(063 277-2)，2CD，含中文歌詞",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Alt-Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mvdtr7h3ndvv4",
       "artist": "Michael Jackson",
       "album": "Number Ones",
@@ -7448,28 +7426,6 @@
       "gift": false,
       "notes": "2001英版(MUSH93CD)",
       "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Alt-Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mwhta7crn5o4x",
-      "artist": "Yeah Yeah Yeahs",
-      "album": "It's Blitz!",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2009日版(UICP-1109)，含英、日文歌詞解說",
-      "sideLabel": true,
       "hasImage": true,
       "regions": [
         "西洋"
