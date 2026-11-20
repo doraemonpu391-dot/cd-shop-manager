@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T10:06:37.200Z",
+  "generatedAt": "2026-11-20T09:10:30.076Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -7919,6 +7919,204 @@
       ],
       "subgenres": [
         "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwordt345teaw",
+      "artist": "Azure Ray",
+      "album": "Azure Ray",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2009台版(AG1090)，前衛花園發行",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Dreampop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwordt36igvqy",
+      "artist": "Devin Townsend Band",
+      "album": "Infinity",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1998日版(SRCS 8812)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Metal"
+      ],
+      "subgenres": [
+        "Prog Metal"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwordt37f0979",
+      "artist": "Various Artists",
+      "album": "Evita: The Complete Motion Picture Music Soundtrack",
+      "price": "120",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1996台版(9 46432-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Soundtrack/Stage"
+      ],
+      "subgenres": [
+        "Soundtrack/Stage"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwordt37vomca",
+      "artist": "Miguel",
+      "album": "Kaleidoscope Dream",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2012歐版(88883-73182-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Funk/Soul"
+      ],
+      "subgenres": [
+        "Contemporary R&B"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwordt37h6t6x",
+      "artist": "Erykah Badu",
+      "album": "Baduizm",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1997日版(MVCU-24001)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Funk/Soul"
+      ],
+      "subgenres": [
+        "Neo Soul"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwordt3767n01",
+      "artist": "Sigur Rós",
+      "album": "( )",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2002歐版(FATCD22)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Post Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwordt37byaj6",
+      "artist": "The Stone Roses",
+      "album": "Second Coming",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1994日版(MVCG-146)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Britpop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwordt37n19x5",
+      "artist": "Elton John",
+      "album": "Goodbye Yellow Brick Road",
+      "price": "450",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2011日版(UICY-20208)，高音質SHM-CD，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Classic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwordt37lm1os",
+      "artist": "Norah Jones",
+      "album": "Come Away with Me",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2002台版(7243 532088 20)，含台版紙盒、中文歌詞小海報，近新",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Jazz"
+      ],
+      "subgenres": [
+        "Contemporary Jazz"
       ],
       "reserved": false
     }
