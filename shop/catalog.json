@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T09:10:30.076Z",
+  "generatedAt": "2026-11-21T17:06:52.398Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -8117,6 +8117,402 @@
       ],
       "subgenres": [
         "Contemporary Jazz"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwpurcy82cqf9",
+      "artist": "Van Morrison",
+      "album": "Moondance",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1996日版(WPCR-602)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Folk Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwpurcy8nn658",
+      "artist": "Red Hot Chili Peppers",
+      "album": "The Getaway",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2016台版(9362-49201-5)，含中文歌詞",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwpurcy847h1j",
+      "artist": "Neil Young",
+      "album": "Tonight’s the Night",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1990日版(WPCP-3901)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Blues Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwpurcy8liceb",
+      "artist": "Traffic",
+      "album": "Far from Home",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1994美版(7243 8 39490 2 1)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Classic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwpurcy8ko0ky",
+      "artist": "Travis",
+      "album": "The Man Who",
+      "price": "120",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1999亞版(494624.2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwpurcy8n56of",
+      "artist": "Alanis Morissette",
+      "album": "So-Called Chaos",
+      "price": "120",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2004台版(936248555 2)，含台版紙盒、中文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwpurcy8krbji",
+      "artist": "F.I.R.",
+      "album": "F.I.R. 飛兒樂團",
+      "price": "200",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2004台版(5050467301221)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "華語"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwpurcy8emrwv",
+      "artist": "張震嶽",
+      "album": "秘密基地",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1998台版(MSD-048)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "華語"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwpurcy8yls87",
+      "artist": "Camera Obscura",
+      "album": "Let's Get Out of This Country",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2010日版(YOUTH-089)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwqnua8cfo0e5",
+      "artist": "King Crimson",
+      "album": "The Power to Believe",
+      "price": "500",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2003日版(UICE-1045)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Prog Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwqnua8cdk2yf",
+      "artist": "King Crimson",
+      "album": "Larks' Tongues in Aspic",
+      "price": "600",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2004歐版(DGM0505)，HDCD，Robert Fripp親自混音",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Prog Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwqnua8cpxpsk",
+      "artist": "King Crimson",
+      "album": "In the Court of the Crimson King",
+      "price": "500",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1990日版(VJCP-2301)，Robert Fripp親自混音，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Prog Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwqnua8cblkna",
+      "artist": "Suede",
+      "album": "Singles",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2003歐版(SIN 513604 2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Britpop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwqnua8cvs0q2",
+      "artist": "The Beach Boys",
+      "album": "Pet Sounds",
+      "price": "500",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2002日版(TOCP-66031)，HDCD，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Art Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwqnua8cvsd6e",
+      "artist": "The Rolling Stones",
+      "album": "Black and Blue",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1999日版(VJCP-68035)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Classic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwqnua8cs02xp",
+      "artist": "The Rolling Stones",
+      "album": "Goats Head Soup",
+      "price": "450",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1999日版(VJCP-68033)，含英、日文歌詞解說，羊頭湯藝術卡",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Classic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwqnua8c1tq4b",
+      "artist": "Sadistic Mika Band",
+      "album": "黑船",
+      "price": "600",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2003日版(TOCT-25113)",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Prog Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwqnua8cgkmx9",
+      "artist": "Crosby, Stills, Nash & Young",
+      "album": "Déjà Vu",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2005日版(WPCR-75050)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Country Rock"
       ],
       "reserved": false
     }
