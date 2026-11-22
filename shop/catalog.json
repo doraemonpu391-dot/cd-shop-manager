@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T17:06:52.398Z",
+  "generatedAt": "2026-11-22T09:28:09.531Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -8513,6 +8513,204 @@
       ],
       "subgenres": [
         "Country Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwrmw71596mpk",
+      "artist": "King Crimson",
+      "album": "Lizard",
+      "price": "600",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1989美版(EGCD 4)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Prog Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwrmw716qmfno",
+      "artist": "Tom Waits",
+      "album": "Rain Dogs",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2002日版(UICY-2403)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwrmw71695bki",
+      "artist": "Travis",
+      "album": "The Invisible Band",
+      "price": "120",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2001亞版(ISM 503050 2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Soft Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwrmw716g7oka",
+      "artist": "Gang of Four",
+      "album": "Entertainment!",
+      "price": "550",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2005日版(TOCP-53506)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Post Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwrmw716g707u",
+      "artist": "Red Hot Chili Peppers",
+      "album": "One Hot Minute",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1995歐版(9362-45733-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwrmw7160n6pa",
+      "artist": "Green Day",
+      "album": "Dookie",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1994美版(9 45529-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwrmw716v3yxf",
+      "artist": "Beth Gibbons & Rustin Man",
+      "album": "Out of Season",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2002歐版(066 574-2)，台灣環球進口",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwrmw716y2vc6",
+      "artist": "Guns N' Roses",
+      "album": "Use Your Illusion I",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1991美版(GEFD-24415)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Hard Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwrmw7168eld4",
+      "artist": "Maroon 5",
+      "album": "Songs About Jane",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2004台版(82876-63228-2)，含台版紙盒、中文歌詞介紹海報",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
       ],
       "reserved": false
     }
