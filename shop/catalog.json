@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T09:34:22.063Z",
+  "generatedAt": "2026-11-23T11:09:09.586Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -667,28 +667,6 @@
       ],
       "subgenres": [
         "Electro House"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "ms8y40pq0lric",
-      "artist": "Third Eye Blind",
-      "album": "Third Eye Blind",
-      "price": "250",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Grunge"
       ],
       "reserved": false
     },
@@ -1877,28 +1855,6 @@
       ],
       "subgenres": [
         "Indie Pop"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtfq85nlqvcml",
-      "artist": "Daft Punk",
-      "album": "Discovery",
-      "price": "1500",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "極稀有！2001日版首版(VJCP-68283)，含首版限定松本零士設計封套，含「日本先行販売」側標、英文小海報歌詞、日文歌詞解說、貼紙組、團員小卡（附件照片可私訊索取）",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Electronic"
-      ],
-      "subgenres": [
-        "French House"
       ],
       "reserved": false
     },
@@ -7095,28 +7051,6 @@
       "noPromo": false,
       "gift": false,
       "notes": "1999亞版(NUD 494243 2)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Britpop"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mwc4pfn93xrnb",
-      "artist": "Oasis",
-      "album": "(What's The Story) Morning Glory?",
-      "price": "500",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1995港版(481020 2)",
       "sideLabel": false,
       "hasImage": true,
       "regions": [
