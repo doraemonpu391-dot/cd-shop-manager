@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T11:09:09.586Z",
+  "generatedAt": "2026-11-23T11:31:18.871Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -8645,6 +8645,204 @@
       ],
       "subgenres": [
         "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwt6qeubs3f98",
+      "artist": "Foo Fighters",
+      "album": "Echoes, Silence, Patience & Grace",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2007美版(88697 11516-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwt6qeub31khc",
+      "artist": "Slash's Snakepit",
+      "album": "It's Five O' Clock Somewhere",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1995日版(MVCG-169)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Hard Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwt6qeubzi2hm",
+      "artist": "Primal Scream",
+      "album": "Riot City Blues",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2006歐版(82876831652)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Blues Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwt6qeubfbbye",
+      "artist": "New Order",
+      "album": "Waiting For The Sirens' Call",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2005日版(WPCR-12017)，Bonus Track，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Synth-Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwt6qeucqmhpw",
+      "artist": "Blink-182",
+      "album": "Blink-182",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2003日版(UICF-1018)，Bonus Track，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwt6qeuchkadk",
+      "artist": "Gino Vannelli",
+      "album": "Brother To Brother",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1988美版(CD 3170)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwt6qeuczd7zj",
+      "artist": "Arctic Monkeys",
+      "album": "Favourite Worst Nightmare",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2007港版(WIGCD188A)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwt6qeucmumv3",
+      "artist": "Pink Floyd",
+      "album": "Meddle",
+      "price": "700",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2000日版(TOCP-65557)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Prog Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwt6qeucbq00u",
+      "artist": "Macy Gray",
+      "album": "On How Life Is",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1999亞版(494423.2)，含2002 Sony廣告紙",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Funk/Soul"
+      ],
+      "subgenres": [
+        "Contemporary R&B"
       ],
       "reserved": false
     }
