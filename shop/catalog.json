@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T05:13:54.918Z",
+  "generatedAt": "2026-11-24T05:18:09.375Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -8183,28 +8183,6 @@
       ],
       "subgenres": [
         "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mwpurcy8emrwv",
-      "artist": "張震嶽",
-      "album": "秘密基地",
-      "price": "400",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1998台版(MSD-048)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "華語"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Indie Rock"
       ],
       "reserved": false
     },
