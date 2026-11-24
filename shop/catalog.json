@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T06:27:53.136Z",
+  "generatedAt": "2026-11-24T09:14:45.076Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -8755,6 +8755,204 @@
       ],
       "subgenres": [
         "Contemporary R&B"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwuhao9zpkp2q",
+      "artist": "U2",
+      "album": "War",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1993日版(PHCR-4703)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwuhao9zwtn6s",
+      "artist": "U2",
+      "album": "Boy",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1993日版(PHCR-4701)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwuhao9zw451i",
+      "artist": "U2",
+      "album": "The Joshua Tree",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1987日版(P35D-20034)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwuhaoa0sbd0z",
+      "artist": "The Verve",
+      "album": "Forth",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2008歐版(5099923604421)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Britpop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwuhaoa0w6klo",
+      "artist": "The Rolling Stones",
+      "album": "Stripped",
+      "price": "100",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1998日版(VJCP-18023)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Classic Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwuhaoa009f3l",
+      "artist": "65daysofstatic",
+      "album": "One Time For All Time",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2005英版(MONO-16)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Post Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwuhaoa0tichp",
+      "artist": "Stevie Wonder",
+      "album": "A Time 2 Love",
+      "price": "150",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2005歐版(602498621882)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Funk/Soul"
+      ],
+      "subgenres": [
+        "Soul"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwuhaoa0hyys0",
+      "artist": "The Band",
+      "album": "Music From Big Pink",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1995日版(TOCP-3155)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Folk Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwuhaoa0z4ul4",
+      "artist": "Yellowcard",
+      "album": "When You're Through Thinking, Say Yes",
+      "price": "250",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2011美版(HR725-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Punk"
       ],
       "reserved": false
     }
