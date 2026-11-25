@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T10:53:05.706Z",
+  "generatedAt": "2026-11-25T16:35:15.962Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5767,28 +5767,6 @@
       "reserved": false
     },
     {
-      "id": "mvt6yzjdjw35o",
-      "artist": "The Cranberries",
-      "album": "No Need to Argue",
-      "price": "120",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1994英版(CID 8029 524050-2)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Alt-Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mvt6yzjde6ddk",
       "artist": "Ace of Base",
       "album": "The Sign (Happy Nation U.S. Version)",
@@ -8910,7 +8888,7 @@
       "subgenres": [
         "Folk Rock"
       ],
-      "reserved": false
+      "reserved": true
     },
     {
       "id": "mwuhaoa0z4ul4",
@@ -8931,6 +8909,204 @@
       ],
       "subgenres": [
         "Pop Punk"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwwch1l3tgwmz",
+      "artist": "Weezer",
+      "album": "Maladroit",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2002日版(UICF-1007)，含英、日文歌詞解說",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwwch1l5t4qvm",
+      "artist": "John Lennon",
+      "album": "Lennon Legend (The Very Best Of John Lennon)",
+      "price": "120",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1997澳版(7243 8 21954 2 9)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Pop Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwwch1l6cuygk",
+      "artist": "The Last Shadow Puppets",
+      "album": "The Age Of The Understatement",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2008歐版(WIGCD208)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwwch1l6q5g5d",
+      "artist": "Daft Punk",
+      "album": "Human After All",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2005歐版(724356356207)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Electronic"
+      ],
+      "subgenres": [
+        "French House"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwwch1l6eamsr",
+      "artist": "Deep Purple",
+      "album": "In Rock",
+      "price": "350",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1987美版(1877-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Hard Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwwch1l64s8my",
+      "artist": "Arctic Monkeys",
+      "album": "Whatever People Say I Am, That's What I'm Not",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2006日版(WIGCD162J)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Indie Rock"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwwch1l6c08rf",
+      "artist": "Lorde",
+      "album": "Pure Heroine",
+      "price": "300",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "2013歐版(602537519002)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "subgenres": [
+        "Alt-Pop"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwwch1l61hmwp",
+      "artist": "XTC",
+      "album": "Oranges & Lemons",
+      "price": "400",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1989美版(9 24218-2)",
+      "sideLabel": false,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "New Wave"
+      ],
+      "reserved": false
+    },
+    {
+      "id": "mwwch1l6ds7cd",
+      "artist": "The Smashing Pumpkins",
+      "album": "Mellon Collie And The Infinite Sadness",
+      "price": "500",
+      "origPrice": "",
+      "noPromo": false,
+      "gift": false,
+      "notes": "1995日版(VJCP-25203・4)，含英、日文歌詞解說",
+      "sideLabel": true,
+      "hasImage": true,
+      "regions": [
+        "西洋"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "subgenres": [
+        "Alt-Rock"
       ],
       "reserved": false
     }
