@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T16:35:15.962Z",
+  "generatedAt": "2026-11-27T05:27:21.581Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -1569,28 +1569,6 @@
       ],
       "subgenres": [
         "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mt77v8c7clg9a",
-      "artist": "Led Zeppelin",
-      "album": "Houses Of The Holy",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2014歐版(8122-79582-8)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Classic Rock"
       ],
       "reserved": false
     },
@@ -7747,28 +7725,6 @@
       "reserved": false
     },
     {
-      "id": "mwncz7jy1ha1h",
-      "artist": "Marvin Gaye",
-      "album": "What's Going On",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2004日版(UICY-9788)，含英、日文歌詞解說",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Funk/Soul"
-      ],
-      "subgenres": [
-        "Soul"
-      ],
-      "reserved": true
-    },
-    {
       "id": "mwncz7jy1mr4q",
       "artist": "Enigma",
       "album": "The Screen Behind the Mirror",
@@ -8187,28 +8143,6 @@
       "reserved": false
     },
     {
-      "id": "mwqnua8cdk2yf",
-      "artist": "King Crimson",
-      "album": "Larks' Tongues in Aspic",
-      "price": "600",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2004歐版(DGM0505)，HDCD，Robert Fripp親自混音",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Prog Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mwqnua8cpxpsk",
       "artist": "King Crimson",
       "album": "In the Court of the Crimson King",
@@ -8249,28 +8183,6 @@
       ],
       "subgenres": [
         "Britpop"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mwqnua8cvs0q2",
-      "artist": "The Beach Boys",
-      "album": "Pet Sounds",
-      "price": "500",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2002日版(TOCP-66031)，HDCD，含英、日文歌詞解說",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Art Rock"
       ],
       "reserved": false
     },
@@ -8605,28 +8517,6 @@
       "reserved": false
     },
     {
-      "id": "mwt6qeubfbbye",
-      "artist": "New Order",
-      "album": "Waiting For The Sirens' Call",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2005日版(WPCR-12017)，Bonus Track，含英、日文歌詞解說",
-      "sideLabel": true,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Synth-Pop"
-      ],
-      "reserved": true
-    },
-    {
       "id": "mwt6qeucqmhpw",
       "artist": "Blink-182",
       "album": "Blink-182",
@@ -8867,28 +8757,6 @@
         "Soul"
       ],
       "reserved": false
-    },
-    {
-      "id": "mwuhaoa0hyys0",
-      "artist": "The Band",
-      "album": "Music From Big Pink",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1995日版(TOCP-3155)，含英、日文歌詞解說",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Folk Rock"
-      ],
-      "reserved": true
     },
     {
       "id": "mwuhaoa0z4ul4",
