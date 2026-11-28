@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T17:18:57.315Z",
+  "generatedAt": "2026-11-28T17:51:52.575Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -5741,28 +5741,6 @@
       ],
       "subgenres": [
         "Europop"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mvuji5ra9pvxn",
-      "artist": "David Gilmour",
-      "album": "About Face",
-      "price": "300",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1987美版(CK 39296)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Art Rock"
       ],
       "reserved": false
     },
