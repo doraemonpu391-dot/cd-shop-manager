@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T11:44:11.297Z",
+  "generatedAt": "2026-11-28T17:18:57.315Z",
   "items": [
     {
       "id": "mr6uytd0a8azc",
@@ -2383,28 +2383,6 @@
       ],
       "subgenres": [
         "Contemporary R&B"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mtwy0pz3mxfpk",
-      "artist": "The Strokes",
-      "album": "Angles",
-      "price": "350",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2011美版",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Indie Rock"
       ],
       "reserved": false
     },
@@ -8077,28 +8055,6 @@
       "reserved": false
     },
     {
-      "id": "mwpurcy8krbji",
-      "artist": "F.I.R.",
-      "album": "F.I.R. 飛兒樂團",
-      "price": "200",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "2004台版(5050467301221)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "華語"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
-      ],
-      "reserved": false
-    },
-    {
       "id": "mwpurcy8yls87",
       "artist": "Camera Obscura",
       "album": "Let's Get Out of This Country",
@@ -8799,28 +8755,6 @@
       ],
       "subgenres": [
         "Alt-Rock"
-      ],
-      "reserved": false
-    },
-    {
-      "id": "mwwch1l5t4qvm",
-      "artist": "John Lennon",
-      "album": "Lennon Legend (The Very Best Of John Lennon)",
-      "price": "120",
-      "origPrice": "",
-      "noPromo": false,
-      "gift": false,
-      "notes": "1997澳版(7243 8 21954 2 9)",
-      "sideLabel": false,
-      "hasImage": true,
-      "regions": [
-        "西洋"
-      ],
-      "genres": [
-        "Rock"
-      ],
-      "subgenres": [
-        "Pop Rock"
       ],
       "reserved": false
     },
